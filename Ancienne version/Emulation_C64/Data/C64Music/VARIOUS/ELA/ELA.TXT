@@ -1,0 +1,100 @@
+List of Tunes:
+FC1=Finnish Gold's FutureComposer
+FC2=later Beastie Boys' FutureComposer
+MS=Megastyle's editor
+The numbers are my personal ranking of the tune 0-9, 
+ a 9 means it's about my best, not ManiacsOfNoice Quality!
+And how much it's used 0-9 (not # of times), 0=Never released, 9=used by many
+
+
+1987/88-Music in SoundMonitor
+As a member of MG-2(Very unknown) and then Suppliers(SPL)
+--------------------------------------------------------------------------------
+intro       5,0 : One of my first
+enannen     3,0 : Starting to get frustrated
+filter      8,0 : Very nice bass 
+
+1988-Used Finnish Gold's FutureComposer
+As a member of Suppliers, but most tunes were used just by newly formed Antimon!
+--------------------------------------------------------------------------------
+hansinge    8,8 : A choirsong-transfer. An early hit and used a lot.
+secgalup    6,2 : Lots of bass riffs and little melody
+nobody's    3,2 : Used in a SmallShittyDemo by Suppliers
+stofdebo    7,0 : Made especially for SPL, never used!
+
+1988/89-Used newer FutureComposers by BeastieBoys etc.
+First 10 for Suppliers, the rest as a member of Cosine(English guys).
+Cosine had their own music division, but never had any intensions of 
+including me in it and letting me use their routine!
+--------------------------------------------------------------------------------
+alongsng    7,0 : Quite nice.
+complete    6,0 : Ok! But the ending is awful!
+summer      9,4 : Made out of an old synth-tune of mine.
+tune4       5,1 : A simple intro tune.
+frantic2    9,7 : Considered my best by others.
+		  PS: There never were a Frantic1.
+jch-like    5,0 : When i'd made it I needed a name. It sounded soewhat like
+	          JCH, so I gave it his name.
+hagen8      7,1 : Shorty. Cool though!
+rythmic	    6,1 : This has a weird count, kind of 5 beats instead of 4
+		  It's not 5/4 but ... something else .. A nice slap bass
+		  in the last sequence
+frantic3    9,2 : A great intro tune.
+concluded   7,0 : Made for the Errors, but they didn't use it.
+woods       7,0 : Short test! It works quite well.
+stup        9,1 : A well built tune with good melody (could this be?)
+megstyl1    8,0 : Made for Megatyle. Never used...Crapheads!
+cirkus      5,4 : It's a rotten tune, with lots of bass/filter
+                  and no melody.
+mixf        8,1 : Compo-tune for DatorMagazin. Never heard from'em.
+		  A mix of 3 different tunes.
+very        6,0 : Freak out!
+
+1990/91-Used Megastyle's editor.
+Quit Cosine, and got word from Megastyle that they wanted me as a member 
+making tons of intro/demo-tunes. I got their editor but they never used ANY
+of my music. Their player was based on JB/MON's Stormlord tunes. I decided to 
+join my local friends in the Norway/Finland/Germany-based group Antimon.
+Most of my music had been used by them anyway.
+--------------------------------------------------------------------------------
+desp        9,1 : Another one for Megastyle. What do they want?
+                  Used by Antimon
+flesk4      8,0 : This sound weird, but drives on & on.
+choir       2,0 : A somewhat choir-like tune!
+gemastyl    7,0 : An old FC-tune redone for MegaSYLTE! 
+
+1991-
+At this time I had started to make my own music routine but the scene had
+almost died out in Norway, so it was never finished. I made a lot of music
+in Henning Rokling's Panoramic routine, but later I found out that this was
+the only editor of theirs that didn't have an external player. I haven't
+managed to hack the routine yet, but when I do I will spread ca 5-6 of my 
+tunes from it + a tune Henning made just for Antimon in it. It's one of his
+best and really well planned/executed.
+
+Antimon 1996:
+The group dissolved after the Horizon 1991 easter party. At the 
+moment I know of only two active members: Me (ELA) and Zaphod Beeblebrox
+here in Lillehammer, Norway. Another member lives here too (Edge), but he
+can't remember who he lend his C64 to, so he's a dropout! 
+We are currently doing some work on PC for a Grocery-store-chain (or sumfin),
+and haven't got time for much C64. 
+
+Very last: We put together some old parts and made a new intro to a C64 demo.
+This won 1.prize at Gathering96/Norway. Too bad there was only one other
+contestant (some Amiga people put up an old part, 7 years old. They didn't
+even change the scrolltext. Didn't know how to anymore!). For this we won a
+GUS PnP Pro and some Microsoft Junk (C), that was supposed to be easysold.
+It wasn't coz they were English and noone wants that in norway. Who cares? 
+We are using the unofficial Nashville anyway. And yeah - the demo will be
+spread soon ... when we just pull ourselves together and make a release note.
+All demos from TG96 were put on a CD - except C64 coz they the organizers have
+NO idea about how to transfer C64 stuff to PC/Amiga. LAME! We'll spread it
+ourselves, but we are soooo lazy!
+
+Soon: 
+more SID-tunes from: Henning Rokling, Zardax, Sonix-Systems,Troopers and more!
+
+It's possible to reach Antimon at: zaphod@sn.no (short'n'ez).
+
+ELA of Antimon - 1.May-1996

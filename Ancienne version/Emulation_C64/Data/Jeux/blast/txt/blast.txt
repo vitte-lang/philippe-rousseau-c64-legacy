@@ -1,0 +1,1789 @@
+=================================================================
+Program                 Filename        Company             Year
+=================================================================
+10                      blast016.d64    Kinetic Designs      87 t
+10th Frame Bowling      blast195.d64    Access               86
+180 Darts               blast208.d64    Mastertronic         86
+1942                    blast105.d64    Elite                87 -
+1943                    blast044.d64    ?                    86
+1944                    blast238.d64    Elite                88 t
+1994                    blast152.d64    ?                    84
+20 Tons                 blast210.d64    ?                    84
+3-D Glooper             blast104.d64    ?                    83
+3-D Pacman              blast207.d64    Nufekop              82
+3-D Pool                blast255.d64    Firebird             89
+3-D Skramble            blast079.d64    Livewire             86
+3-D Soccer              blast215.d64    ?                    86
+3-D Tic Tac Toe         blast067.d64    Radarsoft            84
+45                      blast213.d64    Hitech               87
+4 op een rij            blast102.d64    ?                    82
+4 Times Reflex          blast206.d64    Anno                 91
+5-a-side Soccer         blast051.d64    ?                    85
+500cc Grand Prix        blast129.d64    Nen                  84
+5th Axis                blast134.d64    Loriciels            87
+720                     blast008.d64    U.S. Gold            87   
+720   II                blast290.d64    U.S. Gold            87
+911 Tiger Shark         blast076.d64    Elite                85
+A View to a Kill        blast123.d64    Domark               87
+AAaargh                 blast107.d64    Condor               82
+Abrasco Golf            blast218.d64    Hill                 83
+Ace                     blast093.d64    ?                    84
+Ace II                  blast141.d64    Cascade              87
+Ace Harrier             blast112.d64    ?                    84
+Ace of Aces             blast202.d64    Accolade             86
+Acia 8                  blast242.d64    ?                    89 
+Acidrunner              blast213.d64    Avalon               92 t
+Action Biker            blast075.d64    Mastertronic         84
+Acion Force             blast194.d64    ?                    87
+Actionauts              blast184.d64    Advanced Prg Tech    86
+Addicta Ball            blast029.d64    Alligata             87
+Ad Infinitum            blast256.d64    CWT                  86
+Adventure I             blast154.d64    ?                    83
+Adventure I             blast215.d64    ?                    85
+Adventure II            blast154.d64    ?                    84
+Adventure III           blast119.d64    ?                    85
+Adventure VIII          blast160.d64    ?                    86
+Adventure of the Year   blast116.d64    ?                    85
+African Adventure       blast107.d64    ?                    83
+African Safari          blast133.d64    Hodgetts             85
+Aftermath               blast215.d64    Cooper               84
+After The War I         blast281.d64    Dinamic              89 t
+After The War II        blast281.d64    Dinamic              89 t
+Afterworld              blast212.d64    Screwsoft            87 t
+Agent Orange            blast166.d64    ?                    85
+Agent USA               blast116.d64    ?                    85
+Ah Diddums              blast098.d64    ?                    84
+Aircop 2000             blast244.d64    Nuremberg            90 t
+Airline                 blast158.d64    Ariolasoft           84
+Air Support             blast089.d64    Synapse              84
+Airwolf I               blast075.d64    Elite                86
+Airwolf II              blast169.d64    Elite                87
+Alcazar                 blast209.d64    Activision           85
+Alien                   blast207.d64    Baer Bros            84
+Alien                   blast171.d64    Argus Press          83
+Alien Panic             blast059.d64    Bubble Bus           84
+Alien Rescue            blast125.d64    Arctronics           84
+Aliens                  blast045.d64    Electric Dreams      87
+All American Basketball blast235.d64    Zeppelin             92
+All Risks               blast131.d64    ?                    85
+Alley Kat               blast019.d64    Graftgold            86
+Alley Oops              blast194.d64    Artworx              83
+Alloy Run               blast211.d64    Starlight            89 t
+Almazz                  blast071.d64    Alligata             85
+Amazon                  blast217.d64    ?                    92 t
+Amazon Women            blast089.d64                         85
+Amazon Women            blast028.d64                         85
+Ambush                  blast205.d64    Virgin               85
+American 3D Pool        blast218.d64    Zeppelin             91
+American Cup Sailing    blast167.d64    ?                    87
+American Football       blast081.d64    Argus                84
+American Tag Team Wrest blast216.d64    Zeppelin             92
+Anarchy                 blast207.d64    Hewson               87 
+Andy Capp               blast234.d64    Mirrorsoft           85
+Angelball               blast240.d64    Firebird             88
+Annihalator             blast013.d64    ?                    83
+Annialator II           blast001.d64    ?                    84
+Anoria II               blast158.d64    ?                    83 t
+Ant Attacker            blast247.d64    Quicksilva           84
+Anter Planter           blast181.d64    Charlie Vale         85
+Antiriad                blast108.d64    ?                    83
+Ape Craze               blast166.d64    ?                    84
+Apple Cider Spider      blast139.d64    Sierra On-Line       84
+Apple Frenzy            blast215.d64    ?                    83
+Apple Bandits           blast086.d64    Sirius               83
+Aquaplane               blast153.d64    Quicksilva           85
+Aquanaut                blast212.d64    ?                    87 t
+Arac                    blast113.d64    ?                    87
+Arachne                 blast212.d64    ?                    85
+Arcade Classics         blast300.d64    ?                    87
+Arcade Flight Simulator blast215.d64    Codemasters          89 t
+Arcadia 64              blast078.d64    Imagine              85
+Arcana                  blast005.d64    NewGen               86
+Arc of Yesod            blast030.d64    Thor Computer        85
+Archon                  blast059.d64    Electronic Arts      83
+Archon II               blast045.d64    Electronic Arts      85
+Archipelagos            blast174.d64    Talent               86
+Arctic Hunt             blast298.d64    ?                    94 t
+Arctic Shipwreck        blast121.d64    f451                 85
+Arena                   blast197.d64    Microdeal            87
+Arena Football          blast217.d64    ?                    92
+Arkanifoe               blast216.d64    ?                    84
+Arkanoid                blast122.d64    Imagine              84 t
+Arkanoid II             blast014.d64    Imagine              88
+Arkanoid II             blast275.d64    Imagine              88
+Ark Pandora             blast300.d64    ?                    85
+Armada                  blast280.d64    ?                    88 t
+Armalyte                blast145.d64    Thalamus             88 tf
+Armourdillo             blast132.d64    ?                    85
+Arrmageddon             blast079.d64    Ocean                83
+Arrmageddon Man         blast277.d64    ?                    87    
+Arrow                   blast208.d64    Commodore            83
+Arrow of Death          blast093.d64    ?                    85
+Artillery               blast107.d64    ?                    84
+Artillery Duel          blast143.d64    Xonox                83
+Artillery Duel          blast158.d64    ?                    85
+Aspar GP Master         blast217.d64    ?                    88
+Assault Course          blast227.d64    Players              90 t
+Assault/Memory          blast075.d64    Super 64             84
+Asterix                 blast021.d64    Beam Soft            84   
+Asteroid Lander         blast151.d64    ?                    83
+Astral Zone             blast022.d64    Channel 8            83
+Astro Blaster           blast178.d64    Electronic Pin       83
+Astro Blitz             blast151.d64    ?                    83
+Astro Chase             blast137.d64    First Star           84
+Astro Mania             blast217.d64    ?                    87
+Astro Pilot             blast236.d64    ?                    84
+ATF                     blast206.d64    ?                    85
+Attack/Mutant Camels    blast174.d64    Llamasoft            85
+ATV Simulator           blast170.d64    ?                    87
+Auf Wiedersehn Monty    blast002.d64    Mastertronic         87
+Auriga                  blast189.d64    Players              86
+Automania               blast174.d64    Micro-gen            84
+Avenger                 blast166.d64    ?                    85
+Aztec Challenge         blast109.d64    Cosmi                82
+B1 Bomber               blast165.d64    ?                    82
+Baby of Can Guru        blast261.d64    ?                    85
+Back to the Future      blast058.d64    Electric Dreams      86
+Bag it Man              blast053.d64    ?                    84
+Bat Attack              blast013.d64    Alligatorsoft        83
+Batman I                blast240.d64    ?                    89
+Batman II               blast240.d64    ?                    89
+Bagbad                  blast127.d64    ?                    83
+Balakon Raider          blast292.d64    Interstel            86
+Ballblasta              blast142.d64    Zeppelin             89 t
+BallBlazer              blast108.d64    Epyx                 85 -
+Ballejte                blast131.d64    ?                    86
+Ballejte Ballejte       blast134.d64    ?                    86
+Ballejte Deluxe         blast142.d64    Vanderaart           87 t
+Ballejte Deluxe         blast158.d64    Vanderaart           87
+Ball Fever              blast283.d64    Cosmos Designs       91
+Balloon Rescue          blast025.d64    Courbois             83
+Ballystx                blast172.d64    Psygnosis            88
+Bananarama              blast091.d64    ?                    84
+Bananarama              blast123.d64    Hewson               87
+Bandana City            blast297.d64    ?                    84
+Bandit                  blast131.d64    ?                    85
+Bangers & Mash          blast195.d64    Ocean                84
+Bangkok Knights         blast222.d64    System 3             87 t
+Barbarian               blast100.d64    ?                    87
+Barbarian Combat Prac   blast100.d64    ?                    87
+Barmy Builders          blast106.d64    Ocean                84
+Barrier System          blast121.d64    Commodore            83
+Basil the Mouse         blast023.d64    Gremlin              86 t
+Batalyz                 blast126.d64    Llamasoft            86
+Battle Island           blast158.d64    ?                    83
+Battle of Britain       blast204.d64    ?                    86
+Battleship              blast186.d64    Pureme               87
+Battleships             blast167.d64    ?                    87
+Battle Through Time     blast063.d64    ?                    86
+Battle Valley           blast266.d64    ?                    88 t
+Battlezone              blast214.d64    Atari                83
+Batty                   blast285.d64    Hitpak               90
+Bazooka Bill            blast002.d64    Arcade               86
+BC's Quest for Tires    blast088.d64    Sierra On-line       84
+Beachhead               blast088.d64    Access               83
+Beamrider               blast094.d64    Activision           83
+Bear Bouver             blast140.d64    Jewelsoft            87
+Bear George             blast084.d64    Cheetahsoft          86
+Beat It                 blast190.d64    Mastertronic         87
+Bedlam                  blast009.d64    ?                    88 t
+Beer Belly Burt         blast057.d64    American Software    85
+Beverly Hills Cop       blast243.d64    Tynesoft             90
+Beyond                  blast107.d64    Galaxy Software      84
+Beyond the Ice Palace   blast294.d64    ?                    88 t
+Big G                   blast081.d64    Games People Play    85
+Biggles 1               blast092.d64    Mirrorsoft           86
+Biggles 2               blast092.d64    Mirrorsoft           86
+Big Mac                 blast200.d64    ?                    84
+Big Sleaze I            blast282.d64    Macmillan Ltd.       87
+Big Sleaze II           blast282.d64    Macmillan Ltd.       87
+Big Sleaze III          blast282.d64    Macmillan Ltd.       87
+Bigtop Barney           blast034.d64    ?                    85
+Big Trouble/Little Chi  blast123.d64    Electric Dreams      87 t
+Bionic Commando         blast226.d64    ?                    88 f
+Bionic Granny           blast012.d64    ?                    ?
+Billiards               blast108.d64    ?                    83
+Billy the Postman       blast173.d64    ?                    84
+Bizy Beez               blast149.d64    Solar Software       84
+Blackhawk               blast080.d64    Thorn EMI            84
+Black Knight            blast078.d64    Interdisc            85
+Black Thunder           blast175.d64    A.Crowther           84
+Black Magic             blast189.d64    ?                    88
+BlackWyche              blast010.d64    Firebird             85
+Blade Runner            blast101.d64    CRL Group            85
+Blagger                 blast001.d64    ?                    ?
+Blinding Training       blast138.d64    ?                    82
+Blitz                   blast157.d64    Courbois             83
+Blizzard                blast119.d64    ?                    85
+Block Blaster           blast209.d64    ?                    83
+Blue Max                blast007.d64    Synapse              85
+Blue Max                bluemax.prg     Synapse              85
+Blue MAx 2001           blast093.d64    Synapse              87
+Blue Moon               blast016.d64    Merlin               83
+Blue Print              blast062.d64    Bally                84
+Blue Thunder            blast085.d64    ?                    84
+Bmx Kidz                blast230.d64    ?                    88
+Bmx Simulator           blast049.d64    Mastertronic         84
+Bmx Simulator II        blast280.d64    Mastertronic         85
+Bmx Simulator II Pro    blast288.d64    Mastertronic         86
+Bmx Stunts              blast168.d64    ?                    86
+Bobby Bearing           blast172.d64    Edge                 85
+Bobsleigh               blast036.d64    Digital Intergration 87
+Boeing 727              blast059.d64    ?                    83
+Boika                   blast005.d64    ?                    84
+Boing                   blast289.d64    E&J                  89
+Bomb                    blast168.d64    ?                    85
+Bomb Fusion             blast291.d64    ?                    88
+Bombuzal                blast284.d64    ?                    88
+Bombo                   blast168.d64    ?                    85
+Bomb Jack               blast191.d64    Elite                86 t
+Bomb Jack II            blast133.d64    Elite                86
+Bonecruncher            blast195.d64    Superior Software    87
+Bonzo                   blast084.d64    ?                    87
+Boom                    blast255.d64    ?                    88 t
+Bop 'n' Rumble          blast143.d64    Beam                 87 t
+Boog A Boo              blast085.d64    ?                    82
+Booty                   blast218.d64    Firebird             84
+Borders Cricket         blast276.d64    Audiogenic           93
+Bosconian 87            blast057.d64    Mastertronic         87 t
+Boulderdash             blast104.d64    First Star           84
+Boulderdash II          blast074.d64    First Star           84
+Boulderdash II          blast116.d64    First Star           84
+Boulderdash III         blast079.d64    First Star           85
+Boulderdash V           blast102.d64    First Star           85
+Boulderdash VI          blast148.d64    First Star           84
+Boulderdash VII         blast102.d64    First Star           85
+Boulderdash VIII        blast182.d64    First Star           85
+Boulderdash IX          blast167.d64    First Star           86
+Boulderdash XI          blast160.d64    First Star           86
+Boulderdash 16 Game V   blast122.d64    First Star           83 
+Boulderdash Const Set   blast157.d64    First Star           87
+Boulderdash Pro         blast137.d64    First Star           84
+Bounce It               blast299.d64    ?                    -- -
+Bouncer                 blast269.d64    Magic Dish           92 t
+Bounces                 blast253.d64    ?                    87
+Bouncing Heads          blast261.d64    ?                    92 t
+Bounder                 blast264.d64    Gremlin              85
+Bounty Bob Strikes Back blast167.d64    U.S. Gold            85
+Bowling                 blast128.d64    CDS                  85
+Bowling                 blast283.d64    ?                    82
+Bowling Bann            blast123.d64    ?                    82
+Boxen                   blast144.d64    ?                    83
+Bozos Night Out         blast163.d64    Taskset              84
+Brainwave               blast246.d64    Paladin              90
+Bravestar               blast286.d64    Probe                87 t
+Breakdown               blast274.d64    ?                    92 t
+Breakdance              blast012.d64    Epyx                 84
+Breaker                 blast056.d64    Radarsoft            87
+Break Fever             blast079.d64    Interceptor          85
+Break In                blast079.d64    powerrun             87
+Break It                blast134.d64    ?                    86
+Breakout                blast023.d64    ?                    82
+Breakout Constru Set    blast155.d64    ?                    88 t
+Breakthru               blast019.d64    ?                    87 t
+Breakthru in 3D         blast196.d64    Avalon Hill          84
+Brian Bloodaxe          blast288.d64    XCS International    89
+Bride of Frankenstein   blast046.d64    smith                85
+Bristles                blast078.d64    First Star           83
+Bruce Lee               blast203.d64    Datasoft             83
+Bruce Lee               brucelee.d64    Datasoft             83
+Bubble Bobble           blast180.d64    Firebird             85
+Bubble Dizzy            blast258.d64    Reflective Designs   90 t
+Buck Rodgers            blast110.d64    Synapase             83
+Buffalo Roundup         blast102.d64    Commdore             83
+Bug Blast               blast142.d64    ?                    83
+Bug Blitz               blast063.d64    Ariolasoft           83  
+Buggy Boy               blast004.d64    Elite                86
+Bugsy I                 blast164.d64    ?                    84
+Bugsy II                blast164.d64    ?                    85
+Bulldog                 blast042.d64    ?                    88
+Bumping Buggies         blast200.d64    ?                    83
+Burgertime              blast106.d64    Interceptor          84
+Burnin' Rubber          blast122.d64    Colosoft             83
+Bushido                 blast251.d64    Graftgold            87 t
+Buzzard Ramjets         blast177.d64    Blaze                86
+Cabby                   blast127.d64    ?                    83
+Caesar the Cat          blast019.d64    Mirrorsoft           83
+California Goldrush     blast065.d64    Micro systems        83
+Campaign Manager        blast270.d64    ?                    85
+Candy Bandit            blast011.d64    T&F                  83
+Canyon of Zelaz         blast160.d64    ?                    83
+Captain America         blast022.d64    ?                    84
+Captain Blood           blast149.d64    ?                    88
+Captain Cactus          blast264.d64    sds                  94 t
+Captain Kid             blast297.d64    Lottmorien           85
+Cardrian Games          blast299.d64    Cardrian             90
+Card Sharks             blast234.d64    Accolade             87 t
+Car Race                blast135.d64    ?                    82
+Car Race                blast140.d64    ?                    82
+Car Rider               blast141.d64    ?                    85
+Carry on Laughing       blast295.d64    ?                    85
+Cash Bash               blast135.d64    ?                    86
+Casino King             blast270.d64    Smth                 85
+Castle Kingdom          blast127.d64    Music                85
+Castle Quest            blast275.d64    Commodore            83
+Castle of Doom          blast158.d64    ?                    82
+Cataball                blast067.d64    Hit Pak              85
+Catatastraphes          blast072.d64    ?                    83
+Caterpillar             blast258.d64    ?                    84
+Cave Climber            blast247.d64    ?                    82
+Cave Fighter            blast264.d64    ?                    84
+Cavelon                 blast141.d64    Ocean                84
+Cavelon                 blast270.d64    Jet Soft             84
+Caverns of Khafka       blast075.d64    Cosmi                83
+Centipede               blast158.d64    Atari                83
+Centripod               blast259.d64    ?                    83
+Centurions              blast030.d64    Ariolasoft           87 t
+Casino Royale           blast094.d64    Speer                84
+Castle Adventure        blast107.d64    ?                    83
+Castle Dungeon          blast156.d64    ?                    83
+Cataclysm               blast059.d64    Audiogenic           83
+Cauldron                blast113.d64    Palace Software      84
+Cauldron II             blast025.d64    Palace Software      86
+Cave Kooks              blast152.d64    Whaker               84
+Cavern Run              blast094.d64    ?                    85
+Caverns of Draphur      blast094.d64    Challis              85
+Caverns of Eribian      blast177.d64    Braine               84
+Caverns of Sillahc      blast054.d64    Challis              84
+Caves                   blast215.d64    ?                    85
+Caves on Ice            blast040.d64    Speedy Soft          84
+Centropod               blast96.d64     Commdata             84
+C'est La Vie            blast152.d64    Adventure Int        85
+Championship Sprint     blast290.d64    ?                    88
+Chicken Chase           blast263.d64    Jawk                 85
+Chilly Willy            blast175.d64    Sectorvision         83
+Chimera                 blast077.d64    Firebird             86
+China Miner             blast115.d64    ?                    85
+Chinese Juggler         blast063.d64    ?                    85
+Chip Nibbel             blast126.d64    ?                    85
+Chessmaster 2000        blast138.d64    ?                    85
+Cholo                   blast197.d64    Solid Images         85
+Chomperman              blast227.d64    ?                    84
+Choplifter              blast105.d64    Broderbund           82
+Chopper                 blast185.d64    Ruzin                84
+Chuckie Egg             blast287.d64    A&F Soft             84
+Chuck Norris            blast008.d64    Mastertronic         84
+CIA Adventure           blast259.d64    Hugh                 83
+CIA Agent               blast162.d64    ?                    85
+Circus                  blast086.d64    ?                    84
+Circus Circus           blast091.d64    Firebird             85
+Citadel                 blast280.d64    Electric Dreams      89 t
+City Attack             blast144.d64    Kiel                 84
+Cleanup Time            blast059.d64    ?                    87
+Clever and Smart        blast162.d64    ?                    87
+Clowns                  blast024.d64    Commodore            83
+Cobra                   blast003.d64    Elite                86
+Codename Mat II         blast065.d64    ?                    83
+Cohens Towers           blast072.d64    Datamost             83
+Coin Quest              blast269.d64    ?                    85
+Collapse                blast214.d64    ?                    85
+Collussus Chess         blast083.d64    Colussus             84
+Color of Magic          blast170.d64    Macmillan Press      86
+Combat School           blast231.d64    Ocean                87
+Combat Zone             blast056.d64    Graftgold            87 t
+Comic Bakery            blast097.d64    Imagine              83
+Compare                 blast269.d64    Dynamic Arts         94 t
+Compunet                blast144.d64    ?                    88 t
+Computer Trivia         blast101.d64    ?                    83
+Commando                blast050.d64    Elite                85
+Commando 86             blast131.d64    ?                    86
+Commando II             blast009.d64    Elite                86
+Commodore               blast095.d64    Commodore            83
+Compunet Saga           blast238.d64    ?                    88
+Concentration           blast097.d64    Stack                82
+Concord Landing Sim.    blast262.d64    ?                    85
+Coney Island            blast198.d64    ?                    84
+Confusion               blast262.d64    Incentive            85
+Congo Bongo             blast055.d64    Sega                 83
+Connect 4               blast229.d64    Atlantis             84
+Convoy Raider           blast055.d64    Gremlin              87
+Cops and Robbers        blast151.d64    ?                    86
+Countdown to Metldown   blast066.d64    ?                    83
+Count Duckula           blast296.d64    Cosgrove             89
+Core                    blast031.d64    ?                    85
+Cosmic Balance          blast060.d64    Cablesoft            84
+Cosmic Capers           blast097.d64    Superiorsoft         84
+Cosmic Causeway         blast041.d64    Mr. Chips            87
+Cosmic Commando         blast210.d64    ?                    84
+Cosmic Convoy           blast106.d64    ?                    83
+Cosmic Pirate           blast259.d64    Palace               89 t
+Cosmic Split            blast257.d64    ?                    82
+Cosmic Tunnels          blast177.d64    Datamost             83
+Cosmonut                blast277.d64    Codemasters          87
+Cluedo                  blast048.d64    Leisure Genius       88
+Crackers Revenge        blast118.d64    ?                    86
+Crackers Revenge        blast127.d64    ?                    86
+Crackers Revenge II     blast262.d64    ?                    84
+Cracks of Fire          blast073.d64    Supersoft            87
+Cranmore                blast292.d64    Logyx                92
+Crash                   blast161.d64    Corilsoft            83
+Crazy Balloon           blast021.d64    Software Projects    83   
+Crazy Cars              blast279.d64    Titus                88 t
+Crazy Caveman           blast020.d64    Merlin               83
+Crazy Climber           blast164.d64    ?                    83
+Crazy Coaster           blast277.d64    M.A.D.               89
+Crazy Comets            blast127.d64    ?                    88
+Crazy Commando          blast177.d64    ?                    85
+Crazy Kong              blast157.d64    Interceptor          83
+Crazy Sprite            blast132.d64    ?                    83
+Creators Revenge        blast293.d64    ?                    85        
+Cricket International   blast269.d64    ?                    85
+Crillion                blast237.d64    ?                    88 t
+Crillion II             blast298.d64    ?                    90 t
+Crime & Punishment      blast268.d64    ?                    84
+Crisis Mountain         blast136.d64    Creative             83
+Crossfire               blast006.d64    Sierra               84
+Cross It                blast268.d64    ?                    90
+Crosstrainer            blast260.d64    ?                    84
+Crossword Twister       blast028.d64    Stack                83
+Crucible                blast270.d64    ?                    89 t
+Cruel Zone              blast260.d64    Creamsoft            92 t
+Crystal Castles         blast139.d64    Atari                84
+Crystal Cave            blast278.d64    ?                    89
+Crystal Kingdom Dizzy   blast257.d64    Codemasters          92 t
+Crystals of Zong        blast183.d64    Cymbal               83
+Ctet                    blast165.d64    ?                    82
+Cubin                   blast290.d64    Magic Disk           92
+Cuddley Cuburt          blast274.d64    Interceptor          85
+Cue Boy                 blast264.d64    Codemasters          89
+Cuthbert in Space       blast081.d64    ?                    84
+Cyberball               blast300.d64    ?                    94 t
+Cyberdyne Warrior       blast259.d64    Hewson               92 t
+Cybermen                blast267.d64    Micro S              83
+Cybernoid               blast273.d64    Hewson               90
+Cybernoid II            blast254.d64    Hewson               91 t
+Cybertron               blast095.d64    Micropower           84
+Cyborg 2000             blast259.d64    3d Development       91
+Cyborx                  blast102.d64    Quicksoft            86
+Cybotron                blast201.d64    Anirog               81
+Cyclons 64              blast088.d64    ?                    84 
+Cyclons 64              blast021.d64    ?                    84       
+Cyruss II               blast075.d64    ?                    85
+Daley Thompson Super T  blast160.d64    Ocean                87 t
+Daley Thompson OC (1)   blast236.d64    Ocean                88 f
+Daley Thompson OC (2)   blast237.d64    Ocean                88 f
+Daley Thompson OC Deca  blast286.d64    Ocean                88   
+Dambusters              blast109.d64    Avantage             84
+Dancing Monster         blast018.d64    Commodore            82   
+Dan Dare                blast151.d64    Virgin               86
+Dan Dare II             blast240.d64    Virgin               88
+Dan Dare III            blast290.d64    Probe                89 t
+Dandy                   blast267.d64    Electric Dreams      86
+Danger Mouse            blast045.d64    Thorn EMI            87
+Danger Mouse II         blast205.d64    Thorn EMI            88
+Dare Devil Dennis       blast177.d64    Software Factory     85
+Dark Dungeons           blast279.d64    ?                    83
+Dark Side               blast275.d64    ?                    89
+Darth Vader             blast289.d64    ?                    83
+Darts                   blast264.d64    Funnysoft            85
+Dater                   blast267.d64    Commodore Disk       91 t
+Davis Cup               blast143.d64    ?                    83
+Dbug                    blast300.d64    Electronic Arts      85
+Deactivators            blast009.d64    ?                    86
+Death or Glory          blast128.d64    ?                    88
+Deathscape              blast250.d64    ?                    87
+Deathstar               blast147.d64    ?                    84
+Deathstar Interceptor   blast204.d64    System3              84
+Deathwake               blast047.d64    Softrunner           85 
+Deathwish III           blast037.d64    Gremlin              87 t
+Decapriolen             blast090.d64    Picadilly            84
+Decathlon               blast088.d64    Activision           84
+Deep Space              blast201.d64    Sidgeon              85
+Deep Strike             blast073.d64    Durell               86
+Defcom                  blast266.d64    Quicksilva           86              
+Defender                blast016.d64    Interceptor          84
+Defender                blast155.d64    Atari                83
+Deflector               blast195.d64    Vortex               87
+De Grotten Van Oberon   blast174.d64    Radarsoft            85
+Deliverance             blast182.d64    A-Jervis             87
+Delta                   blast120.d64    M.A.D.               85
+Delta II                blast271.d64    M.A.D.               87
+Demolition Division     blast105.d64    DLM                  83
+Demon Attack            blast037.d64    Imagic               84
+Denarius                blast281.d64    Firebird             87 t
+De Sekte                blast296.d64    ?                    85
+Desert Fox              blast027.d64    Accolade             85
+Desert Hawk             blast299.d64    Players              86
+Desert Race             blast135.d64    Commodore Info       84
+Destruct                blast267.d64    ?                    87 t
+Detective Game          blast107.d64    ?                    83
+Devils Wheel            blast203.d64    ?                    85
+Diablo                  blast196.d64    ?                    84
+Dickys Diamonds         blast231.d64    ?                    83
+Dictator                blast109.d64    ?                    83
+Die Alien Slime         blast298.d64    Mastertronic         89 t
+Die Pyramids            blast292.d64    Magic Disk           89
+Dig Dug                 blast055.d64    Atari                84
+Dinky Doo               blast201.d64    Software Projects    85
+Dino Eggs               blast071.d64    Sierra               83
+Di's Baby               blast106.d64    Bad Taste            84
+Discovery               blast028.d64    ?                    85 t
+Ditris                  blast275.d64    Magic Soft           91
+Dizaster Blaster        blast297.d64    ?                    88
+Dizzy Dice              blast284.d64    Codemasters          87
+Dizzy Down the Rapids   blast258.d64    Codemasters          90 t
+Dizzy Prime/Yolk Folk   blast257.d64    Codemasters          92 t
+DNA Warrior             blast271.d64    Artronic             89 t
+Dog Fight 2187          blast115.d64    ?                    85
+Dolphin's Rune          blast020.d64    Mindscape            86
+Donald Duck             blast043.d64    ?                    84
+Donald the Hero         blast293.d64    Fabbing Soft         88
+Donkey Kong             blast065.d64    Atari                83
+Doomworld               blast076.d64    Illusions            85
+Doriath                 blast042.d64    Virgin               86
+Double Breakout         blast278.d64    ?                    89
+Double Dragon II        blast228.d64    Binary Design        92 t
+Double Take             blast260.d64    Ocean                91
+Double Trouble          blast272.d64    ?                    92 t
+Doughboy                blast278.d64    Synapse              84
+Draconus                blast144.d64    ?                    87 t
+Dragons Den             blast040.d64    Commodore            83
+Dragonfire              blast088.d64    Imagic               83
+Dragon Hawk             blast085.d64    Creative Software    83
+Dragons Lair II         blast065.d64    Projectsof           86
+Dragon Ninja            blast147.d64    Imagine              88 t
+Draughts                blast024.d64    ?                    84
+Draw Poker              blast110.d64    ?                    83
+Dreadnought             blast105.d64    ?                    82
+Dream Warrior           blast186.d64    U.S. Gold            88
+Drelbs                  blast079.d64    ?                    84
+Driller                 blast015.d64    Freescape            87
+Drink & Drown           blast068.d64    B.B.B.               84
+Dr. J                   blast125.d64    ?                    85
+Dr. Jackal/Mr. Wide     blast076.d64    Mastertronic         87
+Dr. Watt                blast260.d64    Hall                 84
+Droids                  blast096.d64    ?                    86
+Drop Zone               blast110.d64    ?                    86
+Druid                   blast142.d64    Firebird             86 t
+Druid II                blast183.d64    Firebird             87
+Druids Moon             blast260.d64    ?                    88
+Duck Shoot              blast149.d64    Mr. Chip             87
+Ducks Away              blast215.d64    CBS                  84
+Duel                    blast299.d64    Pioneer              83
+Duizenden               blast206.d64    ?                    83
+Duo Letterburp          blast142.d64    Vanderaart           87
+Duo Lettertroop         blast141.d64    Vanderaart           85
+Dynamite Ban            blast029.d64    Mirrorsoft           85
+Dynamite skier          blast205.d64    ?                    84
+Dynamix                 blast297.d64    Digital Design       88 t
+Eagle Empire            blast019.d64    Alligatorsoft        84
+Eagles Nest             blast049.d64    Ocean                87
+Earth Warrior           blast240.d64    ?                    89
+Egbert                  blast051.d64    Game Machine         84
+Eindeloos               blast085.d64    Radarsoft            85
+Electrix                blast157.d64    ?                    85
+Elite                   blast015.d64    Firebird             85
+Emerald Isle            blast165.d64    Kingsoft             85
+Emlyn Hughes Soccer     blast263.d64    Audiogenic           88
+Emotion                 blast291.d64    Accolade             90 t
+Empire                  blast265.d64    Firebird             86
+Empire Strikes Back     blast272.d63    Domark               92 t
+Encounter               blast299.d64    Novagen              84
+Endless                 blast172.d64    ?                    86
+Enduro Racer            blast043.d64    ?                    88
+Energy Warrior          blast271.d64    ?                    88 t
+Enforcer                blast031.d64    FX Arcade            87
+Enigma Force            blast103.d64    ?                    85
+Enter the Ninja         blast173.d64    ?                    83
+Equalizer               blast050.d64    ?                    88 t
+Equinox                 blast027.d64    Microgen             85 t
+Eric the Viking         blast157.d64    Section 8            83
+Escape from Zol         blast274.d64    ?                    84
+Escape MCP              blast105.d64    ?                    81             
+Espial                  blast014.d64    Tigervision          84
+E.T.                    blast159.d64    ?                    83
+Eurogames               blast122.d64    ?                    87
+Everyones a Wally       blast037.d64    Microgen             86
+Evil Crown              blast136.d64    ?                    87
+Evil Dead               blast113.d64    Palace Software      84
+Evolution               blast175.d64    Sydney               84
+Exolon                  blast042.d64    Hewson               87 t
+Exploding Fists         blast020.d64    ?                    85
+Exploding Fists II      bkast185.d64    ?                    87
+Exploding Fists III     blast105.d64    ?                    87
+Express Raider          blast012.d64    ?                    87
+Exterminator            blast123.d64    Bubble Bus           83
+F&F Skating             blast129.d64    F&F                  87
+Fabulous Wanda          blast119.d64    ?                    85
+Facemaker               blast020.d64    Spinnaker            82
+Falcon                  blast295.d64    Virgin               87
+Falcon Patrol           blast108.d64    ?                    85
+Falcon Patrol           blast216.d64    Virgin               83
+Fall Guy                blast097.d64    Elite                85
+Fairlight               blast041.d64    The Edge             87
+Fast Eddie              blast012.d64    Sirius               82
+Feasiblity Experiment   blast127.d64    ?                    83
+Federation              blast187.d64    Cal                  87
+Fernandez Must Die      blast190.d64    Imageworks           88 t
+Fifth Quadrant          blast200.d64    ?                    86
+Fighting Warrior        blast295.d64    ?                    88
+Fighter Pilot           blast047.d64    Digital Intergration 84
+Final Conquest          blast201.d64    ?                    83
+Finders Keepers         blast161.d64    Mastertronic         87
+Fire Ant                blast131.d64    ?                    85
+Firefly                 blast184.d64    Special FX           88 t
+Firelord                blast165.d64    ?                    85
+Fire One                blast283.d64    Epyx                 83
+Firetrap                blast181.d64    Electric Dreams      87 t
+Firetrax                blast192.d64    Cygni                87
+Fistful of Bucks        blast153.d64    Ocean                85
+Flak                    blast133.d64    ?                    87
+Flash Gordon            blast119.d64    ?                    88
+Flash Gordon II         blast119.d64    ?                    88
+Flash Gordon III        blast119.d64    ?                    88
+Flight 747              blast113.d64    Or SOft              84
+Flight Path 737         blast116.d64    Or Soft              84
+Flip Flop               blast299.d64    Electronic Arts      84
+Flip 'n' Flop           blast090.d64    First Star           84
+Flyer Fox               blast056.d64    Game Gems            84
+Flying Ace              blast109.d64    ?                    84
+Flying Shark            blast251.d64    Firebird             87 t
+Footballer of the Yr I  blast124.d64    Gremlin              86
+Footballer of the Yr II blast238.d64    Gremlin              89
+Football Manager        blast075.d64    Addictive Games      83
+Football Strategy       blast178.d64    Microcomputer Games  83
+Forbidden Forest        blast093.d64    Cosmi                83
+Forbidden Forest II     forbidii.d64    Cosmi                88
+Force                   blast169.d64    ?                    85
+Force-7                 blast121.d64    Coolsoft             87
+Forced Encounter        blast152.d64    ?                    84
+Fort Apocalypse         blast100.d64    Synapse              82
+Fraction Fever          blast164.d64    Spinnaker            83
+Frak!                   blast061.d64    Statesoft            85
+Frantic Freddie         b;ast280.d64    ?                    84
+Fred                    blast200.d66    Quicksilva           86
+Freddy Hardest I        blast230.d64    Dinamic              87 t
+Freddy Hardest II       blast230.d64    Dinamic              87 t 
+Frenzy                  blast065.d64    Micro Power          82
+Frontline               blast106.d64    ?                    85
+Frostbyte               blast174.d64    ?                    87
+Friday the 13th         blast039.d64    ?                    88
+Frightmare              blast283.d64    ?                    90
+Frogger                 blast108.d64    Parker Brothers      83
+Frogger II              blast140.d64    Parker Brothers      85
+Frog Master             blast024.d64    Commodore            83
+Frogrun                 blast065.d64    ?                    83
+Fruity                  blast137.d64    ?                    86
+Fungus                  blast163.d64    ?                    83
+Future Night            blast006.d64    Gremlin Graphics     86
+Galacto Honoris         blast177.d64    ?                    84
+Galaga                  blast129.d64    Wening               81
+Galatic Meteors         blast119.d64                         85
+Galaxabirds             blast013.d64    Firebird             86
+Galaxian                blast166.d64    Atari                83
+Galaxions               blast159.d64    Solar Software       83
+Game of Life            blast097.d64    Stack                83
+Game Over               blast036.d64    Imagine              87
+Game with no Name       blast129.d64    Foley                87
+Gammaron                blast203.d64    ?                    85
+Gandalf the Sorceror    blast066.d64    ?                    85
+Gangbusters             blast169.d64    ?                    84
+Garfield                blast016.d64    Edge                 87 t
+Garry Linneker Super    blast168.d64    ?                    87
+Gateway to Apshai       blast153.d64    Epyx                 83
+Genesis                 blast040.d64    Datamost             88
+Gerloc                  blast101.d64    ?                    83
+Gforce                  blast206.d64    ?                    85
+Ghetto Blaster          blast038.d64    Interdisc            85
+GhostBusters            blast001.d64    Activision           84 t
+Ghosthunt               blast132.d64    Commodore            83
+Ghosts 'n' Goblins      blast206.d64    Elite                86
+Ghouls                  blast089.d64    Micropower           84
+Ghouls 'n' Ghosts       blast147.d64    Capcom               85 t
+Giana Sisters           blast136.d64    Newwave              86 t
+Giana Sisters II        blast248.d64    Newwave              89 t
+Gilligans Gold          blast137.d64    Ocean                86
+Girls Just Wanna/Fun    blast087.d64    New Wave             87 x
+Give My Regard/Street   blast098.d64    Abbey Rd             83
+Glider Pilot            blast177.d64    ?                    84
+Gnome                   blast069.d64    ?                    85
+Go                      blast098.d64    Stack                83
+Go Bang                 blast103.d64    Radarsoft            84
+Go Go the Ghost         blast098.d64    ?                    83
+Golden Baton            blast137.d64    ?                    84
+Golf 64                 blast205.d64    Essential Computing  84
+Gooves Test Cricket     blast128.d64    Audiogenic           85
+Gorf                    blast052.d64    Commodore            83
+Gothik                  blast239.d64    Firebird             89 t
+Grand Larceny           blast039.d64    ?                    88
+Grand Master Chess      blast126.d64    Kingsoft             82
+Grand Prix              blast017.d64    ?                    86       
+Grand Prix Tennis       blast066.d64    Mastertronic         85
+Grange Hill             blast183.d64    ?                    87
+Grave Robbers           blast208.d64    Robinson             82
+Great Road Race         blast043.d64    Activision           85
+Greenhouse              blast018.d64    Commodore            82
+Great Courts            blast297.d64    ESP Ltd.             87
+Great Gurianos          blast018.d64    Hit Pak              87
+Grebus                  blast174.d64    Virgin               86
+Green Beret             blast010.d64    Imagine              86
+Gremlins                blast088.d64    Artwork              83
+Gremlins                blast276.d64    Atari                84
+Gribblys Day Out        blast220.d64    Hewson               86
+Gridder                 blast207.d64    ?                    83
+Gridiron                blast187.d64    ?                    87
+Gridtrap                blast083.d64    Livewire             83
+Gridrunner              blast002.d64    Llamasoft            83
+Gridrunner              blast133.d64    Llamasoft            83
+Grogs Revenge           blast044.d64    Sydney               84
+Ground Gobbler          blast004.d64    Sierra               83
+Grungy Towers           blast119.d64    ?                    85
+Gryphon                 blast041.d64    Gremlin              86
+Guadacanal              blast063.d64    Activision           87
+Gumshoe                 blast095.d64    ?                    84
+Gun Dogs                blast198.d64    ?                    84
+Gunfight                blast122.d64    ?                    87
+Gunstar                 blast171.d64    ?                    87
+Gunstar                 blast237.d64    Firebird             87
+Gutz                    blast185.d64    Special FX           87 t
+Gyropod                 blast131.d64    ?                    84
+Gyroscope               blast073.d64    Catalyst             85
+Gyroscope II            blast095.d64    Catalyst             86
+Gyroscope III           blast076.d64    Catalyst             87
+Gyroscope Const. Set    blast187.d64    ?                    86
+Gyruss                  blast114.d64    Parker Brothers      84
+Hacker                  blast085.d64    Activision           83
+Hacker II               blast067.d67    Activision           86
+Hades                   blast202.d64    Posmanx              85  
+Halls of Death          blast132.d64    Stewart              87
+Halls of Things         blast066.d44    ?                    83 t
+Halycon                 blast157.d64    Kingsoft             87 t
+Handball Maraduna       blast189.d64    ?                    86
+Handicap Golf           blast073.d64    CRL Group            84
+Harball                 blast089.d64    Accolade             85
+Hard Hat Climber        blast113.d64    ?                    86
+Hard Hat Mack           blast037.d64    Electronic Arts      83
+Harrier Attack          blast080.d64    ?                    85
+Harvey Headbanger       blast177.d64    Firebird             86
+Hat Trick               blast151.d64    Capcom               87
+Haunted House           blast094.d64    Alligata             83
+Hawkeye                 blast146.d64    Thalamus             88 t
+Hawkmen Of Dreden       blast152.d64    ?                    85
+Headache                blast280.d64    Firebird             84
+Head On                 blast268.d64    ?                    83
+Head Over Heels         blast162.d64    ?                    85
+Head The Ball           blast289.d64    Hewson               89 t
+Heartland               blast289.d64    Ocean                86
+Heist                   blast156.d64    Microfun             84
+Herby                   blast112.d64    ?                    85
+Hercules                blast249.d64    Gremlin Graphics     88 t
+H.E.R.O.                blast070.d64    Activision           84
+Hell                    blast119.d64    ?                    85
+Hells Bells             blast263.d64    Duncsewski           85
+Hell Gate               blast266.d64    Llamasoft            84
+Hellhole                blast025.d64    Interactive          90 t
+Henry's House           blast054.d64    Murray               84
+Herby Thriller          blast053.d64    Radarsoft            85
+Hercules                blast036.d64    Interdisc            84
+Herebotix               blast026.d64    ?                    84
+Hexpert                 blast150.d64    ?                    83
+Hi Bouncer              blast299.d64    Mirrorsoft           84
+Hideous Bill            blast125.d64    Virgin               83
+High Frontier           blast061.d64    ?                    87
+Highlander I            blast155.d64    ?                    86
+Highlander II           blast155.d64    ?                    86
+Highlander III          blast155.d64    ?                    86
+High Noon               blast063.d64    ?                    86
+Hitchhikers Guide       blast153.d64    ?                    84
+Hobbit                  blast138.d64    ?                    83
+Hocus Focus             blast070.d64    ?                    85
+Hole in One             blast029.d64    ?                    88
+Hollywood or Bust       blast005.d64    Mastertronic         86
+Hoodoo Voodoo           blast031.d64    Marsh                86
+Hopeless                blast017.d64    Radarsoft            86
+Hoppin Mad              blast192.d64    Elite                88
+Hot Pop                 blast265.d64    ?                    87
+House of Usher          blast236.d64    ?                    84
+Houston                 blast162.d64    ?                    82
+Hover Bouver            blast125.d64    Llamasoft            83
+Howard the Duck         blast004.d64    Activision           87
+How to/Complete Bastard blast277.d64    Virgin               87
+Humanoids               blast177.d64    ?                    86
+Human Race              blast102.d64    Mastertronic         86
+Humdinger               blast121.d64    Mr. Chip             88
+Hunchback               blast087.d64    Ocean                83
+Hunchback II            blast039.d64    Ocean                85
+Hunchback Olympics      blast125.d64    Ocean                86
+Hungry Horace           blast110.d64    ?                    84
+Hunter                  blast009.d64    Colosoft             83
+Hustler                 blast265.d64    Bubble Bus           84
+Hypaball                blast163.d64    Odin                 84
+Hyper Active            blast143.d64    ?                    87 t
+Hyper Biker             blast092.d64    Mastertronic         86
+Hyper Bowl              blast130.d64    Mad                  86
+Hyper Circuit           blast202.d64    Alligata             85
+Hyper Force             blast233.d64    ?                    87
+Hyper Hen               blast133.d64    Lunasoft             83
+Iball                   blast171.d64    ?                    87
+Iball II                blast287.d64    ?                    89
+Icicle Works            blast152.d64    Commodore            85 t
+Ihmotep                 blast128.d64    Ultimate             88
+Ikari Warriors          blast012.d64    Elite                88
+Impossible Mission      blast011.d64    Epyx                 83
+Incredible Eggs         blast137.d64    ?                    85
+Indiana Jones/Lost K    blast035.d64    ?                    85
+Indoor Sports           blast221.d64    Mindscape            87
+Inferno                 blast008.d64    ?                    83
+Infiltraitor II         blast099.d64    ?                    86
+Infdroid                blast213.d64    ?                    87
+Inheritance II          blast017.d64    ?                    85
+Intensity               blast194.d64    Firebird             87
+Inside Outing           blast181.d64    ?                    87
+Inspector Gadjet        blast061.d64    Melbourne House      87
+Inspector Gadjet        blast109.d64    Melbourne House      87
+International Basketb   blast074.d64    Commodore            83
+International Hockey    blast171.d64    Artwork/Advantage    84
+International Karate    blast078.d64    System 3             86
+International Karate II blast078.d64    System 3             87
+International Karate II blast152.d64    System 3             87 t
+International Tennis    blast115.d64    Artworx              84
+Invade A Load           blast248.d64    ?                    87
+Invaders 64             blast214.d64    Livewire             86
+Invasion II             blast064.d64    Bulldog              85
+Invasion Fall           blast140.d64    ?                    83
+Iridis Alpha            blast169.d64    ?                    86
+Isnogud                 blast190.d64    ?                    88
+I-xera                  blast043.d64    Unicom design        87 t
+Jackal                  blast026.d64    Konami               87 t
+Jackpot 64              blast213.d64    Mr. Chip             84
+Jack the Nipper         blast112.d64    ?                    83
+Jailbreak               blast170.d64    ?                    86
+Jammin                  blast069.d64    ?                    85
+Java Jim                blast093.d64    ?                    83
+Jawbreaker              blast024.d64    ?                    82
+Jeepers Creepers        blast236.d64    ?                    83
+Jet Boot Jack           blast254.d64    English Software     83
+Jetboys                 blast035.d64    CRL Group            87
+Jet Pac                 blast210.d64    ?                    86
+Jet Pack Jack           blast094.d64    ?                    85
+Jet Set Willy           blast256.d64    ?                    84
+Jetski Simulator        blast214.d64    Codemasters          90
+Joe Blade               blast010.d64    ?                    87
+Joe the whiz Kid        blast119.d64    ?                    85
+Johnny Reb I            blast079.d64    ?                    84
+Johnny Reb II           blast176.d64    ?                    84
+Journey/Center Earth    blast176.d64    Ozisoft              83
+Joust                   blast068.d64    Atari                84
+Judge Dredd             blast284.d64    ?                    90
+Juice                   blast090.d64    Tronix               83
+Jukebox                 blast155.d64    Spinnaker            84
+Jump Challenge          blast071.d64    Martech              84
+Jumping Jack            blast074.d64    Livewire             84
+Jumpman Junior          blast087.d64    Epyx                 83
+Jumpy Stomp             blast013.d64    Nibbles & Bits       83
+Jungle Jack             blast207.d64    Conord               85
+Jungle Hunt             blast013.d64    Atari                85
+Jungle Quest            blast045.d64    Solar Software       85
+Jungle Patrol           blast242.d64    ?                    89
+Jungle Trouble          blast144.d64    Durell               83
+Jupiter Lander          blast200.d64    Commodore            82
+Kaiv                    blast067.d64    Screenplay           82
+Kakivs                  blast057.d64    Supersoft            83
+Kamikaze                blast298.d64    ?                    89 t
+Kane                    blast028.d64    Mastertronic         85
+Kato                    blast069.d64    ?                    85
+Kat Trap                blast186.d64    ?                    87 t
+Kermit Storymaker       blast230.d64    ?                    84
+Kettle                  blast048.d64    Crowther             85
+KGB Agent               blast287.d64    Wanterer             87
+Kickman                 blast119.d64    Bally                83
+Kick Off                blast108.d64    ?                    84
+Kickstart               blast078.d64    Mastertronic         85
+Kickstart II            blast053.d64    Mastertronic/chip    87
+Kid Grid                blast018.d64    Tronix               83
+Killer Rings            blast079.d64    Byte engineers       85 t
+Killerwatt              blast094.d64    Alligata             84
+King Tuts Tomb          blast176.d64    ?                    82
+Knight Games I          blast293.d64    English Software     87 t
+Knight Games II         blast293.d64    English Software     87 t
+Knight Games III        blast293.d64    English Software     87 t
+Knightmare              blast021.d64    Activision           87
+Knightrider             blast114.d64    Ocean                86
+Knockout                blast288.d64    ?                    84
+Knotie in Cave          blast185.d64    Software Production  86
+Knucklebuster           blast073.d64    ?                    84
+Knucklebusters          blast275.d64    Melbourne House      86
+Kokotoni wilf           blast204.d64    Elite                84
+Kong 64                 blast072.d64    ?                    83
+Kongo Kong              blast210.d64    Victory              83
+Kong Strikes Back       blast084.d64    Ocean                84
+Kosmokobos              blast156.d64    ?                    82
+Krackout                blast133.d64    ?                    85
+Krackout                blast261.d64    ?                    89
+Krackout II             blast273.d64    ?                    90 t
+Krackout III            blast296.d64    ?                    91
+Krackout IV             blast296.d64    ?                    91
+Krazy Kong              blast100.d64    ?                    84
+Krisp                   blast129.d64    Sprites              85
+Kromazone               blast275.d64    Mastertronic         89
+Kruis Puzzle            blast102.d64    ?                    83
+Kruiswood               blast119.d64    ?                    85
+Krypton                 blast084.d64    ?                    85
+Kung Fu Master          blast039.d64    Data East            87
+Kwah                    blast032.d64    Price                85
+Labyrinth               blast090.d64    Murcott              83
+Lady Tut                blast178.d64    Progame              84
+Lands of Havoc          blast205.d64    ?                    85
+Laser Force             blast195.d64    Codemasters          87 t
+Laser Strike            blast208.d64    ?                    83
+Laser Wheel             blast123.d64    Mastertronic         87
+Laser Zone              blast095.d64    Llamasoft            82
+Last Mission            blast214.d64    Data East            87 t
+Last Ninja (1)          blast224.d64    System 3             87 t
+Last Ninja (2)          blast225.d64    System 3             87 t
+Last V8                 blast032.d64    Mastertronic         87
+Laurel & Hardy          blast253.d64    Advanced Software    87
+Lazarian                blast127.d64    ?                    83
+Lazy Jones              blast084.d64    ?                    84
+Leaderboard             blast040.d64    Access               86
+Legend of Kage          blast052.d64    Imagine              87
+Legend of Sinbad        blast006.d64    Superior Software    86
+Legionairre             blast136.d64    ?                    82
+Lemans                  blast111.d64    ?                    84
+Lemonade Stand          blast191.d64    Commodore            82
+Lethal                  blast157.d64    Quantum              88 t
+Letterbrij              blast133.d64    ?                    84
+Leviathan               blast134.d64    English Software     87 t
+License to Kill         blast285.d64    Domark               89 t
+Lifeforce               blast196.d64    ?                    87 
+Lightforce              blast166.d64    ?                    85
+Lightsaver              blast165.d64    ?                    85
+Little Cats Maze        blast238.d64    Teamsoft             88
+Little Computer People  blast008.d64    Activision           84   
+Liverpool               blast211.d64    Grandslam            89 t
+Living Daylights        blast182.d64    Domark               87 t
+Live and Let Die        blast288.d64    ?                    84
+Livingstone             blast020.d64    Operasoft            82
+Loco                    blast153.d64    A.Crowther           85
+Lode Runner             blast066.d64    Broderbund           83
+Lonely Rider            blast251.d64    ?                    85
+Lost Dutchmans Gold     blast141.d64    ?                    83
+Lost in The Labyrinth   blast097.d64    Sorge                82
+Lunar Leeper            blast069.d64    Sierra               81
+Made in France II       blast132.d64    ?                    86
+Mad Balls               blast186.d64    Ocean                87
+Mad Party Fucker        blast192.d64    Stretch              85 x
+Mad Planets             blast135.d64    ?                    85
+Maggot Mania            blast015.d64    Commodore            83
+Magic Carpet            blast033.d64    ?                    88
+Magic Micro Mission     blast132.d64    ?                    87
+Magnetron               blast285.d64    Firebird             88
+Magnum Force            blast006.d64    ?                    86 t
+Mah-Jong                blast074.d64    Collusus             87
+Mah-Jong Tutoe          blast077.d64    Collusus             87
+Manic Miner             blast287.d64    ?                    83
+Mangrove                blast162.d64    ?                    85
+Marauder                blast159.d64    ?                    86 t 
+Marbke Secret           blast163.d64    ?                    82
+Mario Bros.             blast077.d64    Atari                84
+Mario Bros. II          blast292.d64    Riffs                87
+Master of Magic         blast276.d64    ?                    87
+Master of the Lamps b   blast060.d64    Activision           85
+Masters of The Universe blast120.d64    U.S. Gold            87 t
+Masters of The Universe blast284.d64    Gremlin              87 t
+Master of The Universe2 blast132.d64    U.S. Gold            87 t
+Matchday                blast053.d64    Ocean                87
+Matchdayz               blast013.d64    ?                    84
+Matchmaker              blast126.d64    Microspec            85
+Math Marathon           blast136.d64    English Software     84
+Mathpoint               blast087.d64    ?                    84
+Matrix                  blast038.d64    ?                    87
+Max Headroom            blast102.d64    Binary Design        85
+Max Torque              blast172.d64    Bubble Bus           87
+Maze Mania              blast272.d64    Hewson               88
+Mean City               blast181.d64    Quicsilva            87
+Mean Streak             blast180.d64    Mirrorsoft           87
+Mediator                blast153.d64    English Software     86
+Mega Apocalypse         blast159.d64    ?                    86
+Megablast               blast074.d64    Llamasoft            88
+Memory                  blast128.d64    ?                    87
+Mercenary               blast252.d64    ?                    86
+Mercenary 2nd City      blast022.d64    ?                    83
+Merlin                  blast276.d64    Lewis                83
+Mermaid Madness         blast040.d64    Software Design      86
+Metagalactic Llamas     blast021.d64    ?                    84
+Metranaut               blast055.d64    Brunhurst            85
+Metroblitz              blast193.d64    ?                    86
+Metro-Cross             blast033.d64    ?                    85
+Miami Dice              blast278.d64    ?                    85
+Miami Vice              blast046.d64    ?                    86
+Micro Mouse             blast083.d64    Lotherner            85
+Micro Painter           blast142.d64    Players              87 t
+Midnight Magic          blast068.d64    Electronic Arts      85
+Midway Campaign         blast080.d64    Zimmer               87
+Mighty Bombjack         blast291.d64    Elite                91
+Mikie                   blast023.d64    Imagine              86
+Mind Control            blast196.d64    ?                    88
+Miner 1861              blast128.d64    ?                    84
+Miner 2049'er           blast177.d64    Big 5                83
+Mine Zone               blast261.d64    ?                    83
+Miser                   blast129.d64    ?                    83
+Missile Command         blast093.d64    ?                    83
+Mission A.D.            blast041.d64    O.C.G.               86
+Mission Assault         blast161.d64    ?                    86
+Mission Elevator        blast096.d64    Ocean                87
+Mission Genocide        blast137.d64    ?                    88 t
+Mission Impossibubble   blast289.d64    ?                    89
+Mobster                 blast143.d64    ?                    87 t
+Moby Dick               blast061.d64    ?                    84
+Moebius                 blast054.d64    Infinite Cams        87
+Moes Nebula             blast278.d64    Paranoid             87
+Moguls Revenge          blast261.d64    Mastertronic         87
+Molecule Man            blast070.d64    ?                    85
+Monolith Quake-1        blast172.d64    Mindscape            85
+Monopole                blast071.d64    Commodore            83
+Monopole Ned            blast131.d64    ?                    82
+Monopoly                blast023.d64    Leisure Genius       84
+Monsters Attack         blast090.d64    Siren                83
+Monster Smash           blast134.d64    Datamost             83
+Montezuma's Revenge     blast114.d64    Parker Brothers      84
+Monty Mole              blast165.d64    ?                    85
+Monty on the Run        blast127.d64    Gremlin              85
+Moon                    blast164.d64    ?                    82
+Moonbuggy               blast114.d64    ?                    83
+Moon Cresta             blast077.d64    Incentive Software   85
+Mooncrisis              blast249.d64    Raysoft              87
+Moon Dust               blast231.d64    ?                    84
+Moon Patrol             blast151.d64    Avalon Hill          83
+Moonraid                blast273.d64    ?                    90 t
+Moon Shadow             blast184.d64    ?                    87 t
+Moonshuttle             blast094.d64    Datasoft             83
+Moord in Het Flatgeboon blast095.d64    Speedysoft           84
+Moose                   blast141.d64    Loose Moose          87
+Morpheus                blast193.d64    Gratfgold            88
+Motocross               blast191.d64    Xonox                84
+Motocross Rider         blast128.d64    Xonox                84
+Motormania              blast190.d64    UMI                  82
+Mountain Bike Racer     blast298.d64    ?                    93 t
+Mountain King           blast218.d64    ?                    83
+Movie Monster           blast095.d64    ?                    84
+Mr. Dig                 blast297.d64    Microdeal            84
+Mr. Do's Castle         blast065.d64    Parker Brothers      85
+Mr. Cool                blast090.d64    ?                    84
+Mr. Frosty              blast156.d64    Gameworks            83
+Mr. Robot               blast108.d64    ?                    86
+Mr. TnT                 blast158.d64    ?                    84
+Mr. Weems               blast199.d64    Macmillam Ltd.       87
+Mr. Wimpy               blast217.d64    Ocean                84
+Mrs. Mop                blast193.d64    Reakcon              87
+Mrs. Pacman             blast239.d64    Atari                85
+Mugsy's Revenge         blast091.d64    ?                    85
+Munchmaze               blast119.d64    ?                    85
+Munchy                  blast059.d64    Atari                83
+Murder                  blast278.d64    Stanton              83
+Murphy                  blast137.d64    Mogul                85
+Mushroom Alley          blast077.d64    Victory              83
+Mutant Monty            blast290.d64    Arctic               84
+Mutants                 blast167.d64    ?                    82
+Mutant Spider           blast278.d64    ?                    89 t
+My Chess II             blast007.d64    Datamost             83
+Mystery of the Nile     blast140.d64    Firebird             87 t
+Mystery Spell           blast088.d64    ?                    82
+NACC                    blast170.d64    ?                    88
+Nam Rescue              blast173.d64    ?                    85
+Naughty Times           blast137.d64    XXX                  85 x
+Nebraska Joe            blast281.d64    Systems              88
+Nebulus                 blast036.d64    Hewson               88 t
+Necromancer             blast099.d64    Synapse              83
+Nederlinksr             blast157.d64    /                    82
+Nemesis                 blast039.d64    ?                    88
+Nemesis                 blast121.d64    ?                    87
+Nemesis Warlock         blast116.d64    IPC                  87
+Neoclyps                blast052.d64    Cymbal               83
+Neptunes Daughter       blast216.d64    English Software     83
+Netherworld             blast217.d64    Hewson               88 t
+Neutral Zone            blast076.d64    ?                    83
+New Panthers East       blast049.d64    ?                    85
+Nexus                   blast178.d64    ?                    86
+Nibly                   blast119.d64    ?                    85
+Nick Faldo              blast135.d64    ?                    85
+Night Driver            blast001.d64    Atari                83
+Nightmare Planet        blast120.d64    ?                    83
+Night Mission Pinball   blast070.d64    ?                    85
+Nightshade              blast175.d64    Firebird             85
+Nimble Timble           blast144.d64    ?                    83
+Ninja                   blast063.d64    M.A.D.               86
+Ninja Master            blast124.d64    ?                    87 -
+N.O.M.A.D.              blast033.d64    Ocean                86
+Noach 3000              blast134.d64    Vaanderaart          83
+nordsee Helicopter      blast115.d64    ?                    85
+Nosferatu               blast130.d64    ?                    86
+Nuclear Embargo         blast027.d64    ?                    85
+Nuclear Reaction        blast163.d64    ?                    82
+Number Nabbler          blast101.d64    Commodore            83
+NYC                     blast068.d64    Synapse              87
+Oils Well               blast130.d64    Datamost             83
+Ole'                    blast050.d64    Firebird             87
+Ollies Follies          blast093.d64    ?                    85
+Olo                     blast091.d64    Harric               86
+Olympic Skier           blast029.d64    Mr. Chip             83
+Omega Planet            blast058.d64    ?                    84
+Omega Race              blast024.d64    Commodore            83
+Omega Run               blast053.d64    ?                    88
+Omicorn                 blast218.d64    ?                    82
+On Court Tennis         blast198.d64    Gamestar             84
+On Court Tennis II      blast274.d64    Gamestar             87
+On Cue                  blast176.d64    Mastertronic         88
+One on One              blast069.d64    Electronic Arts      83
+On Field Football       blast072.d64    Gamestar             84
+Operation Anuria        blast031.d64    ?                    87
+Operation Ironhawk      blast053.d64    ?                    87
+Operation Wolf          blast206.d64    ?                    87 t
+Optima Rax              blast052.d64    Zig Zag              88 t
+Orileys Mine            blast098.d64    Datamost             83
+Orpheus in the Underwld blast091.d64    ?                    84
+Osmium                  blast156.d64    Power House          83 t
+Ossidokid               blast190.d64    Softgraf             85
+Othello                 blast098.d64    Stack                82
+Othello                 blast158.d64    ?                    82
+Oui & Lissa             blast061.d64    ?                    85
+Outlaw                  blast143.d64    Hawk                 84
+Outlaws                 blast030.d64    A.C.G.               85
+Outrun A                blast082.d64    ?                    87 t
+Outrun B                blast082.d64    ?                    87 t
+Outrun C                blast082.d64    ?                    87 t
+Outrun E                blast083.d64    ?                    87 t
+Over the Rainbow        blast110.d64    ?                    85
+Pacland                 blast011.d64    Quicksilva           88
+Pacman                  blast182.d64    Burden               83
+Pacman                  blast009.d64    Atari                83
+Pacmania                blast288.d64    Grandslam            88 t
+Pain                    blast196.d64    ?                    83
+Painter Boy             blast149.d64    ?                    87
+Pakacuda                blast096.d64    Comm Data            82
+Pandora                 blast024.d64    Firebird             86
+Panic 64                blast271.d64    Interceptor          85
+Panic Dizzy             blast257.d64    Codemasters          91 t
+Paperboy                blast005.d64    Elite                86
+Paradroid               blast050.d64    Graftgold            86
+Parallax                blast017.d64    London Software      83
+Parallax                blast007.d64    Ocean                86
+Paratroopers            blast121.d64    KBR                  83
+Park Patrol             blast205.d64    Activision           84
+Party Games             blast035.d64    ?                    85 x
+Pastfinder              blast143.d64    Activision           84
+Pedro                   blast062.d64    Imagine              84
+Pegasus Oddysey         blast116.d64    ?                    85
+Penetrator              blast139.d64    ?                    85
+Pengo                   blast096.d64    ?                    94
+Perseus & Andromeda     blast118.d64    ?                    85
+Pesky Painter           blast232.d64    ?                    85
+Petch                   blast015.d64    ?                    85
+Pet Guess               blast117.d64    ?                    85
+Phantom Karate Devils   blast077.d64    Phantomsoft          84
+Pharoahs Curse          blast262.d64    Synapse              84
+Phase4                  blast058.d64    Channel 8            84
+Pigs in Space           blast018.d64    ?                    83   
+Pinball Const. Set      blast295.d64    Electronic Arts      84
+Pinball Wizard          blast175.d64    ?                    84
+Ping Pong               blast048.d64    ?                    85
+Ping Pong               blast184.d64    Konami               85
+Pink Panther            blast234.d64    ?                    84
+Pintable                blast162.d64    ?                    83
+Pipes                   blast138.d64    Creative Software    83
+Piracy                  blast040.d64    Ace                  88
+Pit                     blast272.d64    H.E.S.               83
+Pitfall                 blast089.d64    Activision           83
+Pitfall                 blast135.d64    ?                    84
+Pitfall II              blast086.d64    Activision           85
+Pitstop                 blast058.d64    Epyx                 83
+Pitstop II              blast001.d64    Epyx                 84
+Pixie Pete              blast105.d64    Perkins              83
+Photony                 blast135.d64    Radvms               83
+Planet Attack           blast157.d64    ?                    82
+Planet Rover            blast119.d64    ?                    85
+Playful Professor       blast071.d64    Screenplay           84
+Plitsche Platsche       blast144.d64    ?                    84
+Plumb Crazy             blast003.d64    ?                    83
+P.O.D.                  blast057.d64    Mastertronic         88 t
+Pod                     blast068.d64    2010                 87
+Pogo Joe                blast091.d64    Screenplay           83
+Pole Position           blast103.d64    Atari                83
+Police Academy II       blast062.d64    Methodic Solutions   88 t
+Poltergeist             blast287.d64    ?                    88 
+Polyps from Pluto       blast139.d64    Porter               83
+Pooyan                  blast109.d64    Datasoft             83
+Popeye                  blast053.d64    ?                    84
+Popeye II               blast048.d64    ?                    85
+Potty Pigeon            blast138.d64    ?                    86 -
+Pow                     blast068.d64    2010                 87
+Power Drift             blast269.d64    Activision           87
+Prehistoric Age         blast055.d64    Domark               84
+Prohibition             blast073.d64    Infrogames           87 t
+Protector II            blast109.d64    ?                    83
+Prowler                 blast057.d64    Mastertronic         87
+PSI-5                   blast077.d64    Accolade             87
+Psycho Soldier          blast291.d64    Imagine              87 t
+Pul-Man                 blast117.d64    ?                    85
+Purple Turtles          blast138.d64    Moire                83
+Pyramid                 blast286.d64    ?                    85
+Pyramid Pete            blast174.d64    Platt                84
+Q-bert                  blast051.d64    Parker Brothers      83
+Q-bopper                blast016.d64    Accelerated Software 83
+Quark IX                blast085.d64    Commodore            83
+Quary                   blast099.d64    Jetsoft              83
+Quasar                  blast006.d64    Voyager              82
+Quasimodo               bkast248.d64    Synapse              85
+Quedex                  blast188.d64    Thalamus             87 t
+Quintana Roo            blast186.d64    Sunrise              84
+Quintic Warrior         blast120.d64    ?                    83
+Questprobe I            blast096.d64    Adventure Int        83
+Quinx                   blast105.d64    ?                    82
+Quovadis                blast273.d64    ?                    84
+Radar Rat Race          blast118.d64    Commodore            83
+Rack 'em Up             blast020.d64    Accolade             84
+Radius                  blast263.d64    ?                    87 t
+Raid on Bungeling Bay   blast252.d64    Broderbund           84
+Rags to Riches          blast069.d64    ?                    85
+Raid 2000               blast171.d64    Mirrorsoft           87
+Rail Road               blast101.d64    ?                    82
+Rail Road               blast142.d64    Radarsoft            84
+Rainbow Islands         blast246.d64    Graftgold            89
+Rainbow Walker          blast077.d64    Synapse              83
+Rally Driver            blast107.d64    ?                    87
+Rallye                  blast138.d64    ?                    85
+Rally Speedway          blast035.d64    Commodore            84
+Rambo II                blast006.d64    Elite                85 t
+Rampage Game            blast194.d64    ?                    87
+Ramparts                blast046.d64    ?                    88
+Ranch                   blast133.d64    Spinnaker            84
+Ransom the King         blast170.d64    ?                    84
+Rapid Fire              blast142.d64    Mastertronic         87
+Rastan                  blast224.d64    ?                    87 t
+Rattler                 blast204.d64    Atlantis             84
+Reactor Run             blast176.d64    Golden               85
+Realm of Undead         blast141.d64    ?                    84
+Rebel                   blast106.d64    Virgin               87
+Rebel Planet            blast026.d64    ?                    82
+Rebound                 blast140.d64    ?                    83
+Rebounder               blast018.d64    Gremlin              87
+Reckless Rufus          blast258.d64    Alternative Software 92 t
+Recon                   blast201.d64    Mastertronic         87 t
+Red Alert               blast075.d64    Mr. Chip             85
+Red Arrows              blast151.d64    ?                    85
+Red De Aarde            blast153.d64    ?                    83
+Red Led                 blast022.d64    Starware             87 t
+Reken Wonder            blast246.d64    Radarsoft            89
+Renegade                blast019.d64    Ocean                87
+Renegade f-16           blast017.d64    Lunasoft             82   
+Renaissance             blast024.d64    UMI                  82
+Repton                  blast015.d64    Sirius               83
+Rescue on Fractalus     blast279.d64    Epyx                 85
+Rescue Squad            blast296.d64    Muse                 83
+Retroball               blast060.d64    HES                  82
+Return of the Jedi      blast262.d64    Domark               87 t
+Revenge/Mutant Camels   blast199.d64    Llamasoft            85
+Revolverhead            blast133.d64    Vaanderaart          83
+Revs                    blast011.d64    Firebird             87   
+Return to Eden          blast023.d64    Level 9              84
+Rick Dangerous          blast282.d64    Firebird             90 t
+Rictoffens Revenge      blast157.d64    ?                    82
+Ring of Power           blast072.d64    Quicksilva           83
+Ring Master             blast062.d64    ?                    85
+Risk                    blast193.d64    Edge                 87
+River Rescue            blast138.d64    Creative Sparks      84
+River Raid              blast014.d64    Activision           83
+RMS Titanic             blast003.d64    ?                    83
+Rnest                   blast015.d64    Colorsoft            84
+Roadblasters            blast253.d64    atari                88 t
+Road Roller             blast017.d64    Knightsoft           84
+Road Warrior            blast025.d64    C.R.C.               88
+Road Wars               blast281.d64    ?                    89
+Robbers / Lost Tomb     blast149.d64    Timeworks            84
+Robin Hood              blast139.d64    Xonox                84
+Robin of Sherwood       blast034.d64    ?                    85
+Robin of the Wood       blast014.d64    O.C.G.               85                    
+Robin to the Rescue     blast016.d64    Solar Software       83
+Robocop                 blast229.d64    Ocean                88
+Robotron                blast088.d64    Atari                83
+Rock                    blast074.d64    ?                    84
+Rocketball              blast064.d64    Section 8            85
+Rocket Rodger           blast099.d64    Alligata             84
+Rock 'n' Bolt           blast052.d64    ?                    86
+Rocky Horror Picture Sw blast094.d64    ?                    84
+Rods 'n' Heroes         blast083.d64    ?                    87
+Roger Rabbit (1)        blast219.d64    Buena Vista          88
+Roger Rabbit (2)        blast220.d64    Buena Vista          88
+Roller Board            blast182.d64    Capitol Software     87 t
+Roller Coaster          blast139.d64    ?                    82
+Roller Coaster Rumbler  blast238.d64    ?                    88
+Rollin                  blast005.d64    Nord                 84
+Rolling Thunder         blast183.d64    ?                    87
+Romulus                 blast274.d64    Quicksilva           86
+Room Ten                blast202.d64    Complex              85
+Rootin Tootin           blast210.d64    HES                  83
+Roulette                blast224.d64    ?                    83
+Roundabout              blast013.d64    Datamost             83
+Roundabout              blast157.d64    Datamost             83
+Route to India          blast107.d64    ?                    83
+Rox 64                  blast136.d64    Mwinter              82
+Rubbish Monster         blast058.d64    Tacking              84
+Run For The Money       blast188.d64    Scarbourough         85
+Rupert/Toy Makers Party blast202.d64    Quicksilva           85
+Rygar                   blast041.d64    ?                    88 t
+Saboteur                blast049.d64    ?                    85
+Saboteur II             blast029.d64    ?                    86
+Sabre Wolf              blast141.d64    Firebird             86
+Sailing                 blast178.d64    Activision           87
+Sam Fox Strip Poker     blast059.d64    Martech              86
+Sammy Lightfoot         blast113.d64    Sierra On-line       83
+Sams Jam                blast112.d64    ?                    83
+Sanxion                 blast178.d64    Thalamus             87
+Sargon II               blast081.d64    ?                    84
+Satan's Hollow          blast060.d64    Bally                84
+Saturn III              blast142.d64    Courbois             83
+Saucer Attack           blast100.d64    Lotus Soft           83
+Savage I                blast227.d64    Firebird             88 t
+Savage II               blast227.d64    Firebird             88 t
+Savage III              blast227.d64    Firebird             88 t
+Save New York           blast057.d64    Creative Software    83
+Scarab                  blast052.d64    ?                    85
+Schizophrenia           blast034.d64    Quicksilva           85
+Scooby Doo              blast111.d64    ?                    83
+Scout Quest             blast055.d64    John                 82
+Scroll of Abandon       blast292.d64    Access               84
+Scuba Dive              blast196.d64    Durell               83
+Scumball                blast024.d64    Mastertronic         87
+Seafox                  blast008.d64    ?                    87
+Seahorse                blast214.d64    ?                    84
+Searchlight             blast136.d64    ?                    82
+Seas of Blood           blast166.d64    ?                    85
+Seawolf                 blast087.d64    ?                    85
+Seek & Destory          blast097.d64    Stack                83
+Secret of Kublaih       blast269.d64    ?                    83
+Sector 90               blast058.d64    Argus                87
+Serpentine              blast077.d64    ?                    83
+Sentinel                blast037.d64    Synapse              84
+Sex Games               blast099.d64    Landis Soft          85 x
+Sex Puzzle              blast244.d64    ?                    89
+Seymour / Movies        blast255.d64    Codemasters          92 t
+Shadowfax               blast013.d64    ?                    83
+Shadowfire              blast021.d64    Accolade             86
+Shao Lins Road          blast134.d64    Konami               87
+Shamus                  blast095.d64    Synapse              82
+Shamus Case II          blast217.d64    Synpase              84
+Shanghai Karate         blast033.d64    Players              88 t
+Sheep in Space          blast300.d64    Llamasoft            85
+Shockway Rider          blast233.d64    ?                    88
+Short Circuit           blast130.d64    Ocean                86
+Show Jumper             blast173.d64    ?                    85
+Shuffler                blast097.d64    Stack                83
+Siege                   blast208.d64    Singeon              84
+Sigma 7                 blast164.d64    Durell               87 t
+Silicon Warrior         blast164.d64    Epyx                 84
+Simon                   blast097.d64    Stack                83
+Simon                   blast136.d64    ?                    84
+Simugolf                blast286.d64    Simulmondo           88
+Skatecrazy              blast199.d64    Gremlin              88
+Skate Rock              blast044.d64    Bubble Bus           86 t
+Skramble                blast015.d64    ?                    83
+Skramble                blast001.d64    ?                    85
+Ski                     blast021.d64    Commodore            83   
+Ski                     blast021.d64    Courboissoft         83
+Skier 64                blast143.d64    Hanson               83
+Ski Man                 blast282.d64    ?                    82
+Ski Run                 blast067.d64    Idea                 87
+Skull                   blast271.d64    Game Machine Ltd     85
+Skyline Attack          blast116.d64    ?                    85
+Sky Diver               blast163.d64    ?                    83
+Sky Jet                 blast204.d64    ?                    85
+Skyraider               blast180.d64    Stook                84
+Sky Twice               blast063.d64    American Action      87 t
+Skool Daze              blast034.d64    ?                    86
+Slalom                  blast030.d64    Tronix               83
+Slamball                blast076.d64    Synapse              83
+Slamdunk                blast247.d64    ?                    88
+Slapfight               blast018.d64    Imagine              87
+Slapshot                blast060.d64    Mastertronic         88
+Slapshot II             blast268.d64    Superior Qual Soft   89
+Slinky                  blast100.d64    Screenplay           83
+Slugger                 blast058.d64    ?                    85
+Slurpy                  blast143.d64    Great Sparks         84
+Smugglers Inn           blast127.d64    ?                    84
+Smurfen                 blast113.d64    ?                    83
+Smurf II                blast109.d64    ?                    85
+Snakebyte               blast011.d64    Sirius               82   
+Snakepit                blast012.d64    ?                    ?        
+Sno Cat                 blast011.d64    ?                    ?
+Snokie                  blast087.d64    Funsoft              83
+Snooker                 blast056.d64    Commodore            82
+Snoopy                  blast010.d64    ?                    ?
+Soccer                  blast203.d64    Microprose           87
+Soccer 6 A Side         blast203.d64    Microprose           87
+Solar Fox               blast061.d64    Bally                83
+Soldier of Fortune      blast002.d64    Ocean                85
+Solo Flight             blast239.d64    Microprose           84
+Solomons Key            blast201.d64    Probesoft            87 t
+Son of Blagger          blast139.d64    A.Crowther           86
+Sooper Froot            blast003.d64    Commodore            83
+Sound Wrestlers         blast150.d64    HES                  84
+Sorceror/Castle         blast057.d64    ?                    83
+Sorcerors               blast068.d64    Walsh                86
+Sorcery                 blast193.d64    Virgin               84
+Space Ace               blast169.d64    ?                    83
+Space Blitz             blast148.d64    ?                    88
+Space Centinel          blast105.d64    ?                    84
+Space Doubt             blast014.d64    Ocean                86
+Space Duel              blast129.d64    Sys                  85
+Space Invaders          blast001.d64    ?                    ?
+Space Invasion          blast047.d64    Elite                86
+Space Harrier           blast160.d64    Elite                86
+Space Junk              blast129.d64    Mauirr               85
+Space Mates             blast157.d64    ?                    84
+Space Pilot             blast073.d64    Kingsoft             84
+Space Pilot II          blast101.d64    Kingsoft             85
+Space Racer             blast295.d64    Loriciels            88 t
+Space Trap              blast046.d64    Handisoftware        84
+Speedball               blast270.d64    ?                    89
+Speed Duel              blast109.d64    ?                    85
+Speedking               blast071.d64    Digital              85
+Speed Racer             blast088.d64    T&F                  83
+Spelenverzarmiv         blast134.d64    Commodore            83
+Spellbound              blast030.d64    Mastertronic         85
+Sphere                  blast082.d64    ?                    86 t
+Spider                  blast141.d64    ?                    83                 
+Spiderbot               blast255.d64    ?                    87
+Spiderman               blast043.d64    ?                    84
+Spider Mountain         blast096.d64    ?                    83   
+Spider & the Fly        blast019.d64    Interceptor          84
+Spike                   blast002.d64    Eric B               83
+Spikes Peak             blast091.d64    ?                    85
+Spiky Harold            blast258.d64    Rogers               85
+Spirit of the Stones    blast022.d64    Ian Gray             84
+Spitball                blast189.d64    Creative Software    83
+Spitfire 40             blast003.d64    Microsim             82
+Spitfire Ace            blast205.d64    ?                    86
+Splat!                  blast007.d64    Incentive            84
+Split Personalities     blast051.d64    Domark               88
+Spooks                  blast160.d64    Mastertronic         87
+Spring Vogel            blast155.d64    ?                    83
+Sprinter                blast121.d64    Clubsoft             84
+Spriteman 64            blast128.d64    Interceptor          83
+Spy's Demise            blast017.d64    Penguin              83
+Spy Strikes Back        blast108.d64    Penguin              83
+Spy Strikes Back        blast108.d64    Penguin              83
+Spy Hunter              blast123.d64    Bally                83
+Spy Vs. Spy             blast080.d64    ?                    85
+Spy Vs. Spy II          blast080.d64    ?                    86
+Spy Vs. Spy III         blast080.d64    ?                    87
+Spy Who Loved Me        blast273.d64    ?                    92 t
+Squish Em               blast166.d64    ?                    85
+Squash                  blast027.d64    2010                 84
+Stalag                  blast014.d64    ?                    84
+Starball                blast291.d64    ?                    88
+Star Balls              blast040.d64    Reptiva              88 t
+Star Command            blast082.d64    ?                    86
+Star Commando           blast277.d64    Terminal             84
+Starfighter I           blast116.d64    ?                    87
+Starfire Fighter        blast070.d64    ?                    85
+Starfox                 blast140.d64    Electronic Arts      84 t
+Starforce Nova          blast089.d64    Mastertronic         87
+Starglider              blast168.d64    ?                    86
+Star League Baseball    blast080.d64    Gamestar             84
+Starlifter              blast083.d64    Curetrton            87
+Star Paws               blast048.d64    Software Projects    88
+Star Post               blast104.d64    Commodore            83
+Star Quake              blast266.d64    Bubble Bus           87
+Star Soldier            blast162.d64    SSI                  83
+Star Slaves             blast279.d64    Unicon               87
+Star Trader             blast197.d64    Bugbyte              84
+Star Trek               blast096.d64    Sega                 83
+Star Trek               blast105.d64    Sega                 83
+Star Trek Comp Game     blast297.d64    ?                    84
+Star Wars               blast020.d64    Atari                85
+Star Wars               blast024.d64    Domark               86
+Starion                 blast050.d64    ?                    85
+Stealth                 blast076.d64    Broderbund           85
+Stellar Dodger          blast011.d64    ?                    82
+Stellar Triumph         blast034.d64    H.A.L. Labs          86
+Stellar Wars            blast115.d64    ?                    83
+Stinger                 blast199.d64    Cygnus               85
+Stix                    blast054.d64    ?                    94
+Stock Car               blast072.d64    ?                    85
+Stop the Express        blast087.d64    ?                    87
+Stone Manor             blast103.d64    Mi                   83
+Storm Lord              blast265.d64    Hewson               93 t
+Stranded                blast156.d64    Hughes               82
+Stratton                blast051.d64    Imperial Software    87 t
+Street Machine          blast177.d64    Software Invasion    84
+Street Sports Basketbal blast223.d64    Epyx                 87
+Street Sports Soccer    blast148.d64    Epyx                 88 t
+Street Surfer           blast194.d64    Mastertronic         86
+Strike                  blast189.d64    M.A.D.               87
+Strike Force Cobra      blast268.d64    ?                    86
+Strike Force Harrier    blast046.d64    ?                    86
+Strippoker - Mani       blast060.d64    Artworx              83
+Strippoker - Suzi       blast059.d64    Artworx              83
+Strippoker II           blast266.d64    Artworx              84 x
+Strong Man              blast038.d64    Martech              86
+Stuntman Seymour        blast270.d64    Codemasters          92 t
+Subterranea             blast188.d64    ?                    88
+Suicide Express         blast139.d64    Gremlin              87
+Suicide Strike          blast205.d64    Tronix               84
+Sunstar                 blast235.d64    ?                    83
+Super Boulderdash       blast294.d64    Electronic Arts      84
+Super Cars              blast287.d64    Gremlin              91 t
+Superman                blast197.d64    First Star           85
+Super Monaco Grand Prix blast283.d64    ?                    91 -
+Super Robin Hood        blast256.d64    Codemasters          87 t
+Surfmania               blast086.d64    Soft                 85
+Survivor                blast176.d64    Synapse              83
+Summer Games            blast232.d64    Epyx                 84
+Summer Games II (1)     blast111.d64    Epyx                 85
+Summer Games II (2)     blast112.d64    Epyx                 85
+Sub Hunt                blast209.d64    Mastertronic         84
+Supercuda               blast078.d64    ?                    83
+Super Catcha Troopa     blast132.d64    Abrasso              83
+Super G Man             blast066.d64    Codemasters          87 t
+Super Huey              blast114.d64    Cosmi                84
+Super Huey II           blast114.d64    Cosmi                84
+Super Huey III          blast114.d64    Cosmi                84
+Super Huey IV           blast125.d64    Cosmi                84
+Super Huey V            blast125.d64    Cosmi                84
+Super Huey VI           blast125.d64    Cosmi                84
+Super Huey Combat       blast117.d64    Cosmi                86
+Super Huey Instructions blast117.d64    Cosmi                86
+Super Huey Rescue       blast117.d64    Cosmi                87
+Super Lem               blast051.d64    ?                    85
+Superman II             blast123.d64    Tcc                  87
+Supermorf               blast129.d64    Radarsoft            87
+Super Pipeline          blast106.d64    Taskset              83
+Super Pipeline II       blast056.d64    Taskset              87
+Super Race              blast116.d64    ?                    85
+Super Soccer            blast055.d64    ?                    87
+Super Sprint            blast004.d64    Electric Dreams      86
+Super Star Challenge    blast044.d64    Martech              87
+Super Zaxxon            blast056.d64    Sega                 85
+Swag                    blast102.d64    Micro Mania          94
+Swamp Fever             blast064.d64    M.A.D.               87
+Swat                    blast151.d64    Mastertronic         87
+Sweet Sixteen           blast118.d64    Coderunner           86 x
+System 15000            blast112.d64    ?                    84
+Tag Team Wrestling      blast065.d64    Data East            87
+Tai Pan                 blast150.d64    Imagine              86
+Talladega               blast196.d64    ?                    86
+Tanium                  blast199.d64    Players              88
+Tank                    blast120.d64    ?                    85
+Tank Attack             blast134.d64    Supersoft            83
+Tank War Const. Set     blast183.d64    Wisnewski            86
+Tanx                    blast059.d64    artronics            97
+Tapper                  blast064.d64    Bally                83
+Target Renegade         blast235.d64    Imagine              90 t
+Tarzan                  blast012.d64    Martech              86
+Taskmaster              blast175.d64    Creative Sparks      85
+Tauceti III             blast269.d64    ?                    85
+Tazz                    blast092.d64    ?                    82
+Teacher Busters         blast256.d64    MBreyer              85
+Temple of Terror        blast211.d64    ?                    84
+Tempo                   blast111.d64    ?                    82
+Terminator              blast230.d64    ?                    87
+Terra Cognito           blast177.d64    Codemasters          86
+Terra Cresta            blast103.d64    Imagine              87
+Tetris                  blast253.d64    Mirrorsoft           88
+Tetrys                  blast206.d64    Burger               89
+Thaiboxing I            blast104.d64    ?                    88
+Thaiboxing II           blast104.d64    ?                    88
+Thaiboxing III          blast104.d64    ?                    88
+Thanatos                blast216.d64    ?                    87
+Theater Europe          blast047.d64    P.S.S.               84
+Thermonuclear War       blast085.d64    ?                    82
+Thing Bounces Back      blast016.d64    Mastertronic         87
+Thing on a Spring       blast097.d64    Mastertronic         86
+Threshold               blast125.d64    ?                    85
+Through the Trapdoor II blast191.d64    ?                    87 
+Thrust                  blast051.d64    ?                    85
+Thrusta                 blast138.d64    ?                    85
+Thunderbirds            blast035.d64    Firebird             85
+Thunderblade            blast294.d64    U.S. Gold            88 t
+Thunderblade I          blast157.d64    U.S. Gold            87
+Thunderblade II         blast157.d64    U.S. Gold            87
+Thudercats              blast013.d64    Firebird             85 t
+Thunderchopper          blast233.d64    ?                    88 f
+Thundercross            blast200.d64    ?                    85
+Tiger Mission           blast264.d64    ?                    87
+Tiger Road              blast249.d64    Capcom               87
+Time Crystal            blast038.d64    Sachs                85
+Time Fighter            blast180.d64    ?                    87 t
+Time Machine            blast031.d64    ?                    87
+Time Runner             blast052.d64    Funsoft              83
+Time Trax               blast156.d64    ?                    85
+Time Tunnel             blast122.d64    ?                    87
+Time Wagon              blast211.d64    Elsoft               83
+Tir Na Nog              blast054.d64    Gargoyle             85
+Tirrin                  blast250.d64    Accolade             88
+Tomark                  blast074.d64    ?                    85
+Tooth Invaders          blast204.d64    Commodore            82
+Top Gun                 blast213.d64    Ocean                87
+Toppler                 blast128.d64    Galax                86
+Topographie Nederland   blast115.d64    ?                    85
+Topographie Spiel       blast123.d64    ?                    85
+Topper the Copper       blast201.d64    ?                    85
+Tournament Snooker      blast270.d64    ?                    87
+Toverslot               blast152.d64    ?                    83
+Toy Bizarre             blast090.d64    Activision           84
+Track 'n' Field         blast070.d64    Konami               84
+Traffic                 blast069.d64    ?                    83
+Trailblazer             blast100.d64    ?                    86
+Trans Europa BV         blast152.d64    ?                    85 t 
+Transformers            blast045.d64    ?                    87
+Transmit                blast156.d64    Hughes               83
+Transputer Man          blast025.d64    ?                    82
+Trantor                 blast185.d64    Probesoft            87 t
+Trap                    blast099.d64    ?                    88
+Trap                    blast144.d64    ?                    83
+Trapdoor                blast010.d64    Pirahna              84
+Trashman                blast062.d64    ?                    84
+Treadbear               blast071.d64    ?                    85
+Treasure Island         blast198.d64    Crieg                84
+Treasure Island         blast210.d64    ?                    86
+Treasure Island Dizzy   blast257.d64    Codemasters          92 t
+Trenchfire              blast001.d64    ?                    ?
+Triad                   blast125.d64    Livewire             85
+Triaxos                 blast184.d64    39 Steps             87
+Trivial Pursuit         blast208.d64    ?                    87
+Trollie Wallie          blast212.d64    Interceptor          88 t
+Tron                    blast022.d64    Eurosoft             84
+Trooper Trucker         blast209.d64    Uibosoft             84
+Tropical Fever          blast204.d64    Interceptor          85
+Trouble Bubble          blast083.d64    Sts Software         86
+True Spit               blast187.d64    ?                    84
+Tube                    blast198.d64    Quicksilva           87
+Tunnel Vision           blast197.d64    Graham               87
+Turbo Esprit            blast210.d64    Durell               87
+Turmoil                 blast004.d64    Sirius               82
+Turrican II (1)         blast241.d64    ?                    90 t
+Turrican II (2)         blast242.d64    ?                    90 t
+Twin Kingdom Valley     blast092.d64    ?                    87
+Twinky Goes Hiking      blast070.d64    ?                    85
+Tylers Dungeon          blast188.d64    ?                    82
+Uchi-Mata               blast032.d64    Martech              83
+UFO                     blast209.d64    O.C.G.               87 +
+Uhg!                    blast101.d64    Softek               94
+Ultimate Mission Combat blast236.d64    ?                    85
+Underground Adventure   blast216.d64    ?                    85   
+Underwurlde             blast086.d64    ?                    88
+Up 'n' Down             blast180.d64    Bally                84
+Uridium                 blast090.d64    Graftgold            87
+Uridium II              blast110.d64    Graftgold            89
+Usagi Yojinbo           blast159.d64    ?                    86
+V                       blast042.d64    Ocean                88
+Valkrie 17              blast256.d64    Ramjam               85
+Vampire                 blast136.d64    Codemasters          87
+Vegas Jackpot           blast026.d64    Commodore            82
+Velnors Lair            blast239.d64    Neptune Computing    85
+Venom Strikes Back      blast272.d64    Gremlin              88 t
+Verkefrs Rally          blast117.d64    ?                    85
+Velocipede II           blast044.d64    Players              88
+Vicgammon               blast285.d64    Commodore            81
+Video Meanies           blast200.d64    Mastertronic         86
+Viduzzles               blast117.d64    Commodore            82
+Viper                   blast245.d64    ?                    84
+Vixen                   blast242.d64    Martech              88 t
+Voetball Manager        blast135.d64    Versie               83
+Voodoo Castle           blast156.d64    Commodore            81
+Volleyball Simulator    blast060.d64    Ocean                89
+Vortex                  blast109.d64    ?                    84
+Vortex                  blast163.d64    ?                    84
+Voyager 64              blast065.d64    Billysoft            83
+Voyage to Atlantis      blast090.d64    ?                    80
+Vultures                blast079.d64    Micros               83
+Wacky Darts             blast285.d64    Codemasters          91
+Wacky Stories           blast209.d64    ?                    85
+Wally Goes to Rhymland  blast245.d64    Interceptor          84
+War                     blast207.d64    Martech              86
+Warhawk                 blast218.d64    Firebird             87
+Warlock                 blast103.d64    CCS                  85
+Warp                    blast211.d64    ?                    84
+Warplay                 blast173.d64    ?                    86
+Waterline               blast177.d64    Tronix               83
+Water Polo              blast036.d64    ?                    87
+Waterski 3D             blast032.d64    Flynn                86
+Wavy Navy               blast157.d64    Sirius               83
+Waxworks                blast135.d64    Ogden                83
+Way of the Tiger 1      blast084.d64    ?                    87
+Way of the Tiger 2      blast084.d64    ?                    87
+Way of the Tiger 3      blast084.d64    ?                    87
+WCS Boxing Manager      blast214.d64    ?                    87
+Web Dimension           blast176.d64    Activision           85
+Weatherwar II           blast056.d64    Magic Carpet         85
+Wega Station            blast216.d64    Werner               83
+West Bank               blast109.d64    Gremlin              86
+West Word               blast140.d64    Ace                  85
+Wet Paint               blast207.d64    Lindsey              83
+Werner                  blast062.d64    ?                    85 t
+Wheelin Wallie          blast255.d64    Interceptor          85
+Wheres My Bones         blast099.d64    ?                    84
+Whirlynurd              blast218.d64    Cray                 85
+Who Dares Wins          blast049.d64    Alligata             85
+Who Dares Wins II       blast028.d64    Alligata             86
+Wibstars                blast158.d64    ?                    83
+Wicked                  blast208.d64    Electric Dreams      89
+Widows Revenge          blast019.d64    ?                    85
+Wild Ride               blast087.d64    Interceptor          86
+Wild West I             blast081.d64    Ariolasoft           85
+Wild West II            blast081.d64    Ariolasoft           85
+Wild West III           blast081.d64    Ariolasoft           85
+Wild West Seymour       blast209.d64    Firebird             93
+Will of the Wisp        blast117.d64    ?                    85
+Willow Pattern          blast062.d64    Mr. Micro            85
+Willy Tex               blast047.d64    ?                    85
+Wimbledon               blast108.d64    ?                    85
+Wing Commander          blast032.d64    Thorn EMI            84
+Winter Games (1)        blast244.d64    Epyx                 85
+Winter Games (2)        blast245.d64    Epyx                 85
+Wix Wax                 blast192.d64    ?                    88 t
+Wizard                  blast027.d64    Commodore            82
+Wizard Of Wor           blast132.d64    Bally                84
+Wizards Castle          blast212.d64    Power                82
+Wizards Pet             blast140.d64    Mastertronic         87 t
+Wizball                 blast239.d64    Ocean                88
+Wonderboy               blast192.d64    Activision           87
+World Cup               blast098.d64    Arctic               85
+World Cup               blast126.d64    Arctic               85
+World Cup Carnival      blast151.d64    U.S. Gold            87
+Wumpus II               blast165.d64    ?                    85
+X-15 alpha              blast279.d64    ?                    89
+Xeno                    blast232.d64    APS                  86
+Xerons                  blast120.d64    ?                    83
+Yahtzee                 blast284.d64    Sorenson             85
+Yie Ar King Fu          blast254.d64    Imagine              85
+Yie Ar Kung Fu II       blast263.d64    Imagine              86
+Yogi Bear               blast187.d64    Pirahna              85
+Young Ones              blast026.d64    TSI                  85
+Zaga Mission            blast175.d64    ?                    84
+Zarcon                  blast054.d64    ?                    85
+Zarjaz                  blast130.d64    Marel                88
+Zappy Zooks             blast109.d64    ?                    84
+Zauberland              blast254.d64    Ocean                85
+Zaxxon                  blast092.d64    Synpase              82
+Zenji                   blast249.d64    Activision           84
+Zenon                   blast120.d64    ?                    84
+Zenos                   blast144.d64    Top 10               87
+Zeppelin                blast089.d64    ?                    84
+Zeppelin Rescue         blast181.d64    Interceptor Software 82
+Zeus                    blast064.d64    ?                    82
+Zig Zag                 blast191.d64    A.Crowther           85 t
+Zim Zala Bim            blast061.d64    Graham               85
+Zodiac                  blast205.d64    Anirog               84
+Zodiac                  blast254.d64    Atlantis             88
+Zolo                    blast038.d64    Ocean                87 t
+Zone 7                  blast072.D64    Radarsoft            87
+Zone 7 II               blast067.d64    Radarsoft            87
+Zone Ranger             blast139.d64    Activision           84
+Zone Z                  blast188.d64    Starlight            88 t
+Zorro                   blast033.d64    Datamost             85
+Zwark                   blast095.d64    Wentworth            82
+Zylogon                 blast014.d64    Big 6                84
+Zynaps                  blast042.d64    Hewson               87
+Zyron                   blast161.d64    Kingsoft             86
+Zyrons Escape           blast067.d64    ?                    88
+Zyto                    blast086.d64    ?                    85
+ZZZzzz                  blast054.d64    Mastertronic         86
+ZZZzzz                  blast267.d64    Mastertronic         86
+
+l Needs Full 1541 Emulation inder c64s
+t Game has a form of trainer
+x Not for Kids!
+- Didnt work for me c64s v2.0
+(#) Means More than one Disk Image
+

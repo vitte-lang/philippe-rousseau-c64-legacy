@@ -1,0 +1,756 @@
+Information About the Creators of High Voltage SID Collection
+=============================================================
+
+The HVSC crew is composed of some of the biggest SID fans
+in the world.  Below is some information about the people
+who helped make HVSC possible.  This file will also give you
+an idea as to which tunes on the C64 are considered the
+best.
+
+***********************************************
+* The Shark of International Network of Chaos *
+* <shark@dhp.com>                             *
+***********************************************
+
+10 Most Favourite SIDs:
+----------------------
+"Ark Pandora" (tunes 1-3) - Ben Daglish
+"Black Lamp" - Tim Follin
+"Hysteria" - Fred Gray
+"Knucklebusters" - Rob Hubbard
+"The Last Ninja" - Ben Daglish & Anthony Lees
+"Nemesis the Warlock" - Rob Hubbard
+"Platoon" - Jonathan Dunn
+"That's the Way It Is" - Jeroen Tel
+"Thunderforce" (all tunes) - Johannes Bjerregaard
+"Wizball" (tune 7) - Martin Galway
+
+5 Favourite SIDs From Less Popular Artists
+-----------------------------------------
+"ATA" - Antti Hannula
+"Brutality 6" - Page
+"Dexion Ranking Demo" - Kim Christensen (Future Freak / Dexion)
+"Hit Points" - Klaus Grongård (Link)
+"Mixable" - Marcel Donne (MAD / Scoop / MoN)
+
+Contributions
+-------------
+   The grunt work!  Sorted and searched and sorted and searched.  :)
+Eliminated a billion repeats by hand (or ear?).  Dug up a few C64 titles
+for friends to rip.  Contacted several composers asking (begging) for help.
+Corrected thousands of credits.  Made the UPDATE tool and other SID tools.
+
+Comments
+--------
+   Looking back to the old days on the C64, I can't remember when I first
+started to really listen to the music, but I distinctively remember being
+blown away by Commando (Hubbard) and its very famous high-score music.
+After that, it was all of the tunes jammed into Lettermaker/Futurewriter
+that really got me hooked.  No other system since has been able to compare.
+
+Also, thanks to Strider of FairLight for introducing me to SIDPlay!
+
+C64 History
+-----------
+   Upgraded from a Vic20 to a C64 in 1983.  Started INC in 1987 which
+specialized in importing/exporting software from/to Europe, and we also
+managed a few USA cracks.  Kept C64 to this day in order to still hear
+the music (and perhaps play an old game or two).
+
+
+***************************************
+* Jan Diabelez Arnt Harries           *
+* Rambones/The Supply Team, 1985-1989 *
+*                                     *
+* Email: rambones@get2net.dk          *
+***************************************
+
+10 Most Favourite SIDs:
+----------------------
+"The Combat Game" - Jeroen Tel
+"Delta" - Rob Hubbard
+"Eliminator" - Jeroen Tel
+"Gerry The Germ" - Rob Hubbard
+"Infodroid" - Fred Gray
+"Mikie" - Martin Galway
+"Rambo" - Martin Galway
+"The Vikings" - Ben Daglish
+"Wizball" - Martin Galway
+"Zoids" - Rob Hubbard
+
+5 Favourite SIDs From Less Popular Artists
+-----------------------------------------
+"Ode To Galway" - Marco Swagerman (MC)
+"Attention" - Christof Mühlan (Banana)
+"Still Rolling" - Marco Swagerman and Oscar Giesen (MC+OPM)
+"The Galway One" - Thomas E. Petersen (Laxity)
+"Zound-Muzak #3" - Rambones
+
+Contributions
+-------------
+   Added several hundred new tunes from his collection and others.  Helped
+verified SID musician list.  Ripped even more tunes (has this guy ripped
+the most of anyone? 1364 as of Update #1).  Helped with giving several
+tunes the proper credits.  Added a few ideas that helped make the
+collection better.
+   
+Comments
+--------
+I'd just like to get in contact with 2 of my old friends in the SID business:
+Jipe/The Supply Team, and Banana/The Electronic Knights.  Write to me!
+
+C64 History
+-----------
+My interview at In Medias Res.: http://www.kuai.se/~zike/imr/zimr.htm
+go into 'C64 persons' and click my name.
+
+
+**************************************************
+* Darren, Bod/Talent <darren@talent.demon.co.uk> *
+**************************************************
+
+10 Most Favourite SIDs:
+----------------------
+"Knucklebusters" - Rob Hubbard
+"Parallax" - Martin Galway
+"Talented Bells" - Edwin van Santen/20cc
+"Terra Cresta" Martin Galway
+"Trap" - Ben Daglish
+"Yie Ar Kung Fu" - Martin Galway
+"Yie Ar Kung Fu II" - Martin Galway
+(Bod chose to only list seven.)
+
+5 Favourite SIDs From Less Popular Artists
+-----------------------------------------
+I+T Tune by Mixer/Origo
+I have no names for the other faves.
+
+Contributions
+-------------
+   Providing several C64 demos/games on his C64 CD which allowed us to fill
+in the proper credits for several tunes.  Renaming the NemeSIDs collection
+by hand so that it could be used with SIDPlay (shortly after, a tool
+emerged that could do this automatically :).  Provided around 50-100 SIDs
+for the collection.
+
+Comments
+--------
+Being involved in some way with this SID collection means a lot to me. The
+64 was part of me for a long time and listening to some of these tunes bring
+back so many happy and fond memories of good times and friendship that I
+have known through the C64 Scene since I started.
+
+C64 History
+-----------
+I got my c64 back in 1986 and joined Hotline in 1987. Supplying, trading and
+cracking. In 1990 me and XXX left Hotline and started our own group Talent,
+later the same year we joined up with our Danish Friends in Ikari to form
+the best co-op that ever lived. :) Ikari & Talent.
+
+
+*******************************************************
+* Michael Schwendt (The Mage) <sidplay@geocities.com> *
+*******************************************************
+
+10 Most Favourite SIDs:
+----------------------
+Comment: Since I keep a list of my personal top 200 sidtunes, making a
+         selection of only 15 out of 200 was a very hard decision. I had
+         to leave out further great tunes (e.g. by Jeroen Tel/Maniacs Of
+         Noise, Wally Beben, Neil Baldwin et al).
+
+"Bad Cat" (Intro) - Chris Hülsbeck
+"Bulldog" - Ben Daglish
+"DNA Warrior" - Laxity & Future Freak
+"Exploding Fist" - Neil Brennan
+"Future Knight" - Ben Daglish
+"Knight Games" - David Whittaker
+"The Last Ninja" - Ben Daglish & Anthony Lees
+"Lightforce" - Rob Hubbard
+"Mutants" - Fred Gray
+"Rambo" - Martin Galway
+
+5 Favourite SIDs From Less Popular Artists
+-----------------------------------------
+"Compleeto!" - Anders Andreen/Moz(IC)Art
+"Elysium's Origon (Loader)" - Touldie
+"Niggling" - Geir Tjelta/Moz(IC)Art
+"PLIS" - Stello Doussis
+"SYS4096" - AMJ
+
+Contributions
+-------------
+   Added a bunch of great tune fixes.  Helped find repeats in the
+collection.  Helped with the proper identification of SID tunes.  Added to
+and helped correct the musician list.  Added several ideas to help with the
+collection.  Answered several questions about SIDPlay and SIDs in general.
+Added several new tunes to the collection.
+
+Comments
+--------
+I simply adore the SID (the MOS-6581), its sound capabilities and especially
+the quality of the SID tunes. Imagine, those SIDs consist only out of three
+voices (neglecting the virtual fourth channel for samples). In comparison,
+most of the existing MODules from Amiga and PC, which use several hundred
+kilobytes of high-quality samples, sound like crap ! Disgusting, isn't ?
+Btw, I think the High Voltage SIDtune Collection will be the new standard
+on the Net.
+
+
+****************************************
+* Adam Lorentzon <d93-alo@nada.kth.se> *
+****************************************
+
+10 Most Favourite SIDs:
+----------------------
+"Bombo" - Ben Daglish
+"Bionic Commando" - Tim Follin
+"Cybernoid" - Jeroen Tel
+"Delta" - Rob Hubbard
+"Game Over" - Martin Galway
+"Hawkeye" - Jeroen Tel
+"The Last Ninja" - Ben Daglish & Anthony Lees
+"The Last Ninja II" - Matt Gray
+"Myth" - Jeroen Tel
+"Rambo" - Martin Galway
+
+5 Favourite SIDs From Less Popular Artists
+-----------------------------------------
+"Fifth Axis" - Gilles Soulet
+"Future Composer Tune" - Rock
+"MacGyver Theme" - Oliwer Klaewer
+"Omega Man" - Jori Olkkonen (Yip)
+"Sampler #1 (1/4)" - Jens Christian Huus (well-known artist, but not the
+                                best-known out of his gazillion tunes)
+
+Contributions
+-------------
+Added new conversion options to SIDPlay (Win) that helped out this
+collection tremendously.  Provided a ton of credit fixes.  Helped
+identify tunes in the collection.  Relayed several new SIDs and
+now has become a proficent ripper himself.
+
+Comments
+--------
+Check out the C64 Games WWW Page at
+
+     http://www.student.nada.kth.se/~d93-alo/c64/
+
+It has the SIDPLAY/Windows homepage amongst other
+bits of C64 nostalgia, and a massive list of links.
+
+
+*************************************
+* Wilfred Bos <wbos@worldonline.nl> *
+*************************************
+
+10 Most Favourite SIDs:
+----------------------
+"Comic Bakery" - Martin Galway
+"Delta" - Rob Hubbard
+"Flimbo's Quest" - Reyn Ouwehand & Johannes Bjerregaard
+"G.I. Hero" - Jeroen Tel
+"Hawkeye" - Jeroen Tel
+"Hysteria" - Fred Gray
+"Light Force" - Rob Hubbard
+"Parallax" - Martin Galway
+"Pimple Squeezer 6" (part 3) - Johannes Bjerregaard
+"That's the Way It Is" - Jeroen Tel
+
+5 Favourite SIDs From Less Popular Artists
+-----------------------------------------
+"Crooner" - Thomas Mogensen (DRAX)
+"Emerald Mine 2" - Oliver Klaewer
+"Ode to Galway" - Marco Swagerman (MC)
+"P.W. Botha" - Tomas Danko (Gaunt)
+"Tina Turner" - Jörg Rosenstiel
+
+Contributions
+-------------
+Has ripped several tunes and found SIDs from other collections
+that weren't part of HV SIDs.  Provided a few corrected rips.  Helped
+find some SID tune credits.  Found several errors in HV SIDs.
+
+Comments
+--------
+What an incredible sound chip! If you hear all the music in this
+collection, then you know that most music composers are real artists.
+They got the best out of the SID chip. They made special effects that
+even today's normal synthesizers can't make. There were a lot of moments
+that I turned on my C64 only for having some nice background music.
+Happily there is now Sidplay...
+
+C64 History
+-----------
+I got my first C64 in 1985. In 1987 I started with 3 other friends the group
+Channel Four. My nickname was Fred. I made a lot of demos for this group. In
+the beginning of 1989 a started making my own music routine. Unfortunately
+it wasn't finished and I lost it. I sold my C64 with my whole demo
+collection. A few years later I had many regrets that I sold all the
+software with it. I bought a C64 again when I heard Sidplay 1.04 for DOS.
+When I play the old C64 music on my PC, a lot of memories come back...
+
+Check out my homepage at: http://www.worldonline.nl/~wbos
+
+
+****************************************************
+* Kristoffer Johansson <d3johkri@dtek.chalmers.se> *
+****************************************************
+
+10 Most Favourite SIDs:
+----------------------
+"DMC Demo III" (tune 2) - Johannes Bjerregaard
+"Gaplus" - Jeroen Tel
+"Ghouls 'n Ghosts" - Tim Follin
+"Nemesis The Warlock" - Rob Hubbard
+"Rambo" - Martin Galway
+"Stormlord" - Johannes Bjerregaard & Jeroen Tel
+"Terra Cresta" - Martin Galway
+"The Last Ninja" - Ben Daglish & Anthony Lees
+"Wizball" - Martin Galway
+"Zoids" - Rob Hubbard
+
+5 Favourite SIDs From Less Popular Artists
+-----------------------------------------
+"Compleeto!" - Anders Andreen/Moz(ic)Art
+"For Legend 2" - Iron Cat/TRC
+"Game On Intro" - Lords of Sonics
+"Jeremiah" - Tomas Danko
+"Rocky Star" - Kim Christensen (Future Freak/Dexion)
+
+Contributions
+-------------
+Ripped a ton a highly requested tunes as well as making better rips
+of tunes already in HVSC.  Also provided credit fixes and some other
+great information. 
+
+Comments
+--------
+SID music simply makes me feel good.  The songs from the good old 64 have
+a musical honesty, brought by the crude environment in which they were
+created.  And every now and then, the quality of the these compositions
+really astonish me.  True art, of our time.
+
+
+******************************************
+* LaLa (Imre Olajos, Jr.) <LaLa@C64.org> *
+******************************************
+
+10 Most Favourite SIDs:
+----------------------
+
+(note: LaLa's favourite SIDs are also in SIDPlay Lists - get them
+       from the URL below)
+
+"Auf Wiedersehen Monty / Monty 2" - Rob Hubbard & Ben Daglish
+"Bad Cat" - Chris Hülsbeck
+"Commando" - Rob Hubbard
+"Knucklebusters" - Rob Hubbard
+"Last Ninja" - Ben Daglish & Anthony Lees
+"Ocean Loader v3.0" - Peter Clarke
+"Parallax" - Martin Galway
+"Stormlord" (Tune #2) - Johannes Bjerregaard
+"Supremacy" - Jeroen Tel
+"Sweet" - Johannes Bjerregaard
+
+5 Favourite SIDs From Less Popular Artists
+-----------------------------------------
+"Compleeto!" - Anders Andreen
+"Hayes" - Euratom
+"Jammin' Loose" - Linus Nielsen (Boogaloo)
+"Mixer" - Mixer
+"<?>" (Zarda003.sid) - Ari-Pekka Paljakka (Zardax)
+
+Contributions
+-------------
+Indirectly was responsible for forwarding many tunes.  Maintains the SID
+Tune Information List (STIL) which contains orginal artist
+information and other trivia about the SIDs in HVSC.  Also runs the HVSC
+Request web page.
+
+Comments
+--------
+C64 music is the alpha and the omega in my life. I knew there was something
+special going on when I heard LOCO from Ben. Then I learned it was really
+Jarre - so I got into Jarre. I remember when I first heard Commando by Rob -
+I was just totally blown away, but the funny thing is that nobody in my
+neighborhood really understood why I was so crazy about such blip-blop
+computer muzak... The rest is history, and music in general became an
+essential part of my life.
+
+C64 History
+-----------
+The first computer I have ever touched: a ZX-81 at age 6. Then came
+Spectrum, something I really wanted but never got 'cause my Dad bought me a
+C-64 instead.  I don't think I will ever regret his decision. :) Have never
+been into the scene, but I had good contact with swappers, so I was always
+flooded with games and demos (who wasn't? ;). Unfortunately, I had to sell
+my C64 before we moved to the US from Hungary. I still remember that sad
+date: on October 6, 1991 I waved goodbye to my beloved machine... HVSC and
+Michael's SIDPLAY has truly saved my sanity!!!
+
+LaLa's SID pages (SIDPlayLists, STIL stuff, and other SID-related things)
+                   -> http://lala.c64.org
+
+
+***********************************************************
+*   Andreas Varga (mr.sid) <sid@skater.htu.tuwien.ac.at>  *
+* <e9426444@stud1.tuwien.ac.at> (as an alternative)       *
+***********************************************************
+
+10 Most Favourite SIDs:
+----------------------
+"Auf Wiedersehen Monty" - Rob Hubbard & Ben Daglish
+"Bionic Commando" - Tim Follin
+"Commando" - Rob Hubbard
+"Cybernoid" - Jeroen Tel
+"Hawkeye" - Jeroen Tel
+"Knucklebusters" - Rob Hubbard
+"Last Ninja 3" - Reyn Ouwehand
+"Scout" - Jeroen Tel
+"Stormlord" (ingame) - Johannes Bjerregaard
+"Wizball" - Martin Galway
+
+5 Favourite SIDs From Less Popular Artists
+-----------------------------------------
+"Killers" - Cavi
+"Listen & Learn" - Michael Nilsson and Stellan Andersson (Mitch&Dane)
+"Mamba Intro" - Guy Shavitt
+"Mystery" - Prosonix
+"Sex 'n' Crime" - Jesper Olsen (JO)
+
+Contributions
+-------------
+Has provided several rips and is known for his mega-fast transfering of
+party competition SIDs to PSID format.  Provided some credit fixes
+and other useful information.  The lone MacOS representative.  :)
+
+Comments
+--------
+SID music is an integral part of my life. Not a single day passes without 
+me spending at least an hour listening to my favourite tunes. 
+I remember the early spring of 1987. I was 11 years old, sitting in 
+school, with my walkman, playing a tape of Commando by Rob Hubbard. My 
+teacher took it away... Man, I was pissed ! :)
+Gosh, this was ELEVEN years ago !!
+
+C64 History
+-----------
+Laming around in the non-existent Austrian scene. 
+
+mr.sid's web site -> http://stud1.tuwien.ac.at/~e9426444/
+
+********************************
+* Gabriele Priarone (G-Knight) *
+* Email: <g.knight@iol.it>     *
+********************************
+
+10 Most Favourite SIDs:
+----------------------
+"Agent X II" - Tim Follin
+"Bionic Commando" - Tim Follin
+"Cybernoid 2" - Jeroen Tel
+"Iron Lord" - Jeroen Tel
+"Hysteria" - Fred Gray
+"Master of Magic" - Rob Hubbard
+"Ocean Loader V2" - Martin Galway
+"Platoon" - Jonathan Dunn
+"Retrograde" - Steve Rowlands
+"Terramex" - Ben Daglish
+
+5 Favorite SIDs From Less Popular Artists
+-----------------------------------------
+"Beatball" - Steven Diemer (A-Man)
+"Holiday Dream '91 Endpart" - Lars Hutzelmann (The Blue Ninja)
+"The Seventh" - Ari-Pekka Paljakka (Zardax)
+"Stardust 2" - Soedesoft
+"Ultimate Intro" - Volker Meitz (PRI)
+
+Contributions
+-------------
+Provided several credit fixes.  Sent in some SIDs after
+learning how to rip.  Runs the HVSC News web page which keeps track
+of the latest rips submitted to the HVSC crew.  He is now working
+on a collection of Amiga game music tunes.  Contact him if you are
+willing to help.
+
+Comments
+--------
+I still remember the days passed listening to C64 music. I often loaded
+some games only to hear their awesome music. I then recorded many tapes
+with hours of C64 musics on them to hear them whenever I was willing to.
+Most people don't understand the real meaning of music. It doesn't matter
+the sounds, doesn't matter the quality, the only thing that should be
+considered are the melodies. Most people think C64 music is crap only
+because it doesn't feature real drums or famous musicians' speech..
+well, they'll never know what they're missing.
+
+C64 History
+-----------
+The first computer I've ever seen was a ZX-Spectrum at the age of 7
+...damn, I can't really remember what I saw, but I was amazed by the
+things it could do. I and my brother decided to buy it, but my father
+thought that would have been better to buy a C64. It was 1987. I've never
+regretted his decision. I still remember my first original game I've ever
+played: DeathWish 3 with awesome music by Ben Daglish.
+This was the first happy moment of my life. The second happy moment
+of my life was 8 years later, when i found SidPlay V1.23b in a BBS with a
+little collection of music included... Until then I thought I was the
+only fool who listened daily to C64 music, but I was not alone! :)
+
+
+**********************************************
+* Warren Pilkington (Waz of Zaw Productions) *
+*           wazzaw@globalnet.co.uk           *
+**********************************************
+
+10 Most Favourite SIDs:
+-----------------------
+Comment: This was a very difficult choice to make, but all the below 
+are in my opinion, classic C64 tunes that need to be heard.  I've
+also picked 10 different C64 musicians to be fair to them all:
+
+"Armalyte" - Martin Walker
+"Cybernoid" - Jeroen Tel
+"Draconus" - Adam Gilmore
+"Great Giana Sisters (Intro)" - Chris Hülsbeck
+"Ghouls 'n' Ghosts" (especially tune #1) - Tim Follin
+"Last Ninja 2" (especially tunes #4 and #6) - Matt Gray
+"Mutants" - Fred Gray
+"Platoon" - Jonathan Dunn
+"Thalamusik" - Rob Hubbard (my favourite tune ever)
+"Wizball" (especially tune #7) - Martin Galway
+
+5 Favourite SIDs From Less Popular Artists
+------------------------------------------
+"Cyberworld" - Søren Lund (Jeff)
+"Dreams' Odyssee Parts 1 and 2" - Volker Meitz (PRI)
+"Happy Hour" - Stefan Konarkowski (Alien)
+"Melt Your Brain" - Oliver Klee (Odi)
+"Spellbound" - Glenn Gallefoss (the best Hubbard cover version in HVSC)
+
+Contributions
+-------------
+Warren seems to be an authority on British software houses.  This has
+lead him to send us quite a number of credit fixes in addition to
+providing some interesting C64 music/game history.  Warren has
+also provided tons of tunes, added several STIL entries, fixed
+bad rips, and has contacted some old composers for some proper
+information.  
+
+Comments
+--------
+For me, the SID chip was ahead of its time when launched into the 
+C64 many years ago.  The original 6581 was simply a design for life,
+and soon realised many great themes from the likes of Rob Hubbard and
+Martin Galway.  What was more, most tunes didn't sound like 'chip' 
+music at all, they were soundtracks for a generation of gaming.  If 
+you look at most modern game developments, the backbone of C64 
+musicians are still influencing computer gaming soundtracks today.  
+Look at where Hubbard and Galway are now...  When I finally got net
+access in June 1997 (after some three years of saving up for a PC and
+modem!), I wanted to find all the C64 info I could - and found the
+High Voltage SID Collection.  In years to come may people listen to 
+this collection and realise how memorable C64 music really is.
+
+C64 History
+-----------
+I first got a Commodore Plus/4 in 1985 and spent many a day using one.
+However I really wanted a C64 and realised my dream in 1987.  Imagine
+my shock when I heard Rob Hubbard's 'Thalamusik' (the Sanxion Loading
+theme) for the first time.  It blew me away, and is still my favourite
+C64 tune ever written.  I also delved into making POKEs for games
+after I became proficient at Plus/4 POKEs (a lot of which have never
+been seen as yet, note:) and writing tips, and in September 1988, my 
+first tips (for Stormbringer) were published in Zzap! 64. 
+From then until late 1991 I contributed a stack of tips, listings and 
+POKEs to Zzap! 64, sometimes under my nickname of "Waz".  I enjoyed
+having good contact with some of the Zzap! 64 reviwers (especially 
+Robin Hogg, who would send me disk and tape games to POKE/write 
+listings for and I even was allowed to keep some of them.)  until
+Newsfield went bust in October 1991.  Robin also got me into writing
+music hacks for games and I must have had quite a considerable number
+published for a lot of games.  I then started to contribute numerous
+tips and listings to Commodore Format (1991-1996) and perhaps my most
+infamous listing was the 'Codemasters Multihack Simulator' (pardon the
+pun if you will!) released in 1992.  I had noticed that strangely
+most Codemasters and old Mastertronic games all used the same loader,
+so I created a master listing to hack that loader and had 
+published around 150 sets of datalines for various games.   Most of my
+CF tips were done for Andy Roberts (one time third member of Apex) who
+I still keep in contact with.  I also still run my 'listings request
+service' where C64 users can write to me (with SAE for reply if in the
+UK) asking for listings for games.  In 1991, I also formed my 'group' 
+Zaw Productions (even though it's mostly me) for mainly writing C64
+music.  I have composed around 190+ tunes on the C64 in the last six
+years, including making the 'Quadraped Tearaways' series of album-
+length music demos.   I also helped Peter de Bie a fair bit with his 
+ambitious 'Screens' collection, which ended as some 30 disks' worth of
+C64 music rips, and each had a screen with all the info on.  In many 
+ways this was a precursor to what HVSC is now, and I was proud to help 
+Peter with credit fixes and a fair amount of rips on my part (around
+10% were mine in there..)   Peter, if you ever come out of the Dutch 
+army in Bosnia and read this, look me up - it'd be great to hear from
+you again!  I've also had some music of mine in games, and even now I
+still am writing C64 music as well as dedicating a fair amount of my
+time to the HVSC, writing two regular articles for 'Commodore Zone'
+magazine and tracking down ex-Zzap! 64 reviewers for old times...
+
+Zaw Towers on the WWW:  http://www.users.globalnet.co.uk/~wazzaw/
+                        
+***********************************
+* Inge H.P. ("448" 1985-1991)     *
+* inge.pedersen@bamble.kommune.no *
+***********************************
+
+10 Most Favourite SIDs:
+----------------------
+"Bionic Commando" - Tim Follin
+"Delta" - Rob Hubbard
+"FAME (1)" - Michael Hendriks/FAME
+"Flimbo's Quest" - Johannes Bjerregaard/MoN
+"Paradise" - Edwin van Santen/20CC
+"Parallax" - Martin Galway
+"Rambo Loader" - Martin Galway
+"That's The Way It Is" - Jeroen Tel
+"To Be On Top Intro" - Chris Hülsbeck
+"W.A.R." - Rob Hubbard
+
+5 Favourite SIDs From Less Popular Artists
+-----------------------------------------
+"Commando Remix" - Swallow/Censor
+"Gloria" - Michael Nilsson and Stellan Andersson (Mitch & Dane)
+"Jammalade" - Thomas Mogensen (DRAX)
+"Jammin' Loose" - Linus Neilsen (Boogaloo)
+"Sweet and Sour" - Volker Meitz (PRI)
+
+Contributions
+-------------
+Inge has ripped several SIDs and represents the Amiga community quite
+well.  As he notes below he plans to fixe a few SIDs so that they work
+on _both_ PlaySID and SIDPlay (actually, he has already fixed a few).
+Inge also holds the 'coveted' SID Hunt MVP award which was awarded to
+the ripper who ripped the most SIDs from Lala's SID Hunt list.  I should
+note that Inge almost wasn't accepted into the HVSC team due to his
+Hubbard comment below...  ;)
+
+Comments
+--------
+I was feeling most honored when asked to be a part of this team.  Since
+I got my C64 back in 1984, I have always felt a certain dragging towards
+the wonderful music of the SID.  As I use both Amiga and PC nowadays, I
+feel there is next to none of the modern tracker-tunes that have that
+little extra like SIDmusic has.
+
+C64 History
+-----------
+When some friends of mine got their C64's in 1983, I didn't stop bugging
+my parents until I got one myself. That was in spring 1984. As so many
+others, I started my C64-life by playing games. My first game was
+Terminal Software's "Super Skramble", which also my parents enjoyed.
+Some times later, Turbo Tape appeared at some friends, and soon we had
+loads of tapes with games. Later I had to buy a disk drive.
+
+I tried to learn basic during my first years, and in the end, I had made
+several Font-editors and the likes. In 1986, I started to learn assembly,
+and in 1987 I made lots of scrollers and crappy demos (You know, "demos"
+which consisted of a picture and a scrolltext, and some music).
+
+In August 1990 I bought an Amiga 500. Strangely enough, the years 1990-91
+was my most productive years on the C64. ...until my old C64 broke down.
+I got it fixed late in 1992, but soon it broke down again. In 1994 I bought
+an A1200 which I am still using. In 1995 I bought another C64, and revived
+some of my C64 skills. I made a parallel cable, and suddenly I could
+transfer files back and forth between by C64 and Amiga. ...until I short-
+circuited the cable (and also my C64) in October 1996. Since then, I have
+done all my ripping in an emulator on Amiga. I have plans for repairing my
+C64, so I can convert the music that won't run properly in the emulator.
+
+The first real musical experience I had was when I heard the loader tune to
+Daley Thompson's Decathlon (still one of my favorites).  Later, the Rambo
+Loader tune really made my jaw drop down on my chest. From that moment, I
+have been devoted to Martin Galway. Rob Hubbard has never really made it
+past that level in my consciousness. That does not mean that I don't like
+other composers too ;-)
+
+
+*******************************************
+* Laust Brock-Nannestad <laustbn@diku.dk> *
+*******************************************
+
+Choosing your fifteen favourite tunes is next to impossible. However, if I
+was ever stranded on a desert island with nothing but Sidplay or a real
+C64, these are the SIDs I'd like to have with me: 
+
+10 Most Favourite SIDs:
+----------------------
+"Dulcedo Cognitations" - Chris Hülsbeck
+"Last Ninja" - Ben Daglish and Anthony Lees
+"Last Ninja II" - Matt Grey
+"Glider Rider" - David Whittaker
+"Mutants"  - Fred Gray
+"Platoon" - Jonathan Dunn
+"Rambo: First Blood Part II" - Martin Galway
+"Stormlord" (especially in-game) - Johannes Bjerregaard & Jeroen Tel
+"Snare" - Martin Walker
+"W.A.R" - Rob Hubbard
+
+5 Favourite SIDs From Less Popular Artists
+-----------------------------------------
+"Galway-tune" - Che Lalic (Alfatech/Triad)
+"SurSumTheme" - Mixer/Origo Dreamline
+"Rocky Star"  - Kim Christensen (Future Freak/Dexion)
+
+NOTE: only three SIDs are listed as I really had a hard time choosing 
+the last two. Perhaps they will follow.
+
+Contributions
+-------------
+Laust's main contributions has been with the STIL.  He created the HTML
+STIL pages, added many new entries, and then later created a
+STIL-syntax-checker.  In addition to helping with the STIL, Laust has
+identified many incorrect credits and other problems with in HVSC.
+
+Comments
+--------
+It will come as no surprise when I say that SID music takes up a large
+amount of my time in fact a day rarely goes by without Sidplay playing in
+the background while I work. Ever since I made my first tape recording of
+tunes years ago I've been comforted and amazed by the diversity of the
+tunes and the SID chip in general. Especially when you consider the SID's
+complexity compared to the sound capabilities of other 8-bit systems in
+the eighties. 
+
+C64 History
+-----------
+After a brief period with access to a ZX81-clone and a CP/M machine I
+finally got the thing I wanted: A C64. Some of my first games were
+Phantoms of the Asteroid and Commando and even back then I knew there was
+something special about the music in those games - in fact I bought
+specific games (such as the not too exciting W.A.R) just because it had
+music by Rob Hubbard. Now how's that for dedication? :-). As the C64
+market dwindled, so did my interest in the C64. I kept my C64 on my desk,
+but used it less and less. Then one day I bought a shareware CD that had
+Sidplay v1.10 on it. I was ecstatic! - suddenly having the sound of the
+C64 combined with the convenience (and storage capability) of the PC. I
+didn't have any tunes but the four built-in ones, but it was enough to
+keep me going until I found a 500kb pack of assorted tunes on another CD.
+Soon after that, I got Internet access, which meant the newest Sidplay and
+the NemeSIDs collection. But NemeSIDs was soon replaced with the HVSC due
+to its many advantages. Then after HVSC v2.0 was released I got in touch
+with LaLa and started submitting STIL entries. Following that, the HTML
+version of the STIL was born. 
+
+Today, my C64 only gets used once in a while, to play a classic game or
+tune or the odd demo that won't run well on my emulator. But it still
+takes up space on my desk and I doubt that will change. It is my C64 after
+all... 
+
+--------------------------------------------------
+
+Note, "Less Popular Artists" is perhaps not the best description for what
+was meant by this category.  Basically, what was meant by this was for
+a list of tunes by either artists who were not known by the average C64
+user or a tune by a popular artist that might not be as well known.
+
+end of document.

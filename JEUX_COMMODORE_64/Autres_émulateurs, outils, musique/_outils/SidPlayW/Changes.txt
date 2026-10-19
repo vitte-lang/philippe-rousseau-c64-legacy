@@ -1,0 +1,932 @@
+                    Changelog for SIDPLAY/Windows
+                    -----------------------------
+
+October 30 1998:
+
+/***********************************************************
+ * Minor release - emulation fix
+ **********************************************************/
+
+Changes in the emulation engine (1.36.25 to 1.36.29):
+
+* Adapted some MOS-6581 read-out combined waveforms from reSID.
+
+
+
+August 7 1998:
+
+/***********************************************************
+ * Minor release - single bug fix
+ **********************************************************/
+
+Changes in the Windows port / user interface:
+
+* The mixer toggle (on/off) was not properly set from the mixer
+  window in the previous two versions. Fixed.
+
+
+
+August 6 1998:
+
+/***********************************************************
+ * Minor release - bug fixes
+ **********************************************************/
+
+Changes in the Windows port / user interface:
+
+* The filter toggle (on/off) was not properly set from the filter
+  window in the previous version. Fixed.
+
+* Fixed case where a sid added to the playlist sometimes had
+  subsong 1 instead of the default one.
+
+
+
+August 4 1998:
+
+/***********************************************************
+ * Major release - STIL View, emulation fixes
+ **********************************************************/
+
+Changes in the emulation engine (1.36.10 to 1.36.25):
+
+* Band-pass test.
+
++ Fixed PP-support against segmentation faults in case of
+  damaged compressed data.
+
++ Perform ``4th-channel'' DigiScans also for second digi channel.
+
+* Replaced the heavily detuned combined waveform $50 and dropped support for
+  the very old combined waveforms.
+
++ Added emulation of SID feature ``silent voice 3''. Better late than never.
+
+* Made essential filter calculations fully dependent from output frequency.
+
+
+Changes in the Windows port / user interface:
+
++ Added a STIL View, to show info from STIL.txt and BUGlist.txt in the
+  High Voltage SID Collection. Configurable from the new Settings|HVSC
+  dialog. Uses STIL View v1.12 by LaLa. Please read STIL.faq in the HVSC
+  if you have any questions regarding the STIL entries.
+
+* Fixed the default file filter for the playlist edit window to
+  conform with the rest of the program.
+
+
+
+February 10:
+
+/***********************************************************
+ * Minor release - emulation fixes
+ **********************************************************/
+
+Changes in the emulation engine (1.35 to 1.36.10):
+
+* Waveform $60 is audible on a MOS-6581 as well.
+
+* Made speed of auto-panning independent from fast sidtune speed. However
+  it was not worth the effort to do the same for slow sidtune speed.
+  
+* Band-pass and high-pass filter reconfigured. Band-pass filter is not yet
+  adjustable.
+
+* Minor fix to the SID filter cut-off frequency value.
+  Take three least significant bits instead of eight.
+
+* Minor fix to the noise waveform. Now it is also correct for very high noise
+  frequencies as well as low soundcard frequencies.
+
+* Finalized synchronization click fix from v1.32 (e.g. R1D1.sid).
+
+
+Changes in the Windows port / user interface:
+
+- Dropping support for the win32s version. New versions will
+  require Windows 95 or later, or Windows NT 4.0 or later.
+
++ Added shortcut keys for playspeed - Alt+1 for x1 speed,
+  Alt+2 for x2 speed and Alt+4 for x4 speed.
+
+* Changed Michael's e-mail address in the About box.
+
+- Removed the auto panning radio button in the mixer dialog.
+
+- Removed my old icons from the program.
+
++ Added small icon by Jonathan Hunt for the title bar.
+
+* Changed compiler, resulting in faster but larger code.
+
+
+
+October 16:
+
+/***********************************************************
+ * Minor release - emulation bug fixes and enhancements
+ **********************************************************/
+
+Changes in the emulation engine (1.34 to 1.35):
+
+* Emergency release: Experimental envelope emulation changes in the 1.31 version
+  have broken sidtunes. Since emulation emphasis is put on older sidtunes, the
+  changes have been cancelled.
+
++ Added an alternative combined waveform (-> MOS-6581).
+
+
+* Fixed digi bug: Galway-Noise sample period interfered with normal samples.
+
+* Fixed sample frequency-shifting register $D45D.
+
+
+Changes in the Windows port / user interface:
+
+* The playtime edit box now also accepts time given in MM:SS format.
+  Basically any separator, like ':', '.', etc. are accepted.
+
+
+
+October 1:
+
+/***********************************************************
+ * Major release - new emulation engine, bugfixes and adjustments
+ *                 for the High Voltage SID Collection v2.0
+ **********************************************************/
+
+Changes in the emulation engine (1.32.1 to 1.34):
+
++ Second digi channel (real samples only) at $D51D upwards.
+
+* Fixed high/low sample-order bug.
+
+* Changed filter type 7
+
+
+Changes in the Windows port / user interface:
+
+* Possibly fixed the bug where SIDPLAY would sometimes skip over files
+  in a playlist. I could not reproduce this behavious myself, so please
+  report any changes (or lack of).
+
+* Made the song selection bar adjust the song no 1 step, regardless
+  of whether the click is on the arrow or next to the slider.
+
+* Changed font in the Directory UI window and removed the Close button.
+
+* If the Directory UI window is higher than it is wide, the listbox will
+  only show a single column with a vertical scrollbar(if needed). If
+  it's wider than high, multiple columns will be shown with a horizontal
+  scrollbar(if needed).
+
+* Made SIDPLAY (once again) use the Settings-Extensions values as well as
+  the built-in ones when loading two-part sidtunes.
+
+* Added 3 new icons by Kris/Clique
+
+* The File|Open dialog now remembers the previously selected file type.
+
+* Made the conversion dialog handle long filenames.
+
+* Made the playlist dialog handle long filenames.
+
+* Changed all default filters and file extension for PSID files.
+
+
+
+June 18:
+
+/***********************************************************
+ * Minor release - new emulation engine, bugfixes
+ **********************************************************/
+
+Changes in the emulation engine (1.31-beta to 1.32.1):
+
+* Minor quality fix on digi emulation in high/low order.
+
+* Sync+Ring click fix.
+
++ Implemented readable SID + operator 3 (frame based).
+
+
+Changes in the Windows port / user interface:
+
+* Disabled the panning option in surround mode, as it only diminished
+  the surround effect. Surround mode should now work as intended.
+
+* Fixed the bug where the song number would sometimes be incorrect if
+  the slider was moved around, but released on the same subsong.
+
++ Added the option to specify a base directory in the playlist, so that
+  all filenames of the entries will be interpreted at relative paths
+  from this base directory. Only reading of this format is supported, if
+  the playlist is later saved, the entries will have full path names as
+  usual. Only useful for those who edit their playlists by hand.
+  The full filename will be composed by simply adding the Filename string
+  of each entry to the BaseDir string.
+  An example:
+  -----
+    [SIDPLAY/Windows Playlist]
+    Format=1
+    BaseDir=C:\c64music\
+    [1]
+    Filename=barrett\trojanwa.dat
+    Subsong=1
+    Time=79
+  -----
+
++ Added a commandline option: -i, which opens a new instance of
+  SIDPLAY, even if another instance is already running.
+
++ Added the option to NOT remember the conversion source and destination
+  directories, but to function like before that feature was introduced.
+  Add to the [CONVERSION] section of your SIDPLAYW.INI file:
+    RecallDirs=No
+  if you liked it the way it was before. Not adjustable from within the
+  program.
+
+
+
+June 1:
+
+/***********************************************************
+ * Minor release - new emulation engine, bugfixes
+ **********************************************************/
+
+Changes in the emulation engine (1.30-pl6 to 1.31-beta):
+
++ Implementation of short temporary attack in ADSR volume envelope. Under
+  normal circumstances this would *require* a precise cycle-based 6510- and
+  ADSR-emulation. (e.g. drax/jsschrst.dat)
+
++ Smarter locking/unlocking of noise waveform.
+
+
+Changes in the Windows port / user interface:
+
+* Fixed the lack of initialization after emulation settings had changed.
+
+* Fixed the HQ mixing mode that was messed up in the last version
+
+* Made the song selection scrollbar a whole lot longer
+
+
+
+May 27:
+/***********************************************************
+ * Minor release - new emulation engine, long filenames and
+ *                 some playlist fixes.
+ **********************************************************/
+
+Changes in the emulation engine (1.26.1 to 1.30-pl6):
+
++ Most wanted feature: SID chip clock speed now can be set to either PAL or NTSC.
+  This affects the pitch but not the song speed unless "force song speed" is
+  chosen, which will force the C64 clock to be equal to the SID clock, setting
+  any PAL song to NTSC and vice versa. NTSC users now can listen to sids with the
+  intended song speed (the one preset for each sidtune), but the sound of an NTSC
+  SID chip.
+
++ Improved dynamic ADSR envelope emulation. A few sidtunes were dropping notes
+  since v1.27. If some still do, they are most likely bad rips, like the one
+  already found. Check the next HVSC update (v1.5) for working ones.
+
++ New measured volume mode (default, but experimental). Replaces previous
+  "measured master volume" mode.
+
+
+Changes in the Windows port / user interface:
+
++ Support for long filenames in the Directory UI. Made it configurable, so
+  one can choose long or short filenames with lower, upper or mixed case.
+  The order of files, directories and drives is also selectable.
+
++ The source and destination directories of the conversion dialog is
+  now preserved between conversions.
+
++ A playlist (*.SPL) can now be supplied on the commandline, dropped on the
+  main window, or opened in File|Open. The list will be loaded and the first
+  entry will start playing.
+
+* The bug allowing autopanning in mono mode is fixed.
+
+* When a playlist is loaded or created, the first entry is no longer selected.
+  In normal mode, pressing Next will go to the first entry and Prev to the last.
+  In random mode, a random tune will be played when Next is pressed.
+
+* Bug fixed where a playlist with bad entries would cause a crash when loaded.
+
+
+
+April 24:
+/***********************************************************
+ * Minor release - bugfix and new features in emulation
+ * engine + a few minor interface changes
+ **********************************************************/
+
+Changes in the emulation engine (1.26.1 to 1.27.3):
+
+* Fixed amplification bug which was introduced in the 1.26 engines !!!
+
++ ADSR-envelope improved/fixed.
+
++ Non-clipping 25% amplification for three-voice-only (no digis) sidtunes.
+
++ Implemented trivial "little-endian"-specific speed optimizations (e.g. Intel !).
+
++ Implemented Stereo Surround and experimental auto-panning.
+
+* Changed behaviour in case of dynamic SID filter-type changes.
+
++ Sidtune loader now fetches valid sidtune file name extensions from a list
+  and consecutively builds each full file name and tries to load the file
+  until it detects one of a pair of files to be in a sidtune format.
+  Default file name extensions:
+  .sid .dat .inf '' .data .info .DAT .INF .c64 .prg
+
+
+Changes in the Windows port / user interface:
+
+* Changed default frequency to 22050 Hz
+
+* Removed "SIDPLAY" from all but the main window titles.
+  Renamed filter window to "SID filter", some believed that the
+  SID filter was not emulated, but an external filter added on.
+
++ Added controls for Stereo Surround mode and the auto-panning
+  feature
+
++ Added SID listening odometer. Look in the about dialog.
+
++ Added support for the Return key in the Playlist Edit dialog
+
+
+
+April 3:
+/***********************************************************
+ * Minor release - emulation engine updated + a few changes
+ **********************************************************/
+
+Changes in the emulation engine (1.25.2 to 1.26.1):
+
++ Implemented noise table optimization.
+
+* Fixed stereo mixing bug.
+
+* Changed amplification if SID filter emulation is off.
+
+
+Changes in the Windows port / user interface:
+
++ Added checkboxes to the Emulation settings dialog for the
+  MOS-8580 waveforms and measured ADSR master volume. Both are checked
+  by default (in the previous version they were not properly set).
+
+* Changed order in the windows title from "SIDPLAY - title"
+  to "file - SIDPLAY" by request and to conform with the
+  Windows 95 standard.
+
+
+
+March 17:
+/***********************************************************
+ * Minor release - emulation engine updated + a few bugfixes
+ **********************************************************/
+
+Changes in the emulation engine (1.22.2 to 1.25.2):
+
++ Put ADSR volume envelope in front of filter. Just like the real SID.
+  Therefore had to change the internal mixing a lot. Now much shorter,
+  but not noticably faster (on Linux) :(  Includes corrections of clicks.
+
++ Improved the SID emulator's behaviour upon changing the operator frequency
+  and waveform. Sounds much smoother now in special cases.
+
++ Now using measured ADSR envelope master volume levels by default.
+
++ Removed clicks related to the SID's TEST bit.
+
++ Replaced the combined waveforms with better tables, which were recorded
+  from a MOS-8580 R5 and contributed by Dennis "Deadman" Lindroos.
+  Made the usage of these waveforms configurable. Enabled by default.
+
+* Noise waveform fixed for soundcard frequencies around 22.05 kHz.
+
+* Small internal changes: Sample sign changed, filter amplification changed,
+  some clicks removed, init/reset changed.
+
++ Added temporary code to return random values upon reading D011/12, DC04/05.
+
+
+Changes in the Windows port / user interface:
+
+* Made the playlist window resizeable
+
+* Fixed update of list marker when stepping back in the list
+
+* Fixed bug where first playlist entry would lose it's settings
+  when another entry was deleted
+
+* Restored the white background of the DIR UI window in the win32s version.
+
+* Made use of Mixer API more tolerant for older soundcards.
+
+* Removed the PlaySID mode reminder box, due to several requests. Please
+  note, however, that you should never have to use this mode if you have
+  the latest High Voltage SID Collection! Read the docs on the SIDPLAY
+  homepage for an explanation of what these modes really mean. 
+
+
+
+February 11:
+/***********************************************************
+ * Minor release - temporary bugfix
+ **********************************************************/
+
+* The problem where SIDPLAY crashed when playing some tunes in
+  full bank-switching mode has temporarily been fixed by using
+  another compiler.
+
+
+
+February 10:
+/***********************************************************
+ * Major release - emulation improvements and playlist(beta)
+ **********************************************************/
+
+Changes in the emulation engine (1.21.5 to 1.22.2):
+
++ Optional full bank-switching support. Special thanks to Wilfred Bos for
+  reminding me of the true $01-behaviour. In previous versions the
+  bank-switching was only partially implemented.
+
++ Due to compatibility concerns the extra "transparent ROM" mode was added.
+  If this mode is enabled, the Basic/Kernal-ROM address space is transparent
+  to load/store instructions. Still, Kernal-jumps are intercepted by checking
+  the bank-select register whether Kernal=ON. Accessing the RAM under the I/O
+  area requires the usage of fully valid bank-select values, too.
+  This should be the default.
+
++ New and improved INFO file support based on Peter Kunath's source code
+  example. This one checks a constant Magic Number and Version Number and
+  correctly parses the file up to possible tooltype strings. This code
+  does not require the default tool to serve as a constant Id by containing
+  "SID:PlaySID".
+
+* Improved the MUS file support to not turn mad in case of corrupt files.
+  The parser was able to run into a deadlock.
+
+* Fixed the speed of the virtual fourth digi channel in case of SPEED=1.
+  By accident it was processing samples at NTSC clock speed, but should have
+  been PAL clock speed. Thanks to Dennis Lindroos for reporting this bug.
+
+* Changed the NTSC-speed mode to a prefered behaviour:
+     50 Hz VBI (PAL)      =>  60 Hz VBI (NTSC)
+     CIA 1 Timer A (PAL)  =>  CIA 1 Timer A (NTSC)
+
+* Changes in the digi emulation to simulate PlaySID's behaviour
+  in a special case.
+
++ Implemented Asger Alstrup Nielsen's noise algorithm. Removed the old
+  white-noise frequency-shifting approach. Takes more CPU power for sidtunes
+  that use the noise waveform very much !
+
+
+Changes in the Windows port / user interface:
+
++ Playlist implemented.
+
+* Subsong selection now with a scrollbar. Drag the scroll box to the selected
+  subsong and release to start playing or press the arrow keys for the same behaviour
+  as the plus and minus buttons in the last version.
+
+* Removed minimizing capabilities of dirui and filter window
+
+* Changed/added some hotkeys: Alt+Up and Alt+Down is now next/previous subsong,
+  Alt+Left and Alt+Right is now next/previous list entry
+
++ Added global hotkeys (i.e. works even when another program is in the foreground):
+  The Control+Alt+arrow keys globally has the same function as Alt+arrow keys has
+  when SIDPLAY/Windows is in the foreground.
+
+* Fixed the volume restoring upon exit.
+
+* Fixed a bug in the (unreleased :) Win95 version where the filter values would
+ change slightly from time to time.
+
+
+
+January 8:
+/*
+ * New this time is the Windows 95 version.
+ */
+
+v1.21.5 of the emulation engine by Michael Schwendt incorporated, which
+fixes a few problems and uses a little less CPU.
+
+Fixed crash when the number of buffers was changed during play.
+
+Now maintains the user-selected frequency value even when not used.
+
+Added delete file option in the directory window. Simply press delete
+(you'll be asked for confirmation before the file is deleted).
+
+The Directory window now keeps focus when you switch between musplayer and
+ordinary files (which makes the main window resize).
+
+Upon exiting, the main volume is now restored to the level it was when
+SIDPLAY/Windows was started.
+
+Windows 95 version has the following differences from the old one:
+* Multithreaded playback. The thread that handles the actual playing has a
+  little higher priority which should fix some glitches.
+* The main volume control updates itself if another program changes the wave
+  volume. The mixer API is used. Please report troubles with the volume control!
+* Faster. It's compiled using a compiler that produces faster code.
+
+
+November 3:
+
+v1.19.18.1 of the emulation engine by Michael Schwendt incorporated, which
+fixes a few emulation bugs.
+
+Fixed bug where the main volume wouldn't get set until the mixer was opened
+
+Minor bug fixes.
+
+
+October 4:
+
+/*
+ * Due to the very limited time I have this fall, no big changes has been
+ * made. The emulation engine update makes this release worthwhile though.
+ */
+
+v1.19.16 of the emulation engine by Michael Schwendt incorporated, which
+has the following changes from the 1.17.3 version:
+
+* Rewrote the support for some file formats. Now are supposed to be safe
+	against any access violations and segmentation faults.
+
+* Fixed ``fast forward'' replay. This didn't work with tunes which wrote values
+	to the CIA timer. The fast-forward immediately jumped back to normal mode.
+
+* Changed the triangle-pulse waveform combination.
+
++ Adjustable volume envelope processing frequency. Might decrease the
+	envelope quality for very low frequencies, but could gain a few more
+	percent of less cpu usage.
+(SIDPLAY/Windows: Currently not used)
+
++ Added 6510-emulation support for the illegal instructions part 3.
+	The implementation is considered to be only partially working due to
+	inconsistencies in the available documentation.
+	(Fixes Anthony Crowther's ``Beverly Hills Cop'' !)
+
++ In search for speed ... small optimizations.
+
+(SIDPLAY/Windows: only the 32-bit version benefits from these optimizations)
+
+Added a Save as option. Now you can save the current sid file as a
+PlaySID, SID info or C64 data file as well as WAV.
+
+Added the Settings|Extensions dialog to allow the default file extensions to
+be modified. One could for example have all PlaySID files named .PSD instead
+of .dat.
+
+Added a check for available diskspace before saving WAV file.
+
+Widened the main window a bit.
+
+
+September 5:
+
+Fixed the bug introduced in the September 3 version, where the mixer
+settings sometimes wasn't saved properly.
+
+
+September 3:
+
+/*
+ * No great new features this time, just some bugfixes and usability
+ * improvements.
+ */
+
+Changed info box list order to load, init, play and fixed mix-up of init
+and play addresses.
+
+Added a cancel button to the save as wav progression dialog box.
+
+Removed the Exit button from the main window and made it more compact.
+
+Restructured the menu.
+
+Disabled the main window controls and some menu items when no file is loaded.
+
+Fixed bug where SIDPLAY couldn't be restored from the task bar if it had been
+closed during minimized state.
+
+Added saving of filter and mixer window positions to the SIDPLAYW.INI file.
+
+Added saving of main volume to the SIDPLAYW.INI file.
+
+Added keeping track of which windows that were open when the program was
+closed, and opening them the next time it is run.
+
+If you try to start SIDPLAY when another instance is running, it will
+switch to the running SIDPLAY, and if a tune was given on the command line,
+start playing it.
+
+Removed all command line options except for filename and song number.
+
+
+August 5:
+
+/*
+ * Huge filter-emulation improvements and a nice mixer-window.
+ */
+
+v1.17.3 of the emulation engine by Michael Schwendt incorporated, which
+has major improvements of the filter emulation.
+
+New mixer window, a single one instead of the previous mess.
+
+Filter window for controlling some parameters of the adjustable filter.
+Also nice little graph to look at :)
+
+Moved the mixing mode control to the mixer window and the filter emulation
+toggle to the filter control window.
+
+Save to Wav progression dialog
+
+
+July 10:
+/*
+ * Some bugfixes from Michael. Again released because I wanted to have
+ * the latest possible version on the 2nd High Voltage C64 CD-ROM.
+ */
+
+v1.15.4 of the emulation engine by Michael Schwendt incorporated, which has
+* fixed sample emulation reset
+* fixed problems when info strings in .sid files were over 31 characters long
+
+
+July 7:
+/*
+ * No major changes, only a few bugfixes. Released because I wanted to have
+ * the latest possible version on the 2nd High Voltage C64 CD-ROM...
+ */
+
+v1.15.3 of the emulation engine by Michael Schwendt incorporated, which
+fixes a sample resetting bug.
+
+Changed the shortcut keys to not clash with the Windows standard
+(for instance, Ctrl+S is for save and Ctrl+P is printing). Now all shortcuts
+have the Alt prefix. For File|Open, both Alt+O and Ctrl+O will do the job.
+
+Fixed bug where you might end up in a totally different dir in the
+directory window if you've opened a file with File|Open in between.
+
+Fixed handling of filenames on the command line in Windows 95. Long
+filenames work as well.
+
+
+June 30:
+
+v1.15.2 of the emulation engine by Michael Schwendt incorporated, which has
+* fixed major bugs in the 6510-interpreter
+* fixed some clicks and the notch filter
++ switchable filter emulation
++ internal changes, which makes the next feature possible
+
+The music no longer stops when the conversion dialog is opened
+
+Added "Delete source file" checkbox in the conversion dialog, which causes
+the source file to be deleted after a successful conversion, if checked.
+Be careful with this one! Keep a backup copy around.
+
+Added option to convert to sid+dat files in one pass, instead of having to
+convert to sid files first, then dat files.
+
+Changed the "Files to convert" default radiobutton to "selected"
+
+Fixed display of the ampersand character (&) in song titles, etc
+
+Added option in the emulation dialog for the filter emulation
+
+Changed the relation between the directory window and the main window;
+they now show as a common entry in the Alt+Tab list, but the directory window
+is always on top of the main window. I think this is better than before, but
+please tell me which way you prefer!
+
+Added more support for keys in the Conversion and Dir-based UI
+directory listboxes. Pressing backspace will take you up one directory,
+like double-clicking [..], pressing enter will "double-click" the current
+entry.
+
+
+June 16:
+
+Added saving of mixing mode and settings
+
+Fixed wrong volume level at startup
+
+New icon, thanks to Jonathan Hunt's artistic skills
+
+File conversion dialog added. Use this one to convert whole directories
+of sid files to chosen format. For example, suppose you've got a dir full
+of sid files in DAT+SID format. Use the filter to show all *.dat files,
+set destination directory to the same as the source, convert all files
+with the overwrite option, making the PSID files (.dat) overwrite the old
+.dat files, remove all .sid files and you've replaced all DAT+SID files
+with a corresponding DAT file in PSID format. Be a little careful with
+the overwriting though, make sure you have a backup if something goes wrong.
+
+
+June 10:
+
+v1.14.4 of the emulation engine by Michael Schwendt incorporated, which has
+- fixed the 64KB memory leak (again!)
+- fixed the 16-bit mixing in the 16-bit version, finally.
+- new and better synchronization
+- added channel muting and stereo panning support
+- added option to save audio data and/or info (not used in this version)
+
+Fixed problem with iconizing the program
+
+Removed the Maximize button and the resizeable border
+
+Added saving of window position to the SIDPLAYW.INI file
+
+New directory-oriented file selection added. Double-click on a file to
+play it, on a directory or drive to change to it. Much like the DOS version.
+
+Added a volume control. Pretty crude, but there usually comes a separate
+mixer-program with the soundcard. This one fits the basic needs.
+
+Added mixing mode option to the Emulation dialog.
+
+Added two new menu items, Settings - Voices and Settings - Panning,
+for controlling the voice volumes and panning.
+
+Added more shortcut keys:
+Ctrl+P     = Play/Pause
+Ctrl+S     = Start/Stop playing
+Alt+W      = Save as Wav
+Alt+D      = Show/Hide the directory window
+Ctrl+Left  = Previous subsong
+Ctrl+Right = Next subsong
+Ctrl+Up    = Toggle playspeed x2
+Ctrl+Down  = Toggle playspeed x4
+
+Plus a few minor fixes/improvements
+
+
+May 26:
+
+v1.13 of the emulation engine by Michael Schwendt incorporated, which has
+- fixed a 64KB memory leak
+- fixed the emulation of ring modulation to completely use a 2nd method
+- real 4 to 8-bit sample conversion of "volume samples"
+- added/ported the old linear envelope emulation from SIDPLAY/DOS 1.04b
+- fixed some bugs in the 6510-interpreter
+- fixed bug handling sid files with more than 10 songs
+
+Decreased stack usage when saving to WAV file.
+
+Fixed error when dropping a file onto Sidplayw when there's no file loaded.
+
+The selected wave device is now properly saved.
+
+The play settings dialog now disables certain selections if the selected
+device cannot handle them.
+
+Added an icon, to maybe fix the reported trouble with minimizing the program.
+This icon is only temporary because of its ugliness :) Submissions welcome!
+
+The improved PlaySID compatibility option now defaults to OFF.
+
+Added shortcut keys for File-Open (Ctrl+O) and File-Exit (Alt+X).
+
+The main window now shows all 5 description rows of Sidplayer files.
+
+
+April 1:
+/*
+ * A little less buggy version, but still worse than March 24...
+ */
+
+Fixed the .SID file support.
+
+Readded support for the force NTSC speed (-n) (lost in previous version).
+
+Current song speed now shows in playing window.
+
+File format now shown in info dialog.
+
+Increased stack space should fix some strange bugs.
+
+Fixed error with info dialog box with no open file.
+
+
+May 5:
+
+v1.10 of the emulation engine by Michael Schwendt incorporated, which
+improves the envelope emulation.
+
+Few minor fixes: About box now modal, the window title shows song name
+instead of file name, default settings for first use.
+
+
+May 2:
+
+v1.9 of the emulation engine by Michael Schwendt incorporated, which
+adds speed optimizations, fixes a bug and improves the emulation.
+Also fixes the 16-bit mixing in the 16-bit version(almost).
+
+
+April 8:
+/*
+ * More changes in the emulation, a few fixes, and my being away for
+ * some time after today rushed this beta to you.
+ */
+
+v1.8.1.2 of the emulation engine by Michael Schwendt incorporated, which
+features 16-bit mixing, variable playing speed, data file memory cache,
+and some emulation fixes.
+
+Fast forward play (x2 and x4) is now selectable. As in the DOS version of
+SIDPLAY, there is a slight delay before the change in speed has an effect.
+The smaller and fewer buffers selected, the shorter this delay will be.
+
+When 16 bits per sample is chosen, 16-bit mixing is used, but the original
+waveforms are still 8 bit. 16-bit mixing sounds strange in the 16-bit version
+of SIDPLAY/Windows so those using that one should choose 8 bits per sample.
+
+Emulation settings are now in a separate dialog box (instead of different
+settings for WAV and play) which also includes the following two options.
+
+The force NTSC speed option now available from within the program.
+
+There is an option to cache the data file instead of reloading it each time
+a tune is initialized (like previous versions did). This new option shortens
+the time it takes when choosing another subsong within the same SID file,
+especially on big and powerpacked SID files.
+
+The program doesn't exit if an error occurs while loading a new file.
+
+A playing song doesn't stop anymore when the "Settings"-"Device..." dialog
+is opened.
+
+
+April 3:
+/*
+ * The last version was less buggy than I first thought, but a few small
+ * changes and v1.7 of the emulation made this one...
+ */
+
+v1.7 of the emulation engine by Michael Schwendt incorporated.
+It adds better emulation and corrected handling of .SID and .INF files.
+
+Saving as WAV and typing in a name without an extension adds .WAV to the typed
+name.
+
+The Open and Save dialogs should now correctly default to the previous
+directory used.
+
+Prevents saving to WAV file without first having selected some WAV settings.
+
+When trying to save as WAV without having loaded any SID file doesn't create
+an empty file anymore.
+
+The improved PlaySID flag now defaults to TRUE
+
+
+March 31:
+/*
+ * Released to get the new features out.
+ * Should have bugtested a lot more before relasing, but a
+ * beta is a beta :)
+ */
+
+v1.6 of the emulation engine by Michael Schwendt incorporated, which means
+better emulation BUT the added support for .SID and .INFO files doesn't
+work reliably in this version.
+
+Save to WAV file implemented with a separate settings dialog.
+(Wow, both SIDPLAY and SID2WAV in one package! Two for the price of one.)
+
+The "Info"-"Psidfile" and the "Settings"-"Device" dialogs
+are now closeable from their system menus.
+
+Different info dialogs for PSID and MUS files.
+
+Drag-and-Drop implemented, plays only the first if the files dropped.
+
+One can now start SIDPLAYW without opening a file first.
+
+The improved Playsid compatibility option (-a) can now be changed from
+the settings dialog.
+

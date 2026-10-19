@@ -1,0 +1,592 @@
+***************************************
+Several C64 Musicians and Known Handles
+           December 19, 1998
+
+  http://www.dhp.com/~shark/c64music/
+
+Note: Only SID musicians who have made
+      2-3 SIDs are in this list.
+***************************************
+
+20CC (20th Century Composers) (a group)
+4-Mat (Simmonds, Matt)
+Abaddon (Taipalus, Timo) / Damage
+Abbott, Chris
+Addict / Topaz Beerline
+ADSR (Advanced Dynax SidRiders) (a group)
+Advanced Dynax SidRiders (ADSR) (a group)
+Agemixer (Yliaho, Ari) / Atlantis / Scallop
+Alfatech (Lalic, Che) / Triad
+Alien (Konarkowski, Stefan) / Warriors of Wasteland
+Alsop, Mike
+Amadeus / Noice
+A-Man (Diemer, Steven)
+AMJ (Audio Master J) (Hilpinen, Juha-Matti) / Side B
+Ammermüller, Chris (Beat Machine)
+Anderson, Kim
+Andersson, Stellan (Dane) / mITCH and dANE 
+Andre (Schröder, André) / Antic / Oxyron
+Andreasen, Simon (Yoko) / Collision / Fiction
+Andreen, Anders
+Andy (Dávidovics, Adám) / Graffity
+Antic (group)
+Ardem, Eric (Ela) / Antimon
+Arne / AFL
+Arnold, Kenneth W.
+Åstrand, Johan (Zyron) / Antic
+Audial Arts (a group)
+Audio Master Juhis (AMJ) / Side B
+Avalon / Wrath Designs / FairLight
+Axelsson, Hans (Dungeon Master, the {TDM}) / Triad
+Baboons (group)
+Babyface / Clique
+Bachliñski, Sebastian (Moog) / Keen Acid
+Bakewell, Dwayne (Morbid) / Onslaught
+Balai, Rodney / Audial Arts
+Baldwin, Neil (Demon)
+Banana (Mühlan, Christof) / TEK
+Bappalander (Oldberg, Ove) / Light
+Barracuda (Broschk, Carsten) / Extend
+Barrett, Steve (The Eggman)
+Bart (Konttinen, Tommi) / Collision
+Bassline
+Bate, Neil A.
+Beathoven / Reflex
+Beat Machine (Ammermüller, Chris)
+Beben, Wally (Hagar)
+Beg, Goran (String) / Chaos
+Bendt, Thomas (Scortia)
+Benn (Daglish, Ben)
+Berggreen, Carsten (Scarzix)
+Berglind, Stefan (Doxx) / Noice / Swemix
+Biasillo, Gary
+Biggs, Stephen C.
+BIO (Bleed Into One) (Griebel, Rene) / Bass
+Bjerregaard, Johannes (Jozz) / Danish Music Company / MoN
+Bjornerud, Sebastian
+Blasnik, Oliver
+Bleed Into One (Griebel, Rene) / Bass
+Blue Ninja, the (Hutzelmann, Lars) / Demons of Sound
+Bogas, Ed
+Bogg (Marsh, Graham)
+Boogaloo (Nielsen, Linus)
+Booker (Kubica, Marcin)
+Bosch, Roel
+Brandt, Georg
+Brian (Farkás, Balazs) / Graffity
+Brimble, Allister
+Brite-Lite / Dekadence
+Brooke, Jason C.
+Broschk, Carsten (Barracuda) / Extend
+Bulka, Adam / FAME
+Callet, Charles
+Cane (Makrai, Ákos) / ADSR
+Cannon, Matthew
+Carlos / Breeze
+Carlsson, Anders (Goto80) / Hack 'n' Trade
+Celtic Design (Nagie, Sascha) / Demons of Sound
+Ceuppens, Patrick (Lyon)
+Chlebec, Roman (CreaMD) / DMagic
+Chock / Maniax
+Choe, Sanke Michael (SMC)
+Choroid (Dunn, Jonathan)
+Chotaire
+Chris / 711
+Christensen, Kim Tolstrup (Future Freak) / Dexion
+Chubrock (Szödényi Jr, István) / Natural Beat
+Circle (Feiweier, Gösta {Syenit}) / Digital Excess
+Clansey, Paul
+Clarke, Peter
+Cleve (Kowalski, Norbert) / CRD
+Coax (Paronen, Mikko) / Topaz
+Cohen, Frank
+Collis, Simon (Uzzy) / Entropy
+Collision
+Compod (Majewski, Roman) / Amorphis Group
+Comer / Sun Designs
+Conan / Shield
+Connolly, Sean (Odie) / Sonix Systems
+Cooksey, Mark
+Cox, Chris
+Crabtree, Ian W.
+Crack (Khugiani, Naveed) / Fantasys
+CreaMD (Chlebec, Roman) / DMagic
+Crest (a group)
+Crossley, Neil / JVM Design
+Crowther, Antony (Ratt)
+Cseh, Andor (DOS) / ADSR
+Cumming, John
+Cuomo, Jim
+Daglish, Ben (Benn)
+Dahlqvist, Kaspar (Evony) / Nordic Beat
+Dalton (Stojanovic, Sasha)
+Danielsson, Johan (JLD)
+Danko, Tomas Jr. (Gaunt & Danko)
+Daugaard, Anders (Duck LaRock)
+Dave / Oxyron
+Dávidovics, Adám (Andy) / Graffity
+Daw (Fahlander, David) / Triad
+Deadman (Lindroos, Dennis)
+Dealer / Drive
+DECOY / Excess
+Deek (Rinn, Richard)
+Deenen, Charles (The Mercenary Cracker {TMC})
+Deetsay / Panic
+Defbeat / TRC
+Demon (Baldwin, Neil)
+Derrett, Jay
+Desessart, Nicolas (Doh)
+Detert, Thomas
+Devilock / X-Rated
+Diemer, Steven (A-Man)
+Diflex
+Digital Syndicate
+DLS / WEB
+Doh (Desessart, Nicolas)
+Dolloway, Gareth (Tonka) / Cosine Systems
+Donne, Marcel (MAD) / Scoop / MoN
+DOS (Cseh, Andor) / ADSR
+Doxx (Berglind, Stefan) / Noice / Swemix
+Drago
+DRAX (Mogensen, Thomas) / Vibrants
+Dream Maker, the / HCS 5005
+Dru (Rodger, Andrew)
+Dr. Knox
+Dr. Voice / Panic
+Dr. Zoom (Erbsland, Tobias) / Atlantis
+Drummond, Bernie
+Duck LaRock (Daugaard, Anders)
+Duddle, Greg
+Dungeon Master, The (Axelsson, Hans {TDM}) / Triad
+Dunkels, Adam (Trident) / Triad / Active
+Dunn, David
+Dunn, Jonathan (Choroid)
+Duyckaerts, R
+Echo (Tichelmann, Kay) / Comic Pirates
+Eggman, The (Barrett, Steve)
+Einstein (Roebuck, Kristopher)
+Ela (Ardem, Eric) / Antimon
+Elektro
+Elmén, Anders (Moon) / Flash Inc
+Erbsland, Tobias (Dr. Zoom) / Atlantis
+Errors
+Estcourt, M.J.
+Euratom (a group)
+Evony (Dahlqvist, Kaspar) / Nordic Beat
+Extermer (Vaca, Ramiro)
+Eye / Vermes
+Fahlander, David (Daw) / Triad
+Fanta (Roetzch, Alexander) / Bass / Oxyron
+Farkas, Balazs (Brian) / Graffity
+FCS / Finnish Gold
+Feekzoid (Hannay, Paul)
+Feiweier, Gösta (Circle, Syenit) / Digital Excess
+Fielding, Roy
+Fitzpatrick, John A.
+Flash / FCG
+Flotsam (Kangas, Riku)
+Flynn, Terry (Roy Batty)
+Fogelberg, Björn (Knatter) / Xakk
+Follin, Geoff
+Follin, Tim
+Fozzie (Westling, Stefan)
+François, Marc (Skywave) / Sonix Systems
+Freeze / Faces
+Fuben / Oxyron
+Fulcrum (Hellstadius, Svante)
+Fun Fun (Troelsen, Michael) / Triangle
+Funny / Fun Factory
+Furniss, Matt
+Future Freak (Christensen, Kim Tolstrup) / Dexion
+Gallefoss, Glenn Rune (GRG) / Blues Muz'
+Galway, Martin
+Gaston (Thiel, Sebastian)
+Gaunt (Danko, Tomas Jr. {aka Danko})
+Gaxx (Raeburn, Gavin)
+Gehrmann, Holger
+Genius / Palace
+Gerad
+Gez (Gourley, Gerard) / Sonic Grafitty
+Gibson, Tony
+Gilmore, Adam (Gizmo)
+Gizmo (Gilmore, Adam)
+Glover, Randy
+Glover, Roy
+Goto80 (Carlsson, Anders) / Hack 'n' Trade
+Gourley, Gerard (Gez) / Sonic Grafitty
+Grahnert, Ron (Odysseus) / Eastgang
+Gray, Fred
+Gray, Matt
+Griebel, Rene (Bleed Into One) / Bass 
+Griff (Varga, Péter)
+GRG (Gallefoss, Glen Rune)
+Grieve, Nigel
+Grimson, Andy
+Grøngaard, Klaus (Link)
+Hagar (Beben, Wally)
+Hagen, Carl
+Hanlon, David Mark
+Hannay, Paul (Feekzoid)
+Hannula, Antti (Scorpion) / Artline Designs {ALD}
+Hansen, Torben (Metal)
+Hansford, Graham
+Han Solo (Rosenstiel, Joerg) / Sharon Soundworks
+Hansson, Daniel (Matrix) / Zone 45 / Nordic Beat
+Harlequin
+Harmony Productions
+Harries, Jan Diabelez Arnt (rambones) / The Supply Team
+Harrison, Mark
+Hartung, Matthias (The Syndrom)
+Hartwig, Stefan
+Hatlelid, Kris
+Havoc / Flatline
+HCL (Malmborg, David) / Booze Design
+Helldin, Emil (Red Devil) / FairLight
+Hellstadius, Svante (Fulcrum)
+Hendriks, Michael / FAME
+Hesford, Paul / Digital Soundwave
+HFC (Weber, Markus {Hyperforce Crack}) / INXS
+Hilpinen, Juha-Matti (AMJ - Audio Master J) / Side B
+Hilpinen, Tero (TBB) / Side B / Extend
+Hinrichs, Tammo (KB)
+Hithouse / The Ruling Company
+Hoff, Lars / Prosonix
+Hogg, Ashley
+Holland, Greg
+Holly (Knipping, Holger) / FAME
+Honey (Honig, Joust) / 1001 Crew
+Hongens, Renier
+Hongens, Theo
+Honig, Joust (Honey) / 1001 Crew
+HTD (Tamminen, Mikko) / Topaz Beerline
+Hubbard, Rob
+Hülsbeck, Chris
+Hutzelmann, Lars (The Blue Ninja) / Demons of Sound
+Huus, Jens-Christian (JCH) / Vibrants
+Hyperforce Crack (Weber, Markus {HFC}) / INXS
+Image / Dynamix
+IQ 64 (Lindanger, Trond Kjetil)
+Iron Cat / The Ruling Company
+Jackal, The (Leitch, Barry)
+Jackson, Chris (Megmyx)
+Jadawin (Norrman, Kalle) / Padua
+Janek / Jewels
+Japmaster (Potts, Julian)
+JCH (Huus, Jens-Christian) / Vibrants
+Jeff (Lund, Søren) / Camelot
+Jensen, Henrik B.
+Jervis, Andy
+Jipe (Petersen, Jimmy) / The Supply Team
+JLD (Danielsson, Johan)
+JO (Olsen, Jesper {Technic} {Rock}) / Amok / Vibrants
+Johnny B.
+Jonsson, Kenneth (Shade) / Flash Inc
+Joseph, Richard
+Jozz (Bjerregaard, Johannes) / Danish Music Company / MoN
+Junebug (Schutten, Martijn)
+Kangas, Riku (Flotsam)
+Kaze (Petersen, Karsten) / The Supply Team
+KB (Hinrichs, Tammo)
+Kelk, Jason (T.M.R.) / Cosine Systems
+Khugiani, Naveed (Crack) / Fantasys
+Kilic, Huseyin (Wisdom) / Crescent
+Kimmel, Jeroen (Red) / The Judges
+King Fisher (Walleij, Linus) / Triad
+Kirwa, Oliver
+Klaewer, Oliver
+Klee, Oliver (Odi) / MDG / Smash Designs
+Kleinert, Tim / MDA
+Knatter (Fogelberg, Björn) / Xakk
+Knipping, Holger (Holly) / FAME
+Konarkowski, Stefan (Alien) / Warriors of Wasteland
+Konttinen, Tommi (Bart) / Collision
+Koops, Jeroen
+Korn, Dave (Ubik)
+Kotevski, Petar (Trugoy) / TempesT
+Kowalski, Norbert (Cleve) / CRD
+Kraven / Triad
+Kristensen, Morten Sigaard (O'neill & MSK)
+Kriwanek, Mario (MOK)
+Kubica, Marcin (Booker)
+Kubiszyn, Paul / XLCUS
+Lagace, Ken
+Lalic, Che (Alfatech) / Triad
+Larson, Egon
+Laugell, Mario (Steel)
+Laxity (Petersen, Thomas Egeskov)
+Lee, Steve
+Lees, Anthony
+Leitch, Barry (The Jackal)
+Licbarski, Maciej (MHD) / <F> / Motiv8
+Lieblich, Russell
+Light (a group)
+Lightfoot, Chris (TLF)
+Lindanger, Trond Kjetil (IQ 64) / Moz(IC)Art
+Lindroos, Dennis (Deadman)
+Link (Grøngaard, Klaus)
+Link, Chris
+Lisney, James
+LNO / Tristar
+Lords of Sonics (a group)
+Louie (Suvák, Lajos) / Chromance
+Lowe, Dave (Uncle Art)
+Lund, Søren (Jeff) / Camelot
+Lyon (Ceuppens, Patrick)
+MacMagic _and_ MacMagix (Ouwehand, Reyn)
+Mad (Donne, Marcel) / Scoop / MoN
+Magic Man
+Majewski, Roman (Compod) / Amorphis Group
+Makrai, Ákos (Cane) / ADSR
+Malmborg, David (HCL) / Booze Design
+Manske, Thomas (Peace) / Xentax
+Matejka, Ondrej (Mateus) / Torture Of Music
+Mateus (Matejka, Ondrej) / Torture Of Music
+Matrix (Hansson, Daniel) / Zone 45 / Nordic Beat
+MC (Swagerman, Marco) / Dutch USA-Team
+MC Lord (Sommer, Karl) / Cosmos Designs
+Meitz, Volker (PRI) / TIA / Oxyron
+Megmyx (Jackson, Chris)
+Megastyle
+Mellander, Jakob (Quan) / Nordic Beat
+Meredith, Paul
+Mericske, Zoltan
+Metal (Hansen, Torben) / Vibrants
+MHD (Licbarski, Maciej) / <F> / Motiv8
+Midas (Swertvaegher, Stephan)
+mITCH & dANE (Michael V. Nilsson & Stellan Andersson)
+Mixer / Origo Dreamline
+Mogensen, Thomas (DRAX) / Vibrants
+MOK (Kriwanek, Mario)
+Molnár, Péter (Peet) / Natural Beat
+Moog (Bachliñski, Sebastian) / Keen Acid
+Moon (Elmén, Anders) / Flash Inc
+Morbid (Bakewell, Dwayne) / Onslaught
+Mørkrid, Olav / Panoramic Designs
+Mr. Mouse (Zuurman, Michael) / Xentax
+MSK (Kristensen, Morten Sigaard & O'Neill) / Crest
+Mühlan, Christof (Banana) / TEK
+Murphy, M.
+Musardo, Guiseppe (Xayne) / Crest
+Mutka, Kenneth (Slaygon) / Censor
+Mysteric
+Nagie, Sascha (Celtic Design) / Demons of Sound
+Nebula (Reszel, Wolfgang)
+Nielsen, Linus (Boogaloo)
+Nilsen, Ronny (Snap)
+Nilsson, Michael V. (Mitch) / mITCH and dANE
+Nilsson-Stig, Anders (Nizze) / Defiers
+Nizze (Nilsson-Stig, Anders) / Defiers
+Nordbø, Kjell / Blues Muz'
+Nordic Beat (a group)
+Norman, Paul
+Norrman, Kalle (Jadawin) / Padua
+Nygaard, Richard
+Odi (Klee, Oliver) / MDG / Smash Designs
+Odie (Connolly, Sean) / Sonix Systems
+Odysseus (Grahnert, Ron) / Eastgang
+Øland, Anders / Zonix
+Oldberg, Ove (Bappalander) / Light
+Olkkonen, Jori (Yip) / Purebyte
+Olkowski, Marcin (Olsen)
+Olsen (Olkowski, Marcin)
+Olsen, Jesper (JO {Technic} {Rock}) / Amok / Vibrants
+O'neill (Kristensen, Morten Sigaard & MSK)
+Orcan (Uram, Stefan) / React
+Ouwehand, Reyn (MacMagic _and_ MacMagix)
+Oxyron (a group)
+Page, Jason
+Page / Deathsector
+Palace / Soundstorm
+Paladin / Collision
+Paljakka, Ari-Pekka (Zardax)
+Palviainen, Harri
+Paronen, Mikko (Coax) / Topaz
+Parson / Equinoxe
+Partis, Gary
+Pasch, Ronny / Audial Arts
+Paul, Falco / 20th Century Composers
+Peace (Manske, Thomas) / Xentax
+Pedersen, Stein
+Peet (Molnér, Péter) / Natural Beat
+Pehl, Michael (The Noise Art)
+Pertout, Adrian
+Petersen, Jimmy (Jipe) / The Supply Team
+Petersen, Karsten (Kaze) / The Supply Team
+Petersen, Thomas Egeskov (Laxity)
+Pettersen, Ole-Marius
+Pilkington, Warren (Waz) / Zaw Productions
+Potts, Julian (Japmaster)
+Predator (Tjelta, Geir) / Moz(IC)Art
+Predonzani, Paolo
+PRI (Meitz, Volker) / TIA / Oxyron
+Priarone, Gabriele
+Prijt, Francois / Audial Arts
+Prime
+Prosonix (a group)
+Pupiec, Tomasz (Scarlet) / Samar
+PVCF / Reflex
+Quan (Mellander, Jakob) / Nordic Beat
+Radziejewski, Wojciech (Shogoon) / Agony
+Raeburn, Gavin (Gaxx)
+Rage (Rodahl, Anders) / Megastyle
+rambones (Harries, Jan Diabelez Arnt) / The Supply Team
+Ratt (Crowther, Antony)
+Rawa, Dariusz (Spike)
+Rayden / Alphaflight
+Red (Kimmel, Jeroen) / The Judges
+Red Devil (Helldin, Emil) / FairLight
+Reszel, Wolfgang (Nebula)
+Reuter, Ringo (Tragic Error)
+Reverb / Lords
+Rideout, Ray
+Rinn, Richard (Deek)
+Rodahl, Anders (Rage) / Megastyle
+Roebuck, Kristopher (Einstein)
+Rock / Finnish Gold 
+Rock (Jespen, Olser {JO} {Technic}) / Amok / Vibrants
+Rodger, Andrew (Dru)
+Roetzch, Alexander (Fanta) / Bass / Oxyron
+Rokling, Henning
+Ronny ROM
+Rosenstiel, Jörg (Han Solo) / Sharon Soundworks
+Røstøen, Kristian (Stormbringer) / Blues Muz'
+Rowlands, Steve
+Roy Batty (Flynn, Terry)
+Saake, Ronald
+Sane (Watkins, Mark) / Nitros Developments
+Santen, Edwin van / 20th Century Composers
+Scarlet (Pupiec, Tomasz) / Samar
+Scarzix (Berggreen, Carsten)
+Schaeffers, Frank / Double Density
+Schlünzen, Sven / Sharon Soundworks
+Schneider, Markus / Warriors of Darkness
+Schröder, André (Andre) / Antic / Oxyron
+Schutten, Martijn (Junebug)
+Scorpion (Hannula, Antti) / Artline Designs {ALD}
+Scortia (Bendt, Thomas)
+Selles, Ward
+Sequencer (Voss, Neil)
+Shade (Jonsson, Kenneth) / Flash Inc.
+Sharon Soundworks (a group)
+Shavitt, Guy / Sidchip Scratchers
+Shogoon (Radziejewski, Wojciech) / Agony
+SID / Time
+Sidbusters
+Siebold, Markus
+Siemons, Hans / Prime
+Signor / Fraction
+Simmonds, Matt (4-Mat)
+Skywave (François, Marc) / Sonix Systems
+Slaygon (Mutka, Kenneth) / Censor
+Sleipner (Thesén, Jonas) / Technical Designs
+SMC (Choe, Sanke Michael)
+Snap (Nilsen, Ronny)
+Soedesoft (Jeroen and Michiel Soede) / Fire Eagle
+Sommer, Karl (MC Lord) / Cosmos Designs
+Sonic (Uysal, Tufan) / Smash Designs
+Sonic Graffiti (a company; spelling uncertain)
+Soulet, Gilles
+Southern, Shaun
+Spike (Rawa, Dariusz)
+Spratt
+Spreen, Andreas
+Starlost
+Stax / Varsity
+Steel (Laugell, Mario)
+Stember, Rudolf
+Stojanovic, Sasha (Dalton)
+Stormbringer (Røstøen, Kristian) / Blues Muz
+String (Beg, Goran) / Chaos
+Suni, Janne (Tempest) / Damage
+Suvák, Lajos (Louie) / Chromance
+Swagerman, Marco (MC) / Dutch USA-Team
+Swallow / Censor
+Swertvaegher, Stephan (Midas)
+Syenit (Feiweier, Gösta {Circle}) / Digital Excess
+Syndrom, The (Hartung, Matthias)
+Szodenyi Jr, Istvan (Chubrock) / Natural Beat
+Taipalus, Timo (Abaddon) / Damage
+Tait, Mark
+Takács, Balázs (Taki) / Natural Beat
+Taki (Takács, Balázs) / Natural Beat
+Tamminen, Mikko (HTD) / Topaz Beerline
+Taylor, Stuart (Xei)
+TBB (Hilpinen, Tero) / Side B & Extend
+TC / Paramount
+TDS / Fluid
+Technic (Olsen, Jesper {JO} {Rock}) / Amok / Vibrants
+Tel, Jeroen (Wave) / Maniacs of Noise (MoN)
+Tempest (Suni, Janne) / Damage
+The Gee (van der Akker, Emile) / Xentax
+The Noise Art (Pehl, Michael)
+Thesén, Jonas (Sleipner) / Technical Designs
+Thierolf, Peter
+Thiel, Sebastian (Gaston)
+Thilo, Nicolai (Zenox)
+Thor / Extend
+TIA {The Imperium Arts} (a group)
+Tichelmann, Kay (Echo) / Comic Pirates
+Tinman, Keith
+Tjelta, Geir (Predator) / Moz(IC)Art
+TLF (Lightfoot, Chris)
+T.M.R. (Kelk, Jason) / Cosine Systems
+Toledo, Pablo
+Tonal Kaos
+Tonka (Dolloway, Gareth) / Cosine Systems
+Top Secret / Cult
+Tracker / Science 451
+Tragic Error (Reuter, Ringo)
+Trident (Dunkels, Adam) / Triad / Active
+Troelsen, Michael (Fun Fun) / Triangle
+Tron / Commando Frontier
+Trugoy (Kotevski, Petar) / TempesT
+Tschoegl, Michael
+Turner, Steve
+Ubik (Korn, Dave)
+Uncle Art (Lowe, Dave)
+Uram, Stefan (Orcan) / React
+Uysal, Tufan (Sonic) / Smash Designs
+Uzzy (Collis, Simon) / Entropy 
+Vaca, Ramiro (Extermer)
+Vanderaart, John
+van der Akker, Emile (The Gee) / Xentax
+van der Beuken, Ron / CCC
+van Dongen, Jurgen / Focus
+Varga, Péter (Griff)
+Vece, Tony
+Voois, Vincent David / Focus Design
+Voss, Neil (Sequencer)
+Warhol, Dave
+Warlock / Panic
+Walker, Martin
+Walleij, Linus (King Fisher) / Triad
+Waz (Pilkington, Warren) / Zaw Productions
+Wedge / FairLight
+Westling, Stefan (Fozzie)
+Wahlberg, Magnus
+Weber, Markus (Hyperforce Crack) / INXS
+Wells, Jon
+White, Roger (WORR)
+Whittaker, David
+Wijnhoven, Joachim
+Williams, Tony
+Williams, Tiny
+Wilson, Mark
+Winterberg, Michael
+Wisdom (Kilic, Huseyin) / Crescent
+Wizard / Street Children / AFL
+WORR (White, Roger)
+Wuiti
+Xayne (Musardo, Giuseppe) / Crest
+Xentax (a group)
+Xei (Taylor, Stuart)
+Yip (Olkkonen, Jori) / Purebyte
+Yliaho, Ari (Agemixer) / Atlantis / Scallop
+Yoko (Andreasen, Simon) / Collision / Fiction
+Zardax (Paljakka, Ari-Pekka)
+Zenox (Thilo, Nicolai)
+Zicchi, Giulio
+Zonix (Øland, Anders)
+Zoran, Thomas
+Zuurman, Michael (Mr. Mouse) / Xentax
+Zyron (Åstrand, Johan) / Antic

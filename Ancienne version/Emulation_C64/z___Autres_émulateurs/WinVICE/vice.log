@@ -1,0 +1,38 @@
+*** VICE Version 0.16.1.1a ***
+
+Welcome to x64, the free portable Commodore C64 Emulator.
+
+Written by
+E. Perazzoli, T. Rantanen, A. Fachat, D. Sladic,
+A. Boose, J. Valta and J. Sonninen.
+
+This is free software with ABSOLUTELY NO WARRANTY.
+See the "About VICE" command for more info.
+
+Loading system file `/commod~1/winvice/C64/kernal'.
+Loading system file `/commod~1/winvice/C64/basic'.
+Loading system file `/commod~1/winvice/C64/chargen'.
+Loading system file `/commod~1/winvice/DRIVES/dos1541'.
+Loading system file `/commod~1/winvice/DRIVES/dos1571'.
+Loading system file `/commod~1/winvice/DRIVES/dos1581'.
+Loading system file `/commod~1/winvice/DRIVES/dos2031'.
+Drive: Finished loading ROM images.
+Loading palette `/commod~1/winvice/C64/default.vpl'.
+VDrive: Unit 8: D64 disk image attached: d:\commod~1\jeux\blast\blast179.d64.
+Autostart: Warning: attached file `d:\commod~1\jeux\blast\blast179.d64' as a disk image to device #8
+Autostart: Warning: rebooting...
+Autostart: Warning: `d:\commod~1\jeux\blast\blast179.d64' detected as a disk image
+Main CPU: RESET.
+Main CPU: starting at $FCE2.
+Autostart: Warning: loading disk
+Autostart: Warning: starting program
+SID: Warning: program reading sid-registers (no sound)
+SOUND: Warning: opened device `dx' speed 22050Hz fragsize 0.023s bufsize 0.372s
+SID: Warning: program uses ring modulation
+SOUND: Warning: closing device `dx'
+SOUND: Warning: opened device `dx' speed 22050Hz fragsize 0.023s bufsize 0.372s
+RESID: Warning: using reSID MOS6581 emulation
+
+Exiting...
+VDrive: Detaching disk image d:\commod~1\jeux\blast\blast179.d64 from unit 8.
+SOUND: Warning: closing device `dx'

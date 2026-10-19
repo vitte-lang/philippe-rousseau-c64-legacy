@@ -1,0 +1,693 @@
+-----------------------------------------------------------------------------
+                        T H E   H I G H   V O L T A G E
+                          S I D   C O L L E C T I O N
+
+                                  release 2.8
+
+                                  December 19, 1998
+
+Compiled by:
+------------
+    Warren Pilkington (Waz of Zaw Productions) <wazzaw@globalnet.co.uk>
+    Jan Diabelez Arnt Harries (Rambones/TST) <rambones@get2net.dk>             
+    The Shark of INC <shark@dhp.com>
+    Michael Schwendt (The Mage) <sidplay@geocities.com>
+    Adam Lorentzon <d93-alo@nada.kth.se>
+    Wilfred Bos <wbos@worldonline.nl>
+    Kristoffer Johansson <d3johkri@dtek.chalmers.se>
+    LaLa (Imre Olajos, Jr.) <LaLa@C64.org>
+    Andreas Varga (mr.sid) <sid@skater.htu.tuwien.ac.at>
+    Gabriele Priarone (G-Knight) <g.knight@iol.it>
+    Darren, Bod/Talent <darren@talent.demon.co.uk>
+    Inge Høie Pedersen ("448") <inge.pedersen@bamble.kommune.no>
+    Laust Brock-Nannestad <laustbn@diku.dk>
+
+          -> Members of the C64 Historical Preservation Society! <-
+-----------------------------------------------------------------------------
+
+----------------
+COPYRIGHT NOTICE
+----------------
+
+All of the tunes available in the High Voltage SID Collection (HVSC) are
+copyrighted and owned by the original authors/software companies.  Use for
+profit would be subject to law.  Do not offer any such contributions to the
+creators of this collection for none will be accepted. 
+
+
+---------
+CONTENTS:
+---------
+
+[1] Introduction
+    [1-1] Brief SID History
+    [1-2] The HVSC Project
+    [1-3] The HVSC Philosophy
+[2] Collection Structure
+[3] How Can I Help?
+    [3-1] Contributing SIDs
+    [3-2] SID Credits
+    [3-3] Identifying Mistakes
+    [3-4] Ripping SID tunes
+[4] Update Information
+[5] Included Documents
+[6] Acknowledgments
+
+-------------------------
+CHAPTER [1]: Introduction
+-------------------------
+
+[1-1] Brief SID History
+=======================
+
+What exactly is a Commodore 64 (C64) SID tune?  Basically it is music
+originally generated on the C64, a popular family computer from the '80s.
+The C64 was undoubtedly ahead of its time offering many advanced features
+for a relatively cheap price.  One particular advanced feature on the C64 was
+the Sound Interface Device (SID) chip developed in 1982 by Bob Yannes.  The
+remarkable capabilities of this chip cause a revolution in the computer music
+industry.  The chip was so revolutionary in fact that Byte Magazine named the
+chip one of the Top 20 most important chips in computing history (see Byte's
+20th Anniversary tribute edition, 1996).
+
+Although the design of the chip was quite a feat, the true test of technology
+is what people can do with it.  The early musical pieces on the C64 were
+impressive for that time frame, but the hidden potential of the chip
+wasn't heard until 1985.  Composers began to use audio "illusions" that
+tricked the ear into hearing more voices than the three-voice chip actually
+had.  The music continued to progress in 1987 when musicians began to
+utilize a fourth voice which was dedicated for samples.  Although many other
+improvements to SID music have been made over the years, none were as
+important as the two just mentioned.
+
+More importantly, though, was the release of this technology to the C64
+public world.  Back then, composers had to also program their own tools
+otherwise the composers would have to create their music using primitive
+software.  Due to a competitive game musician market, however, musicians were
+reluctant to share their knowledge.  Through reverse-engineering and some
+eventual leaks, the C64 public soon utilized some of these advanced music
+tools creating a boom in the amount of quality music available.
+
+Throughout the 1990s, the C64 game industry may have ceased to a halt, but 
+there are still many musicians who compose for demo groups, who still enjoy
+the challenge of squeezing as much as they can out of the SID chip.  Most
+of these new tunes will hold special memories for people, but in a different
+way in that you'll remember them from demo X or Y rather than as a game 
+soundtrack.
+
+[1-2] The HVSC Project
+======================
+
+The HVSC Project is an attempt to accurately archive the most popular C64
+SIDs into one complete collection.  The project was started in May of 1996
+when a few ambitious people decided to merge the many SIDs collections
+available on the Internet into one masterpiece.  The previous SID
+collections contained many bugged SIDs, repeats, and inaccurate credits
+not to mention being highly disorganised.  Thus this task was not a simple
+"copy & paste" unfortunately.  An additional challenge for us dealt with
+being compatible with other platforms.  The only way one true collection can
+exist is if we remain compatible with the major operating systems currently
+in use.
+
+As we merged the collections we began to realize that many famous SIDs were
+missing.  This led to the HVSC crew and many others to begin searching
+various C64 software archives for more SIDs to rip.  Due to this effort the
+collection began to grow at an enormous rate.  As we progressed, we then
+noticed that many inconsistencies and questions started to surface.  For
+example, we would find a music credited to a famous composer yet the style
+of the music was completely different than his normal style.  One sure way
+of solving these mysteries was to contact the original composers.  Over time
+we gradually tracked several of them down and received a tremendous amount of
+information.  As you may have figured out, we are SID archeologists patiently
+piecing together SID history with only fragments of information.
+
+You may be asking yourself, "Why go through so much effort for SID music?"
+Only a person who never owned a C64 would ask such a question.  Many people
+long to hear these old, classic tunes that they enjoyed in their youth.
+You don't believe us?  Look at the amount of Television sites that recall
+many a program that as a child you treasured and how much memories you get
+from that.  With SID music, this is true equally if not more so.
+Thankfully with the abundance of SID emulators this is now possible.  What
+was thought to be lost is now found.  Let the tears of joy proceed as you
+listen to perhaps the most accurate and comprehensive computer music
+collection in existence.
+
+* SID emulators are available for many operating systems such as Linux,
+  MacOS, BeOS, Atari Falcon, Windows (3.1, 95, 98, NT), MSDOS, AmigaOS,
+  OS/2, etc.
+
+  For a complete list of supported OSs with links see:
+
+    The InSID Asylum - http://www.dhp.com/~shark/c64music/
+
+
+[1-3] The HVSC Philosophy
+=========================
+
+The HVSC is a free-ware collection.  As tradition with most free-ware
+projects, the organisers maintain the project in their free time.  In order
+to help the HVSC crew keep their sanity, we expect everyone helping the
+project to avoid burdening the maintainers with mundane tasks.  What exactly
+do we mean by this?  Well, basically we expect that if anyone emails us with
+comments, SIDs, questions, etc., that they have first put forth some effort
+so that we do not have to ourselves.  It is all very well stating that
+certain tunes were composed by a certain composer, but if you can also submit
+any worthwhile information to support your statement, then we can check this
+for ourselves as well.  One must realise that a tremendous and painstaking
+amount of man-hours have gone into the project.  In order for the collection
+to continue on, we cannot continue to put forth as much time.  Thus, we ask
+that you take on some of the burden.  Don't let that word "burden" scare you
+too much -- we are only talking about a small amount of work here.
+
+Here are some general, friendly rules to keep in mind:
+
+* Every SID you submit _must_ follow the HVSC credit standard (see Section
+  3-2). 
+
+* Verify claims you make about a SID being bugged either by loading the
+  original tune on a C64 or on a C64 emulator.  Also, if tunes are missing
+  from a SID, then please let us know which ones (see the BUGLIST.txt file
+  for more information.)
+
+* Verify any credit changes you submit either with the composer himself or
+  by loading the actual software.
+
+In general, the messages are VERIFY and STANDARDISE.
+
+Unfortunately, if you do not follow these simple rules we will either ignore
+the email or you will experience a long delay until the submitted changes
+take place.  We hope that we are not coming across as rude, but as we have
+already noted, we have spent years on this collection verifying its
+correctness.  Further, we have spent many a day correcting and re-correcting
+the credits of SIDs so that we can also serve as a vault of information of
+SID music.  If people do not work with the same level of precision as we
+would like them to do the collection will take a regressive step.
+
+---------------------------------
+CHAPTER [2]: Collection Structure
+---------------------------------
+
+There are several ways in which most SID collections have been organised.
+To name a few, by Author's first name, by categories such as demos and games,
+or to have a simple rat's nest of SIDs.  We have chosen to arrange the
+collection by the author's last name or by the author's alias if it was used
+more frequently.  In addition, we have a two level hierarchy scheme where the
+more famous and professional composers are grouped above the demo composers.
+This no way indicates the quality of composition.  Finally, we usually only
+give composers their own directory when we have five or more tunes available
+from them.  This then makes it a little easier for you to locate the
+composer.
+
+Below are a some comments about a few special directories:
+
+/DEMOS - For tunes found in demos in which the artist has less than five
+         tunes.  
+
+/DEMOS/UNKNOWN - For tunes found in demos in which the artists are unknown.
+
+/DOCUMENTS - If you are reading this document, then most likely you have
+             already figured out what this directory is for.  It also keeps
+             an archive of all the update data files and information texts.
+
+/GAMES/X-X - For games first released in which the artist has less than four
+             tunes.  Game tunes with unknown artists go here as well (sadly, 
+             many an older C64 game had no composer information and we
+             usually have had to contact the programmers themselves also to
+             verify)
+              
+/VARIOUS - As mentioned above, this is where mostly demo composers from
+           post-1992 or lesser known composers reside.  Below is the
+           algorithm we use to decide where the composer goes.
+
+ (1) If the artist has no tunes made in 1992 or earlier,
+     go to step #4
+ (2) If the artist has game tunes (3 must be made in 1992 or earlier)
+     above Various
+     else go to step #3
+ (3) If the artist was a famous demo composer in 1992 or earlier
+     above Various
+     else go to step #4
+ (4) Below Various
+
+----------------------------
+CHAPTER [3]: How Can I Help?
+----------------------------
+
+[3-1]: Contributing SIDs
+========================
+
+We love to receive new SIDs for the HV SID Collection.  Of specific
+interest are tunes from games, mainly because the game tunes bring back
+more memories for the people that played them and they were commercially
+available, but we'll take anything you have unless the tunes are lacking
+musical skill (subjective).  Here are some other items we are looking for:
+
+  * Complete collections directly from the composers (this is most ideal
+    as they will usually have all the information we require, too)
+
+  * Loading/Intro tunes used in games.  These are rare since crackers
+    would often not include the tunes along with the cracks.  In particular,
+    cassette loading themes would often not make it in a crack.
+
+  * SIDs already in the HV SID Collection, but with additional sub-tunes.
+    SIDs with additional sound effects are okay, but we prefer SIDs
+    with more tunes instead.  The reasoning behind this is that the extra
+    tunes would have memories from the game for people (particularly any
+    game complete tunes).
+
+  * Fixes of SIDs already in the HV SID Collection.  We have found
+    several tunes that start at the wrong location, have missing voices,
+    with bad samples, etc.  Do if at all possible check them on a C64 first.
+
+  - We DON'T want any Compute Gazette SID tunes *unless* you find a few
+    that are exceptionally good.  We have already listened to NemeSIDs
+    #18-#19 and have rejected around 99% of those.  The only Compute tunes 
+    generally allowed in HVSC are those which featured in games.
+
+  - You will notice groups of tunes where there will be a gap in order.
+    These gaps usually do not mean that we are missing these tunes, but 
+    rather we have found them repeated elsewhere.
+   
+  - We also DO NOT want any SID collections from the Internet unless you
+    are pretty certain none of the tunes are in HVSC.  HVSC will most
+    likely already have all these SIDs.  If you send us collections from
+    the Internet we expect you to eliminate the tunes we already have
+    and make the credits adhere to the HVSC credit standard.   
+
+  - Further, we DO NOT want any C64 tune that is just one looped sample
+    playing over and over again.  Unfortunately around 1987-88 there were
+    a spate of sample-only tunes that had one 20 second long sample 
+    either playing once or infinitely.  If in any doubt, ask us first.
+
+If you have SIDs and would like to send them to us, there are several
+methods in which this can be achieved.  We prefer them to be emailed as an
+included attachment (preferred) or to be uuencoded.  There are other
+possibilities so feel free to email us and we can arrange what ever is most
+convenient.  Note, do not forget to adhere to the HVSC credit standard (see
+below for more information).
+
+Please also DO NOT send any attachment that is more than 500KB without
+mailing us first to let us know and that you have confirmation from us it is
+okay to send.  Unfortunately, a lot of phone companies' pricing structures
+mean that we have to prioritise our time on line to this effect.
+  
+Please mail them to _both_ of the people below:
+
+Warren Pilkington <wazzaw@globalnet.co.uk>
+Jan Diabelez Arnt Harries (Rambones/TST) <rambones@get2net.dk>
+
+You can also if you wish snail mail the SIDs to us on 3.5" disk.  Contact us
+and we are sure we can arrange something for you.
+
+[3-2]: SID Credits
+==================
+
+For those of you that rip, below is the standard for labelling SIDs.  The
+standard should be strictly followed.  If a few rare cases pop up in which
+you are unsure how to handle, just do the best you can or mail us first to
+discuss the credits.  We can always advise you if need be.
+
+   SID Credits Standard
+   --------------------
+
+   NAME      : <TITLE>
+   AUTHOR    : <FIRST_NAME LAST_NAME> (<ALIAS>)
+   COPYRIGHT : <FOUR_DIGIT_YEAR> <COMPANY or AUTHOR or GROUP>
+
+   Fill in any unknown field with a <?>, apart from the COPYRIGHT (see below)
+   Place a maximum of 31 printable characters per field for compatibility
+   reasons.
+   -----------------------------
+
+   Examples:
+
+      <All information is completely known>
+
+      NAME      : Hysteria
+      AUTHOR    : Fred Gray
+      COPYRIGHT : 1987 Software Projects
+
+      <Author and Company are unknown>
+
+      NAME      : Night Racer
+      AUTHOR    : <?>
+      COPYRIGHT : 1988 <?>
+
+      <Author is thought to be known with a *strong* degree of certainty>
+
+      NAME      : Cheapskate
+      AUTHOR    : David Whittaker <?>
+      COPYRIGHT : 1989 Firebird
+
+      <COPYRIGHT date is not exactly known and crack intro has a date or>
+      <you know an approximate copyright date.  Dates in crack intro, by>
+      <the way, can often be extremely inaccurate compared to the actual>
+      <copyright date of the game.                                      >
+
+      NAME      : Deep Strike
+      AUTHOR    : Rob Hubbard
+      COPYRIGHT : 198? Durrell
+
+      Here is a list of how the COPYRIGHT year is handled for various
+      cases:
+
+      198? - tune is made in the '80s
+      199? - tune is made in the '90s
+   1988-89 - exact year in which tune was made is not known, but it is
+             known that the tune was made in this range.
+      19?? - tune was made in the 20th century.  :)
+
+
+   -------------------
+   SID Credit Pointers
+   -------------------
+   (1) Rippers: ABSOLUTELY DO NOT PUT YOUR NAME/ALIAS IN THE SID CREDITS!  
+
+   (2) You should be at least 80% certain of the field you are guessing.
+       To put incorrect credits rather than a <?> would forever ruin your
+       reputation as a serious SID collector. :)  When in doubt, at least
+       follow the doubtful information with a <?>.
+
+   (3) Just because a tune uses another author's famous music routine, that
+       is not enough to signify with certainty that the tune is by that
+       author.  Sometimes authors lent their routine for another to use.
+       Other times the routine was used without permission.  Again, please
+       use <?> if not certain.  
+
+   (4) Don't make up titles (e.g., TITLE: This Tune ROCKS!).  If you are
+       ripping the tune from a demo in which the music was specifically
+       made for that demo, then you can use the demo's name as the title,
+       provided the composer did not give the tune a name.  Often the first
+       few characters of the tune reveal the name, so please do check when
+       ripping.
+
+   (5) DO NOT PUT A SPACE AFTER THE '=' CHARACTER IN THE SID HEADER!
+       (A space should not be the first character of any credit field)
+
+   (6) Try to follow standard English capitalisation rules when inserting
+       the titles into the SID fields.  Examples:
+
+          The Way of the Exploding Fist {correct}
+          The Way Of The Exploding Fist {incorrect}
+
+       Note that if the composer intends some of words in the title to be in
+       lower case, then comply with the composer's wishes (but let us know).
+
+   (7) Normally, you should make the default tune of the SID the first tune
+       you would first hear when running the game/demo.  This is either the
+       cassette or disk loading theme (if there is one) or the title tune of
+       the game, or the first tune of a demo.
+
+   (8) We prefer to have the musician's real name in the AUTHOR field.  If
+       possible, we like to have both alias and real name for demo tunes.
+       The author's real name should precede his handle.
+       Standard -> <AUTHOR's REAL NAME> (HANDLE)
+
+       Examples:
+
+          Torben Hansen (Metal)   {correct}
+          Torben "Metal" Hansen   {incorrect}
+
+       At minimum, the name that the composer used in the game/demo should
+       be in the credits.  Only if there is enough room should you put the
+       his real name or alias.  Note also that you should not put the
+       composer's group name in the AUTHOR field.  Either put such info in
+       the COPYRIGHT line or do not add the info at all.
+
+   (9) At a minimum, make sure to get the C64 publishers in the copyright
+       line for games.  If room is available, feel free to add additional
+       information such as the arcade publishers.  DO NOT assume that the
+       programming team would have published the game themselves.  We do
+       have access to Zzap! 64 reviews indexes, various large collections of
+       original C64 games that we check and double check to make sure.
+
+  (10) The documentation that is included with SIDPlay includes a large
+       quantity of information about how to get C64 tunes working with
+       SIDPlay.  Further, you will find other documents related to the area
+       of SIDs including SID header information at the SIDPlay homepage.
+
+       SIDPlay homepage - http://www.geocities.com/SiliconValley/Lakes/5147/
+
+
+[3-3]: Identifying Mistakes
+===========================
+
+We know that there still exists several mistakes within the HV SID
+Collection and we would appreciate any help in correcting the mistakes.
+In addition, we also would like to have missing information in the SID
+tune credits (i.e., filling in the <?>'s).  If you have some corrections
+or some additional information, no matter how insignificant, let us know.
+
+Please mail to _both_ of the people below:
+
+  Warren Pilkington <wazzaw@globalnet.co.uk>
+  Jan Diabelez Arnt Harries (Rambones/TST) <rambones@get2net.dk>
+
+Before you mail us, please verify the information you are sending
+by either loading the game/demo yourself or contacting the original
+composer.  We have squashed many common beliefs as to who _really_
+composed several tunes.  You might be surprised to see one of your
+favorite tunes now with a different author (the correct one we hope).
+This is why we suggest you first verify the information you plan to
+send us.
+
+Further, we would like to mention that you should not use C64 emulators
+to compare to the sound of SIDPlay or to identify mistakes with tunes in
+the HV SID Collection.  Ideally, you should play the music on a real C64
+and if then you determine that the sound of the rip is not right, you have
+a valid complaint.  There are few instances, however, where a C64 emulator
+can be used to show that a sid tune in HV SIDs is a bad rip.  Such cases
+would include a tune with missing samples or a tune with missing voices.
+
+As yet, most C64 emulators do not emulate the SID filter at all (CCS64, the
+most popular C64 emulator, C64S, and PC64.) and due to the variance of
+filters between C64 machines (up to 20%) you may hear a slightly different
+filter setting in HVSC (this can be adjusted in Sidplay).  Please bear this
+in mind.
+
+[3-4] Ripping SID tunes
+=======================
+
+    Much information about ripping is provided at the SIDPlay web site.
+
+	http://www.geocities.com/SiliconValley/Lakes/5147/
+
+	(click the 'Info' link)
+
+    *Note, ripping SIDs requires some assembly language knowledge.  Thus,
+     ripping SIDs is not always an easy task (but it isn't always hard,
+     either).  The point we are trying to make is that if you do not plan
+     to rip the SID the correct way, then do not even bother ripping the
+     SID.  In particular, do not cut off the end of the music data by 2-3
+     bytes, as this often means that the SID will fall out of synch either
+     in a portion of the tune, or on restart.
+
+-------------------------------
+CHAPTER [4]: Update Information
+-------------------------------
+
+The HV SID Collection will be constantly maintained by providing
+zipped update files.  These updates will add new tunes to your HV SID
+Collection so that you will always have the most accurate SID collection
+around.  To handle deletions, renaming, moving, etc. of files, we
+will also provide a 'sweeper' program that upon execution will clean
+up your collection for you.  Isn't automation wonderful?
+
+ *************************************************************************
+ *     It is therefore _important_ that you keep the HVSC structure and  *
+ * filenames as is, otherwise the sweeper will fail to work properly.    *
+ *************************************************************************
+
+The updates will be announced at the INC C64 Music web page as well as
+other locations.  There is no set time as to when the updates will be
+available.  The frequency of updates will depend on the amount of new tunes
+and corrected information we receive.  The current rate of updating is every
+two to three months, but as we now have 9000+ SID files, the likelyhood of
+finding more does diminish with every update.
+
+The InSID Asylum   -> 	http://www.dhp.com/~shark/c64music/
+                        (under the 'High Voltage SIDs' link.)
+
+Also, if you wish to be added to the HVSC Update Announcement list, which
+means you get an email the moment the URL above is updated announcing the 
+new HVSC Update release, then please email Warren Pilkington 
+<wazzaw@globalnet.co.uk> placing 'Add Me To HVSC Update Announcement List'
+in the subject line.
+
+-------------------------------
+Chapter [5]: Included Documents
+-------------------------------
+
+The following lists the documents that reside with HV SIDS (/DOCUMENTS):
+
+   BUGLIST.TXT  - A list of bugged SIDs in HV SIDs.  Hopefully you'll see 
+                  less entries after each update. (We do try and add as many
+                  fixes as possible.)
+               
+   HV_SIDS.FAQ  - Answers to frequently asked questions about the collection.
+                  You should read this before emailing the HVSC creators
+                  with questions.
+
+  MUSICIANS.TXT - A list of most of the musicians who ever composed more than
+                  2-3 SIDs on the C64.  We would appreciate any help in
+                  fixing errors in this list.  Further, we would also like to
+                  know artist's real names for the sake of possibly
+                  identifying other tunes by these artist.  That is, some
+                  artist composed tunes under an alias as well as their real
+                  name (e.g., Neil Baldwin = Demon).
+
+   STIL.FAQ     - STIL Frequently asked questions and STIL format issues are
+                  discussed in this file.  Further, a list of STIL HEROes are
+                  in this file too.  Do you have what it takes to be a STIL
+                  HERO?
+
+   STIL.TXT     - A text document listing information about the SIDs in the
+                  HV SIDs Collection such as original composer's name,
+                  comments from the SID composers, and interesting trivia.
+
+   UPDATExx.HVS - A list of fixes and additions that are performed to each
+                  update.  If you want to know exactly why certain SIDs were
+                  replaced, this file will likely have the answer.  The xx
+                  in the file name will increase sequentially as new updates
+                  are released.
+
+
+----------------------------
+Chapter [6]: Acknowledgments
+----------------------------
+
+Thanks go out to these musicians for their help:
+================================================
+
+Adam Gilmore (thanks for all the tune credit information)
+Allister Brimble (lots of handy credit information on your tunes)
+André Schröder (Andre/Oxyron) (for your tunes and then some!)
+Balazs Takacs (Taki/Natural Beat) (for the Natural Beat SIDs and fixes)
+Barry Leitch (for some of your tunes.  We hope you find that Galway remix!)
+Ben Daglish (it took some time to find you, but thanks for your help.  Hope
+             the theatre production work is going well.)
+Björn Fogelberg (Knatter of XAKK) (for some of your own tunes and a few more)
+Charles Deenen (for verifying your tunes)
+Chris Abbott (for lots of historical information and the Back In Time CD,
+              which is highly recommended by us - goto http://www.c64audio.com.)
+Chris Hülsbeck (especially thanks for the unreleased tunes.  Please do send
+                us more tunes and information if you have time.)
+David Whittaker (cheers for the verifying - we'll check some more sometime.)
+Dennis Lindross (Deadman) (for his own tunes, and some excellent rips.  Keep
+                           up the good work.)
+Eric Ardem/Antimon (for your own tunes and some others)
+Fred Gray (for all the humourous information on your tunes)
+Gavin Raeburn (for tune verification and sending us games to rip your music
+               from - hope TOCA 2 sells well!)
+Geir Tjelta (a lot of your tunes, and a great Tim Follin one.)
+Glenn Rune Gellefoss (for your complete collection)
+Jens-Christian Huus/Vibrants (for lots and lots of rips, and all the Vibrants
+                              tunes we could handle, plus a score of mistake 
+                              spotting to boot.)
+Jeroen Tel (for all the info on yours and various MON tunes.  Please bring
+            out that 3CD set you mentioned in the Commodore Zone interview)
+Johannes Bjerregaard (for all your information, especially the name spelling
+                      ("aa"))
+Johan Åstrand (Zyron) (for your collection and information)
+Jonathan Dunn (for a stack of information on your tunes - it'd be nice to
+               have more.)
+Linus Walleij (King Fisher/Triad) (for the Triad SIDs, Enlightenment: Druid-
+               II, and more rips with correct credits.  Keep it up!)
+Marcel Donne (Mad)/Scoop/MoN (for the credit info on your tunes)
+Mark Tait (in particular for your history at Tiertex and admitting Human
+           Killing Machine was inspired by Galway)
+Mark Wilson (for your own collection and some Matt Gray tunes)
+Markus Weber (for your own SIDs plus more!)
+Martin Galway (thanks for taking the time to help us out.  May you be
+               inspired if you get to write the Wing Commander film score)
+Matt Furniss (for lots of checking your own tunes and remixing some C64
+              ones recently)
+Matt Simmonds (4-Mat) (for the unreleased Follin SID and your own tunes)
+Michael Hendriks/FAME (for some unused tunes and credit information)
+Michael Winterberg (for your collection)
+Michel de Bree (Youth) (for all the HeatWave SIDs)
+Oliver Klee (Odi) (for your collection)
+Patrick Ceuppens (Lyon) (for your complete collection)
+Reyn Ouewhand (thanks for taking the time to verify your tunes.  We'd
+               appreciate more if you have the time.)
+Richard Joseph (for confirming the tunes you'd made.)
+Rob Hubbard (thanks for putting up with the waves of questions, and
+             checking some re-rips for us, and verifying which tunes you
+             actually had composed.)
+Sean Connolly (for the Sonix Systems complete collection)
+Slaygon (for your own collection)
+Søren Lund (Jeff) (for the complete collection of yours)
+Stefan Berglind (Doxx) (for your complete collection)
+Stefan Konarkowski (Alien) (for some credit fixes and your own tunes)
+Tammo Hinrichs (KB/The Obsessed Maniacs) (for the complete collection
+                and checking other people's rips of your tunes.)
+Thomas Mogensen (Drax/Vibrants) (for error spotting & his and Laxity's tunes)
+Tomas Danko (for sending in and verifying all your tunes.  It sure
+             looks a lot nicer now to see when you made your tunes.)
+Torben Hansen (Metal/Vibrants) (for your collection)
+Vincent Voois (a few SIDs from others, and your own)
+Wally Beben (for all the verifying, and uncovering some mysteries for us.)
+Wolfgang Reszel (Nebula) (for all your collection, and a great STIL!)
+
+
+And thanks to the following for additional help:
+================================================
+
+Agust Arni Jonsson (Nemesis1) (for Nemesids1, which helped us in the early
+                               stages)
+Anders Eriksen (for some great rips - keep it up)
+Andrejs Dunkels 
+Author of Doom II FAQ (used your format for this document)
+Bacillus (for some great rips - keep up the hard work)
+Burglar (Real SIDPlay inventor, and fixing SIDs to work with it.  Thanks!)
+CJ Hammond (for some great fixes, such as Bazooka Bill)
+Daniel Näslund (for some nice rips)
+Dave Griffin (for the rare Compunet demos that had some rare Matt Gray tunes)
+Deadbeat (for rips and credit fixes)
+DeeKay / Crest (for spotting multispeed errors and appreciation)
+Dejan Petronijevic (Nucleus) (for some nice SIDs and info)
+DXS's web page (for some SIDs)
+Fred (we merged your collection with ours)
+Frederic Gidouin (Piccolo) (in particular for the repeat finds)
+Fungus (for a few SIDs)
+Henrik Simonsen (for a fair few 20cc tunes..)
+IW (for a fair few SIDs - but remember to keep your name out of the credits :)
+Jarle Berntsen (for the credit fixes)
+Martin Jeppesen (for some SIDs)
+Jason Mackenzie (Kenz) (for all the rare Feekzoid and Jon Wells SIDs, plus
+                        more demos than you can handle.  Cheers pal!)
+Kris/Clique (for the Babyface tunes)
+LoLo (for some SIDs)
+Medicus/KLF (Andy) (a few dozen tunes)
+Mikael Grahn (Nik) (for a fair few SIDs, especially the MC ones)
+MIkael Larsson (Phuture) (for a chunk of SIDs, keep it up)
+Michael Huth (for some credit fixes)
+Minstrel Dragon (for the Ulitima III music)
+Natas/Carcass (for the Starlost SIDs)
+Necrophobiac (for the reverb SIDs)
+Nicolai Thilo (Zenox/Starion) (for some of your collection - please send Jan
+                               the rest!)
+Per (for finding a pack of SIDs on the Internet for us)
+Per Håkan Sundell and Ron Birk (PlaySID creators and trend setters)
+Peter de Bie (for the great Screens collection - a precusor to HVSIDs?)
+Peter Sandén (Panda) (for a lot of requested SIDs and some credit fixes)
+Peter Weighill (for the rare Whittaker SIDs and old tune information)
+PiNa/Torture of Music (for the Mateus collection and some rips)
+Phredator (for the Roy Batty tunes and some C64 testing)
+Roger Ferm (for the Sane SIDs)
+Ron Rickert (for sending in a veritable feast of tunes)
+Seven/Hitmen (for several rips for fixes)
+Skid Row (for some SIDs and credit fixes)
+Slight (for a couple of hundred SIDs)
+Simon Colgrave (credits and repeat info)
+Svante Hellstadius (Fulcrum) (for sending Adam your complete collection)
+The Human Autofire (for some SIDs)
+Timo Buschmann (RRR/Oxyron) (in particular for the PRI tunes)
+Ulf Andersson (for the Matrix/Zone 45 tunes, 
+Vectrocon/Fairlight (for the 47 tunes)
+Ville Muikkula (for the Red Devil SIDs)
+Vincent Schoettke (for many rips from great demos and lots of credit information)
+
+And to everyone else who contributed...We apologise if we have forgotten
+anyone.
+

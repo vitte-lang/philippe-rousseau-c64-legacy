@@ -1,0 +1,1923 @@
+Volume Nr     Name of the Game                        
+------ --     -----------------
+
+1      1      Ghostbusters                            
+1      2      Grab A Crab                             
+1      3      Night Driver                            
+1      4      Pitstop 2                               
+1      5      Skramble                                
+1      6      Space Invaders                          
+1      7      Trenchfire                              
+1      8      Annihilator 2                           
+1      9      Blagger 1                               
+2      1      Bazooka Bill                            
+2      2      Auf Wiedersehen Monty                   
+2      3      Soldier Of Fortune                      
+2      4      Gridrunner                              
+2      5      Spike                                   
+3      1      Cobra                                   
+3      2      Spitfire 40                             
+3      3      Rms Titanic                             
+3      4      Plumb Crazy                             
+3      5      Sooper Froot                            
+4      1      Super Sprint                            
+4      2      Buggy Boy                               
+4      3      Howard The Duck                         
+4      4      Turmoil                                 
+4      5      Ground Gobbler                          
+5      1      Arcana                                  
+5      2      Paperboy                                
+5      3      Hollywood Or Bust                       
+5      4      Bonka                                   
+5      5      Rollin'                                 
+6      1      Future Knight                           
+6      2      Legend Of Sinbad                        
+6      3      Magnum Force                            
+6      4      Quasar                                  
+6      5      Crossfire                               
+7      1      Rambo                                   
+7      2      Parallax                                
+7      3      Mychess 2                               
+7      4      Splat!                                  
+7      5      Blue Max                                
+8      1      Inferno                                 
+8      2      Little Computer People                  
+8      3      720                                     
+8      4      Seafox                                  
+8      5      Chuck Norris                            
+9      1      Bedlam                                  
+9      2      Deactivators                            
+9      3      Commando 2                              
+9      4      Hunter                                  
+9      5      Pacman Atari                            
+10     1      Blackwyche                              
+10     2      Green Beret                             
+10     3      The Trapdoor                            
+10     4      Joe Blade                               
+10     5      Snoopy                                  
+11     1      Revs                                    
+11     2      Impossible Mission                      
+11     3      Pac-land                                
+11     4      Snake Byte                              
+11     5      Stellar Dodger                          
+11     6      Snocat                                  
+11     7      Candy Bandit                            
+12     1      Express Raider                          
+12     2      Ikari Warriors                          
+12     3      Tarzan                                  
+12     4      Snake Pit                               
+12     5      Fast Eddie                              
+12     6      Breakdance                              
+12     7      Bionic Granny                           
+13     1      Jungle Hunt                             
+13     2      Matchday 2                              
+13     3      Thundercats                             
+13     4      Annihilator                             
+13     5      Bat Attack                              
+13     6      Shadowfax                               
+13     7      Zompy Stomp                             
+13     8      Roundabout                              
+13     9      Galaxibirds                             
+14     1      Robin Of The Wood                       
+14     2      Zylogon                                 
+14     3      Revenge Of Doh                          
+14     4      Space Doubt                             
+14     5      Stalag                                  
+14     6      Espial                                  
+14     7      River Raid                              
+15     1      Repton                                  
+15     2      Elite                                   
+15     3      Driller                                 
+15     4      Petch                                   
+15     5      R-nest                                  
+15     6      Maggotmania                             
+15     7      Skramble!                               
+16     1      Garfield                                
+16     2      Thing Bounces Back                      
+16     3      Io                                      
+16     4      Robin To The Rescue                     
+16     5      Blue Moon                               
+16     6      Defender                                
+16     7      Q-bopper                                
+17     1      Inheritance 2                           
+17     2      Grand Prix                              
+17     3      Hopeless                                
+17     4      Renegade F-16                           
+17     5      Road Roller                             
+17     6      Spy's Demise                            
+17     7      Parallax                                
+18     1      Great Gurianos                          
+18     2      Slap Fight                              
+18     3      Re-bounder                              
+18     4      Pigs In Space                           
+18     5      Dancing Monster                         
+18     6      Greenhouse                              
+18     7      Kid Grid                                
+19     1      Renegade                                
+19     2      Breakthru                               
+19     3      Caeser The Cat                          
+19     4      Alleycat                                
+19     5      Widows Revenge                          
+19     6      Spider & The Fly                        
+19     7      Eagle Empire                            
+20     1      Dolphin                                 
+20     2      Exploding Fist                          
+20     3      Livingstone                             
+20     4      Facemaker                               
+20     5      Crazy Caveman                           
+20     6      Rack 'em Up                             
+20     7      Star Wars                               
+21     1      Asterix                                 
+21     2      Shadowfire                              
+21     3      Knightmare                              
+21     4      Crazy Balloon                           
+21     5      Ski/cbm                                 
+21     6      Cyclons 64                              
+21     7      Meta Llamas                             
+22     1      Red Led                                 
+22     2      Mercenary 2nd City                      
+22     3      Captain Amer                            
+22     4      Spirit Of The Stone                     
+22     5      Ski                                     
+22     6      Tron                                    
+22     7      Astral Zone                             
+23     1      Return To Eden                          
+23     2      Monopoly                                
+23     3      Mikie                                   
+23     4      Basil The Mouse                         
+23     5      Breakout                                
+24     1      Scumball                                
+24     2      Star Wars                               
+24     3      Pandora                                 
+24     4      Omega Race                              
+24     5      Renaissance                             
+24     6      Jawbreaker                              
+24     7      Draughts                                
+24     8      Clowns                                  
+24     9      Frog Master                             
+25     1      Transputer Man                          
+25     2      Road Warrior                            
+25     3      Hellhole                                
+25     4      Cauldron 2                              
+25     5      Balloon Rescue                          
+26     1      Rebel Planet                            
+26     2      The Young Ones                          
+26     3      Jackal                                  
+26     4      Herobotix                               
+26     5      Vegas Jackpot                           
+27     1      Desert Fox                              
+27     2      Nuclear Embargo                         
+27     3      Squash                                  
+27     4      Equinox                                 
+27     5      Wizard                                  
+28     1      Kane                                    
+28     2      Who Dares Wins 2                        
+28     3      Amazon Warrior                          
+28     4      Discovery                               
+28     5      Crossword Twister                       
+29     1      Addicta Ball                            
+29     2      Dynamite Ban                            
+29     3      Saboteur 2                              
+29     4      Hole In One                             
+29     5      Olympic Skier                           
+30     1      Arc Of Yesod                            
+30     2      Centurions                              
+30     3      Spellbound                              
+30     4      Outlaws                                 
+30     5      Slalom                                  
+31     1      Hoodoo Voodoo                           
+31     2      Core                                    
+31     3      The Enforcer                            
+31     4      Operation Anoria                        
+31     5      The Time Machine                        
+32     1      The Last V8                             
+32     2      Uchi-mata                               
+32     3      Kwah                                    
+32     4      Waterski 3d                             
+32     5      Wing Commander                          
+33     1      Shanghai Karate                         
+33     2      N.o.m.a.d.                              
+33     3      Metro-cross                             
+33     4      Zorro                                   
+33     5      Magic Carpet                            
+34     1      Bigtop Barney                           
+34     2      Skooldaze                               
+34     3      Schizofrenia                            
+34     4      Robin Of Sherwood                       
+34     5      Stellar Triumph                         
+35     1      Indiana Jones                           
+35     2      Jetboys                                 
+35     3      Thunderbirds                            
+35     4      Party Girls                             
+35     5      Rally Speedway                          
+36     1      Game Over                               
+36     2      Nebulus                                 
+36     3      Waterpolo                               
+36     4      Bobsleigh                               
+36     5      Hercules                                
+37     1      Everyone's A Wally                      
+37     2      Demon Attack                            
+37     3      Sentinel                                
+37     4      Deathwish 3                             
+37     5      Hard Hat Mack                           
+38     1      Strongman                               
+38     2      Ghettoblaster                           
+38     3      Time Crystal                            
+38     4      Zolo                                    
+38     5      Matrix                                  
+39     1      Grand Larceny                           
+39     2      Nemesis                                 
+39     3      Kung Fu Master                          
+39     4      Friday The 13th                         
+39     5      Hunchback 2                             
+40     1      Leaderboard                             
+40     2      Piracy                                  
+40     3      Dragons Den                             
+40     4      Mermaid Madness                         
+40     5      Star Balls                              
+40     6      Caves Of Ice                            
+40     7      Genesis                                 
+41     1      Rygar                                   
+41     2      Cosmic Causeway                         
+41     3      Mission A.d.                            
+41     4      Fairlight                               
+41     5      Gryphon                                 
+42     1      Bulldog                                 
+42     2      Zynaps                                  
+42     3      Doriath                                 
+42     4      Exolon                                  
+42     5      V - The Game                            
+43     1      Donald Duck                             
+43     2      Spiderman                               
+43     3      Great Road Race                         
+43     4      Enduro Racer                            
+43     5      I-xera                                  
+44     1      Velocipede 2                            
+44     2      Skaterock Trainer                       
+44     3      1943                                    
+44     4      Grog's Revenge                          
+44     5      Super Star Challenge                    
+45     1      Archon 2                                
+45     2      Aliens                                  
+45     3      Transformers                            
+45     4      Jungle Quest                            
+45     5      Danger Mouse                            
+46     1      Strike Force Harrier                    
+46     2      Bride Of Frankenstein                   
+46     3      Ramparts                                
+46     4      Space Trap                              
+46     5      Miami Vice                              
+47     1      Death Wake                              
+47     2      Theatre Europe                          
+47     3      Fighter Pilot                           
+47     4      Willy Tex                               
+47     5      Space Invasion                          
+48     1      Ping Pong                               
+48     2      Popeye 2                                
+48     3      Kettle                                  
+48     4      Star Paws                               
+48     5      Cluedo                                  
+49     1      Bmx Simulator                           
+49     2      Saboteur                                
+49     3      Into The Eagles Nest                    
+49     4      New Panzers East                        
+49     5      Who Dares Wins                          
+50     1      Ole!                                    
+50     2      Equalizer                               
+50     3      Paradroid                               
+50     4      Commando                                
+50     5      Starion                                 
+51     1      Split Personalities                     
+51     2      Super Lem                               
+51     3      5 A Side Soccer                         
+51     4      Q-bert                                  
+51     5      Stratton                                
+51     6      Thrust                                  
+51     7      Egbert                                  
+52     1      Legend Of Kage                          
+52     2      Scarab                                  
+52     3      Rock 'n Bolt                            
+52     4      Optima Rax                              
+52     5      Neoclyps                                
+52     6      Time Runner                             
+52     7      Gorf                                    
+53     1      Matchday                                
+53     2      Bagitman                                
+53     3      Operation Ironhawk                      
+53     4      The Omega Run                           
+53     5      Kickstart 2                             
+53     6      Herby Thriller                          
+53     7      Popeye                                  
+54     1      Moebius                                 
+54     2      Caverns Of Sillahc                      
+54     3      Tir Na Nog                              
+54     4      Henry's House                           
+54     5      Stix                                    
+54     6      Z                                       
+54     7      Zarcon                                  
+55     1      Scout Quest                             
+55     2      Metranaut                               
+55     3      Super Soccer                            
+55     4      Convoy Raider                           
+55     5      Dig Dug                                 
+55     6      Congo Bongo                             
+55     7      Prehistoric Age                         
+56     1      Combat Zone                             
+56     2      Super Pipeline 2                        
+56     3      Super Zaxxon                            
+56     4      Breaker                                 
+56     5      Flyer Fox                               
+56     6      Weatherwar 2                            
+56     7      Snooker                                 
+57     1      Bosconian                               
+57     2      Pod                                     
+57     3      Prowler                                 
+57     4      Beer Belly Burt                         
+57     5      Sorcerer Claymore Castle                
+57     6      Save New York                           
+57     7      Kaktus                                  
+58     1      Sector 90                               
+58     2      The Slugger                             
+58     3      Omega Planet                            
+58     4      Pitstop                                 
+58     5      Back To The Future                      
+58     6      Rubbish Monster                         
+58     7      Phase 4                                 
+59     1      Tanx                                    
+59     2      Archon                                  
+59     3      Sam Fox Strippoker                      
+59     4      Suzy Strippoker                         
+59     5      Cleanup Time                            
+59     6      Munchy                                  
+59     7      Cataclysm                               
+59     8      Boeing 727                              
+59     9      Alien Panic                             
+60     1      Mellisa Strippoker                      
+60     2      Slapshot                                
+60     3      Satan's Hollow                          
+60     4      Volleyball Simulator                    
+60     5      Master Of The Lamps                     
+60     6      Cosmic Bounce                           
+60     7      Retro Ball                              
+61     1      Frak!                                   
+61     2      High Frontier                           
+61     3      Inspector Gadget 2                      
+61     4      Olli & Lisa                             
+61     5      Moby Dick                               
+61     6      Zimsalabim                              
+61     7      Solar Fox                               
+62     1      Ring Master                             
+62     2      Willow Pattern Adv.                     
+62     3      Pedro                                   
+62     4      Police Academy 2                        
+62     5      Werner                                  
+62     6      Trashman                                
+62     7      Blueprint                               
+63     1      Sky Twice                               
+63     2      Gualdalcanal                            
+63     3      Highnoon                                
+63     4      Ninja                                   
+63     5      Battle Thru Time                        
+63     6      Chinese Juggler                         
+63     7      Jeep                                    
+64     1      Tapper                                  
+64     2      Bug Blitz                               
+64     3      Rocketball                              
+64     4      Invasion 2                              
+64     5      Swamp Fever                             
+64     6      Zeus                                    
+64     7      Shaft Raider                            
+65     1      Goldrush                                
+65     2      Donkey Kong                             
+65     3      Mr. Do's Castle                         
+65     4      Dragons Lair 2                          
+65     5      Tag Team Wrestling                      
+65     6      Codename Mat 2                          
+65     7      Frenzy                                  
+65     8      Voyager 64                              
+65     9      Frogrun                                 
+66     1      Lawn Tennis                             
+66     2      Gandalf The Sorcerer                    
+66     3      Super G-man                             
+66     4      Olo 2                                   
+66     5      Countdown To Meltdown                   
+66     6      Lode Runner                             
+66     7      The Halls Of Things                     
+67     1      Zyron's Escape                          
+67     2      Ski Run                                 
+67     3      Kaiv                                    
+67     4      Hacker 2                                
+67     5      Cataball                                
+67     6      Zone 7 - 2                              
+67     7      3d Tic Tac Toe                          
+68     1      Pod                                     
+68     2      New York City                           
+68     3      David's Midnight Magic                  
+68     4      Jouste                                  
+68     5      Blagger Goes To Hollywood               
+68     6      Drink & Drown                           
+68     7      Sorcerer's Castle                       
+69     1      Rags To Riches                          
+69     2      Traffic                                 
+69     3      Jammin'                                 
+69     4      One On One                              
+69     5      Koko                                    
+69     6      Gnome                                   
+69     7      Lunar Leeper                            
+70     1      Night Mission Pinball                   
+70     2      Molecule Man                            
+70     3      Twinky Goes Hiking                      
+70     4      Starforce Fighter                       
+70     5      Hocus Focus                             
+70     6      Track & Field                           
+70     7      H.e.r.o.                                
+71     1      Dino Eggs                               
+71     2      Speedking                               
+71     3      Playful Professor                       
+71     4      Jump Challenge                          
+71     5      Tread Bear                              
+71     6      Almazz                                  
+71     7      Monopole                                
+72     1      Stock Car                               
+72     2      Cohen's Towers                          
+72     3      Ring Of Power                           
+72     4      Catastrophes                            
+72     5      Onfield Football                        
+72     6      Zone 7                                  
+72     7      Kong 64                                 
+73     1      Handicap Golf                           
+73     2      Knucklebuster                           
+73     3      Space Pilot                             
+73     4      Gyroscope                               
+73     5      Deep Strike                             
+73     6      Prohibition                             
+73     7      Cracks Of Fire                          
+74     1      Mah-jong                                
+74     2      Tomarc                                  
+74     3      Mega Blast                              
+74     4      Int. Basketball                         
+74     5      Rock                                    
+74     6      Boulderdash 4                           
+74     7      Jumping Jack                            
+75     1      Cyrus 2 Chess                           
+75     2      Airwolf                                 
+75     3      Caverns Of Khafka                       
+75     4      Assault On Memory Alpha                 
+75     5      Red Alert                               
+75     6      Action Biker                            
+75     7      Football Manager                        
+76     1      Neutral Zone                            
+76     2      Slamball                                
+76     3      Gyroscope 3                             
+76     4      Stealth                                 
+76     5      Dr. Jackal & Mr. Wide                   
+76     6      Escape From Doomworld                   
+76     7      911 Tiger Shark                         
+77     1      Chimera                                 
+77     2      Moon Cresta                             
+77     3      Mah-jong Tutor                          
+77     4      Phantom Karate Devils                   
+77     5      Psi-5 Company                           
+77     6      Rainbow Walker                          
+77     7      Mario Bros                              
+77     8      Mushroom Alley                          
+77     9      Serpentine                              
+78     1      Int. Karate 1                           
+78     2      Int. Karate 2                           
+78     3      Kik-start                               
+78     4      Black Knight                            
+78     5      Arcadia 64                              
+78     6      Bristles                                
+78     7      Supercuda                               
+79     1      Drelbs                                  
+79     2      3d Skramble                             
+79     3      Johnny Reb                              
+79     4      Break Fever                             
+79     5      Break-in                                
+79     6      K-ring                                  
+79     7      Boulderdash 3                           
+79     8      Vultures                                
+79     9      Armageddon                              
+80     1      Spy Vs Spy 1                            
+80     2      Spy Vs Spy 2                            
+80     3      Spy Vs Spy 3                            
+80     4      Star League Baseball                    
+80     5      Midway Campaign                         
+80     6      Black Hawk                              
+80     7      Harrier Attack                          
+81     1      Wild West 1                             
+81     2      Wild West 2                             
+81     3      Wild West 3                             
+81     4      Sargon 2 Chess                          
+81     5      American Football                       
+81     6      Megahawk                                
+81     7      Cuthbert In Space                       
+82     1      Outrun 1                                
+82     2      Outrun 2                                
+82     3      Outrun 3                                
+82     4      Sphere                                  
+82     5      Star Command                            
+83     1      Outrun 4                                
+83     2      Star-lifter                             
+83     3      Colossus Chess                          
+83     4      Gods And Heroes                         
+83     5      Gridtrap                                
+83     6      Trouble Bubble                          
+83     7      Micro Mouse                             
+84     1      Way Of The Tiger 1                      
+84     2      Way Of The Tiger 2                      
+84     3      Way Of The Tiger 3                      
+84     4      Kong Strikes Back                       
+84     5      Bear George                             
+84     6      Krypton                                 
+84     7      Bonzo                                   
+85     1      Hacker                                  
+85     2      Quarkix                                 
+85     3      Booga Boo                               
+85     4      Blue Thunder                            
+85     5      Eindeloos                               
+85     6      Thermonuclearwar                        
+85     7      Dragonhawk                              
+86     1      Lazy Jones                              
+86     2      Pitfall 2                               
+86     3      Surfmania                               
+86     4      Underwurlde                             
+86     5      Zyto                                    
+86     6      Circus                                  
+86     7      Bandits                                 
+87     1      Matchpoint                              
+87     2      Wild Ride                               
+87     3      Stop The Express                        
+87     4      Aztec Tomb                              
+87     5      Seawolf                                 
+87     6      Snokie                                  
+87     7      Jumpman Junior                          
+87     8      Girls Want Fun                          
+87     9      Hunchback                               
+88     1      Beach-head                              
+88     2      Gremlins                                
+88     3      Dragonfire                              
+88     4      Decathlon                               
+88     5      Robotron                                
+88     6      Speed Racer                             
+88     7      Mystery Spell                           
+88     8      Bc's Quest For Tires                    
+88     9      Cyclons                                 
+89     1      Legend Of The Amazon Women              
+89     2      Hardball                                
+89     3      Ghouls                                  
+89     4      Pitfall                                 
+89     5      Air Support                             
+89     6      Star Force Nova                         
+89     7      Zeppelin                                
+90     1      De Kapriolen                            
+90     2      Uridium                                 
+90     3      Juice!                                  
+90     4      Mr. Cool                                
+90     5      Labyrinth                               
+90     6      Toy Bizarre                             
+90     7      Flip And Flop                           
+90     8      Monster Attack                          
+90     9      Voyage To Atlantis                      
+91     1      Mugsy's Revenge                         
+91     2      Bananadrama                             
+91     3      Olo                                     
+91     4      Circus Circus                           
+91     5      Spike's Peak                            
+91     6      Pogo Joe                                
+91     7      Orpheus In The Underworld               
+92     1      Biggles 1                               
+92     2      Biggles 2                               
+92     3      Twin Kingdom Valley                     
+92     4      Tazz                                    
+92     5      Zaxxon                                  
+92     6      Hyper Biker                             
+92     7      The Paras                               
+93     1      Ace                                     
+93     2      Arrow Of Death                          
+93     3      Blue Max 2001                           
+93     4      Java Jim                                
+93     5      Ollie's Follies                         
+93     6      Forbidden Forest                        
+93     7      Missile Command                         
+94     1      The Rocky Horror Show                   
+94     2      Caverns Of Xydraphur                    
+94     3      Cavern Run                              
+94     4      Casino Royale                           
+94     5      Jet Power Jack                          
+94     6      Killerwatt                              
+94     7      Beamrider                               
+94     8      Moonshuttle                             
+94     9      Haunted House                           
+95     1      Movie Monster                           
+95     2      Gyroscope 2                             
+95     3      Moord In Het Flatgebouw                 
+95     4      Zwark                                   
+95     5      Commodore Soccer                        
+95     6      Laser Zone                              
+95     7      Gumshoe                                 
+95     8      Shamus                                  
+95     9      Cybertron Mission                       
+96     1      Mission Elevator                        
+96     2      Droids                                  
+96     3      Pengo                                   
+96     4      Centropods                              
+96     5      Pakacuda                                
+96     6      Spider Mountain                         
+96     7      The Hulk                                
+96     8      Kayakken                                
+96     9      Star Trek                               
+97     1      Thing On A Spring                       
+97     2      The Fall Guy                            
+97     3      Life                                    
+97     4      Seek & Destroy                          
+97     5      Concentration                           
+97     6      Shuffler                                
+97     7      Simon                                   
+97     8      Comic Bakery                            
+97     9      Cosmic Capers                           
+98     1      Gogo The Ghost                          
+98     2      Give My Regards To Broadstreet          
+98     3      O'rileys Mine                           
+98     4      Othello                                 
+98     5      Go                                      
+98     6      Lost In The Labyrinth                   
+98     7      World Cup                               
+98     8      Ah Diddums                              
+98     9      Attack On Windscale                     
+99     1      Trap                                    
+99     2      Infiltrator 2                           
+99     3      Where's My Bones?                       
+99     4      Quari                                   
+99     5      Rocket Roger                            
+99     6      Sex Games                               
+99     7      Necromancer                             
+100    1      Barbarian 1                             
+100    2      Barbarian 2                             
+100    3      Fort Apocalypse                         
+100    4      Krazy Kong                              
+100    5      Trailblazer                             
+100    6      Saucer Attack                           
+100    7      Slinky                                  
+101    1      Bladerunner                             
+101    2      Space Pilot 2                           
+101    3      Ugh!                                    
+101    4      James Bond                              
+101    5      Number Nabber                           
+101    6      Gerloc                                  
+101    7      Railroad                                
+101    8      Computrivia                             
+101    9      Pontoon                                 
+102    1      Boulderdash 5                           
+102    2      Boulderdash 7                           
+102    3      Kruisbord                               
+102    4      Vier Op Een Rij                         
+102    5      The Human Race                          
+102    6      Cyborg                                  
+102    7      Max Headroom                            
+102    8      Swag                                    
+102    9      Buffalo Roundup                         
+103    1      Terra Cresta                            
+103    2      Stoneville Manor                        
+103    3      Pole Position                           
+103    4      Ware Moed                               
+103    5      Enigma Force                            
+103    6      Warlok                                  
+103    7      Gobang                                  
+104    1      Thai Boxing 1                           
+104    2      Thai Boxing 2                           
+104    3      Thai Boxing 3                           
+104    4      Boulderdash                             
+104    5      3d-glooper                              
+104    6      Starpost                                
+104    7      Star Trek                               
+105    1      1942                                    
+105    2      Exploding Fist 3                        
+105    3      Choplifter                              
+105    4      Escape Mcp                              
+105    5      Demolition Division                     
+105    6      Quinx                                   
+105    7      Space Sentinel                          
+105    8      Pixie Pete                              
+105    9      Dreadnought                             
+106    1      Super Pipeline                          
+106    2      Frontline                               
+106    3      Barmy Builders                          
+106    4      Di's Baby                               
+106    5      Burgertime                              
+106    6      Rebel                                   
+106    7      Cosmic Convoy                           
+107    1      The Beyond                              
+107    2      African Adventure                       
+107    3      Route To India                          
+107    4      Rally Driver                            
+107    5      Castle Adventure                        
+107    6      Galaxy                                  
+107    7      The Detective Game                      
+107    8      Aargh! Condor                           
+107    9      Artillery                               
+108    1      Ballblazer                              
+108    2      Spy Strikes Back                        
+108    3      Billiards                               
+108    4      Frogger                                 
+108    5      Mr. Robot                               
+108    6      Wimbledon 64                            
+108    7      Falcon Patrol 2                         
+108    8      Antiriad                                
+108    9      Kick Off                                
+109    1      Flying Ace                              
+109    2      Pooyan                                  
+109    3      Protector 2                             
+109    4      Speed Duel                              
+109    5      Aztec Challenge                         
+109    6      Vortex Raider                           
+109    7      West Bank                               
+109    8      Inspector Gadget                        
+109    9      Dictator                                
+110    1      Over The Rainbow                        
+110    2      Hungry Horace                           
+110    3      Buck Rogers                             
+110    4      Zappy Zooks                             
+110    5      Smurf 2 The Revenge                     
+110    6      Uridium 2                               
+110    7      Dropzone                                
+110    8      Dambusters                              
+110    9      Draw Poker                              
+111    1      Summer Games 2                          
+111    2      Sg2: Triple Jump                        
+111    3      Sg2: Rowing                             
+111    4      Sg2: Javelin                            
+111    5      Sg2: Equestrian                         
+111    6      Le Mans                                 
+111    7      Tempo Typen                             
+111    8      Scooby Doo                              
+111    9      Sam's Jam                               
+112    1      Sg2: High Jump                          
+112    2      Sg2: Cycling                            
+112    3      Sg2: Kayaking                           
+112    4      Sg2: Fencing                            
+112    5      Sg2: Closing                            
+112    6      System 15000                            
+112    7      Jack The Nipper                         
+112    8      Herby                                   
+112    9      Ace Harrier                             
+113    1      The Evil Dead                           
+113    2      Cauldron                                
+113    3      Flight 747                              
+113    4      Hardhat Climber                         
+113    5      Smurfen                                 
+113    6      Arac                                    
+113    7      Sammy Lightfoot                         
+114    1      Super Huey 1                            
+114    2      Super Huey 2                            
+114    3      Super Huey 3                            
+114    4      Knight Rider                            
+114    5      Gyruss                                  
+114    6      Montezuma's Revenge                     
+114    7      Moonbuggy                               
+115    1      Topografie Nederland                    
+115    2      Topografie Europa                       
+115    3      Topografie Wereld                       
+115    4      International Tennis                    
+115    5      Noordzee Helicopter                     
+115    6      Zoid                                    
+115    7      Dogfight 2187                           
+115    8      China Miner                             
+115    9      Stellar Wars                            
+116    1      Super Race                              
+116    2      Starfighter 1                           
+116    3      Skyline Attack                          
+116    4      Nemesis The Warlock                     
+116    5      Agent Usa                               
+116    6      Adventure Of The Year                   
+116    7      Boulderdash 2                           
+116    8      Flying Path 737                         
+116    9      Pegasus Odyssey                         
+117    1      Super Huey Instruct                     
+117    2      Super Huey Rescue                       
+117    3      Super Huey Combat                       
+117    4      Verkeersrally                           
+117    5      Puc Man                                 
+117    6      Petchess                                
+117    7      Crackers Revenge 5                      
+117    8      Will O' The Wisp                        
+117    9      Viduzzles                               
+118    1      Hell                                    
+118    2      Grungy Towers                           
+118    3      Radar Rat Race                          
+118    4      Kruiswoord                              
+118    5      Perseus & Andromeda                     
+118    6      Adventure 3                             
+118    7      Sweet Sixteen                           
+118    8      Joe The Whizz Kid                       
+118    9      Blizzard!                               
+119    1      Flash Gordon 1                          
+119    2      Flash Gordon 2                          
+119    3      Flash Gordon 3                          
+119    4      Galactic Meteors                        
+119    5      Kickman                                 
+119    6      Nibly                                   
+119    7      The Fabulous Wanda                      
+119    8      Munchmaze                               
+119    9      Planet Rover                            
+120    1      Masters Of The Universe                 
+120    2      Zenon                                   
+120    3      Xerons                                  
+120    4      Nightmare Planet                        
+120    5      Tanks                                   
+120    6      Delta                                   
+120    7      Quintic Warrior                         
+121    1      Hummdinger                              
+121    2      Sprinter                                
+121    3      Barrier System                          
+121    4      Artic Shipwreck                         
+121    5      Nemesis                                 
+121    6      Paratroopers                            
+121    7      Force Seven                             
+122    1      Eg - Hammer                             
+122    2      Eg - Swimming                           
+122    3      Eg - Long Jump                          
+122    4      Eg - Rowing                             
+122    5      Eg - Weightlifting                      
+122    6      Gunfight                                
+122    7      Arkanoid                                
+122    8      Time Tunnel                             
+122    9      16 Boulderdash                          
+123    1      A View To A Kill                        
+123    2      Paris Chase                             
+123    3      City Escape                             
+123    4      Silicon Mine                            
+123    5      Star Raiders 2                          
+123    6      Ranarama                                
+123    7      Burnin Rubber                           
+124    1      The Ninja Master                        
+124    2      Footballer Of The Year                  
+124    3      Topografie Spel                         
+124    4      Superman 2 Adventure                    
+124    5      Bowling Baan                            
+124    6      Big Trouble In Little China             
+124    7      Laserwheel                              
+124    8      Spy Hunter                              
+124    9      Exterminator                            
+125    1      Super Huey 4                            
+125    2      Super Huey 5                            
+125    3      Super Huey 6                            
+125    4      Threshold                               
+125    5      Alien Rescue                            
+125    6      Hunchback At The Olympics               
+125    7      Hideous Bill                            
+125    8      Triad                                   
+125    9      Hover Bovver                            
+126    1      Chip Nibbel                             
+126    2      Dr. J                                   
+126    3      Depthcharge                             
+126    4      Grandmaster                             
+126    5      Matchmaker Game                         
+126    6      Batalyx                                 
+126    7      World Cup                               
+127    1      Monty On The Run                        
+127    2      Feasibility Experiment                  
+127    3      Crazy Comets                            
+127    4      Castle-kingdom                          
+127    5      Lazarian                                
+127    6      Smugglers Inn                           
+127    7      Crackers Revenge                        
+127    8      The Cabby                               
+127    9      Bagdad                                  
+128    1      Imhotep                                 
+128    2      Motocross Racer                         
+128    3      Gooch's Test Cricket                    
+128    4      Spriteman 64                            
+128    5      Bowling Cds                             
+128    6      Death Or Glory                          
+128    7      Memory                                  
+128    8      Miner 1861                              
+128    9      Toddler                                 
+129    1      Space Junk                              
+129    2      Supermorf                               
+129    3      F & F Skating                           
+129    4      The Game With No Name                   
+129    5      Space Duel                              
+129    6      500cc Grand Prix                        
+129    7      Krisp                                   
+129    8      Miser                                   
+129    9      Galaga                                  
+130    1      Short Circuit                           
+130    2      Zarjaz                                  
+130    3      Hyperbowl                               
+130    4      Nosferatu                               
+130    5      Oil's Well                              
+131    1      Gyropod                                 
+131    2      Balletje Balletje                       
+131    3      Monopolie Ned                           
+131    4      Commando 86                             
+131    5      All Risks                               
+131    6      Bandit                                  
+131    7      Fire Ant                                
+132    1      Wizard Of Wor                           
+132    2      Made In France 2                        
+132    3      Supa Catcha Troopa                      
+132    4      Ghosthunt                               
+132    5      Crazy Sprite                            
+132    6      Masters Of The Universe                 
+132    7      Armourdillo                             
+132    8      Halls Of Death                          
+132    9      Magic Micro Mission                     
+133    1      African Safari                          
+133    2      Flak                                    
+133    3      Hyper Hen                               
+133    4      Letterbrij                              
+133    5      Gridrunner                              
+133    6      Revolverheld                            
+133    7      Krakout                                 
+133    8      Bombjack 2                              
+133    9      Ranch                                   
+134    1      Break-it                                
+134    2      Spelenverzameling                       
+134    3      Noach 3000                              
+134    4      Balletje Balletje                       
+134    5      The 5th Axis                            
+134    6      Leviathan                               
+134    7      Tank Atak                               
+134    8      Shao-lin's Road                         
+134    9      Monster Smash                           
+135    1      Nick Faldo Plays The Open               
+135    2      Car Race                                
+135    3      Desert Race                             
+135    4      Voetbal Manager                         
+135    5      Mad Planets                             
+135    6      Cash-bash                               
+135    7      Waxworks                                
+135    8      Pitfall (clone)                         
+135    9      Photony                                 
+136    1      The Great Giana Sisters                 
+136    2      Vampire                                 
+136    3      Crisis Mountain                         
+136    4      Simon                                   
+136    5      Maths Marathon                          
+136    6      Legionnaire                             
+136    7      Evil Crown                              
+136    8      Rox 64                                  
+136    9      Searchlight                             
+137    1      Mission Genocide                        
+137    2      Incredible Eggs                         
+137    3      Fruity                                  
+137    4      Gilligans Gold                          
+137    5      Boulderdash Pro                         
+137    6      Golden Baton                            
+137    7      Naughty Tales                           
+137    8      Murphy                                  
+137    9      Astro Chase                             
+138    1      Chessmaster                             
+138    2      Purple Turtles                          
+138    3      River Rescue                            
+138    4      Blindflug Training                      
+138    5      Pipes                                   
+138    6      Thrusta                                 
+138    7      The Hobbit                              
+138    8      Potty Pigeon                            
+138    9      Rallye                                  
+139    1      Robin Hood                              
+139    2      Polyps From Pluto                       
+139    3      Penetrator                              
+139    4      Suicide Express                         
+139    5      Crystal Castles                         
+139    6      Son Of Blagger                          
+139    7      Apple Cider Spider                      
+139    8      Rollercoaster                           
+139    9      Zone Ranger                             
+140    1      Mystery Of The Nile                     
+140    2      Westworld                               
+140    3      Invasion Fall                           
+140    4      Frogger 2                               
+140    5      Car Race                                
+140    6      Rebound                                 
+140    7      Starfox                                 
+140    8      The Wizards Pet                         
+140    9      Bear Bovver                             
+141    1      Ace 2                                   
+141    2      Car Rider                               
+141    3      Spider                                  
+141    4      Duo Lettertroep                         
+141    5      Sabre Wulf                              
+141    6      Moose                                   
+141    7      Cavelon                                 
+141    8      The Realm Of The Undead                 
+141    9      Lost Dutchman's Gold                    
+142    1      Druid                                   
+142    2      Ball-blasta                             
+142    3      Balletje De Luxe                        
+142    4      Micropainter                            
+142    5      Saturn 3                                
+142    6      Rapid Fire                              
+142    7      Duo Letterblurp                         
+142    8      Railroad                                
+142    9      Bug Blast                               
+143    1      Bop 'n' Rumble                          
+143    2      Artillery Duel                          
+143    3      Hawk Outlaw                             
+143    4      Daviscup                                
+143    5      Hyper Active                            
+143    6      Slurpy                                  
+143    7      Pastfinder                              
+143    8      Mobster                                 
+143    9      Skier-64                                
+144    1      Draconus                                
+144    2      Trap                                    
+144    3      Jungle Trouble                          
+144    4      Cityattak!                              
+144    5      Boxen                                   
+144    6      Plitsche-platsch                        
+144    7      Compunet                                
+144    8      Zenos                                   
+144    9      Nimble Timble                           
+145    1      Armalyte                                
+146    1      Hawkeye                                 
+147    1      Ghouls 'n' Ghosts                       
+147    2      Dragon Ninja                            
+147    3      Death Star                              
+148    1      Street Side Soccer                      
+148    2      Boulderdash 6                           
+148    3      Spaceblitz                              
+149    1      Captain Blood                           
+149    2      Robbers Of The Lost Tomb                
+149    3      Duck Shoot                              
+149    4      Painterboy                              
+149    5      Bizy Beez                               
+150    1      Tai-pan                                 
+150    2      Hexpert                                 
+150    3      Sumo Wrestlers                          
+151    1      Dan Dare                                
+151    2      Cops & Robbers                          
+151    3      Asteroid Lander                         
+151    4      Astroblitz                              
+151    5      World Cup Carnival                      
+151    6      Swat                                    
+151    7      Moon Patrol                             
+151    8      Hat Trick                               
+151    9      Red Arrows                              
+152    1      International Karate +                  
+152    2      Trans-europa Bv                         
+152    3      Forced Encounter                        
+152    4      Toverslot                               
+152    5      Cave Kooks                              
+152    6      1994                                    
+152    7      C'est La Vie                            
+152    8      Icicle Works                            
+152    9      Hawkmen Of Dendrin                      
+153    1      Mediator                                
+153    2      A Fistful Of Bucks                      
+153    3      Aquaplane                               
+153    4      Loco                                    
+153    5      Gateway To Apshai                       
+153    6      Hitchhikers Guide                       
+153    7      Red De Aarde                            
+153    8      Breakout C. Kit                         
+153    9      Jukebox                                 
+154    1      Highlander 1                            
+154    2      Highlander 2                            
+154    3      Highlander 3                            
+154    4      Adventure 2                             
+154    5      Spring Vogel                            
+154    6      Adventure 1                             
+154    7      Defender                                
+155    1      Time Trax                               
+155    2      Transmat                                
+155    3      Mr. Frosty                              
+155    4      Kosmokobus                              
+155    5      The Heist                               
+155    6      Stranded                                
+155    7      Osmium                                  
+155    8      Voodoo Castle                           
+155    9      Castle Dungeon                          
+156    1      Elektrix                                
+156    2      Lethal                                  
+156    3      Eric The Viking                         
+156    4      Richthofen's Revenge                    
+156    5      Blitz                                   
+156    6      Planet Attack                           
+156    7      Boulderdash Cs                          
+156    8      Wavy Navy                               
+156    9      Space Mates                             
+157    1      Thunderblade 1                          
+157    2      Thunderblade 2                          
+157    3      Balletje Deluxe                         
+157    4      Medeklinkers                            
+157    5      Roundabout                              
+157    6      Crazy Kong                              
+157    7      Centipede                               
+157    8      Halycon                                 
+157    9      Castle Of Doom                          
+158    1      Airline                                 
+158    2      Tank Duel                               
+158    3      Othello                                 
+158    4      Battle Island                           
+158    5      Wibstars                                
+158    6      Anoria 2                                
+158    7      Mr. Tnt                                 
+159    1      Usagi Yojimbo                           
+159    2      Mega Apocalypse                         
+159    3      Galaxions                               
+159    4      E.t.                                    
+159    5      Marauder                                
+160    1      Spooks!                                 
+160    2      Canyons Of Zelaz                        
+160    3      Daley Thompson's Super Test             
+160    4      Space Harrier                           
+160    5      Adventure No. 8                         
+161    1      Finders Keepers                         
+161    2      Crash                                   
+161    3      Mission Assault                         
+161    4      Zyron                                   
+161    5      Boulderdash 11                          
+162    1      Clever And Smart                        
+162    2      Mangrove                                
+162    3      Pin Table                               
+162    4      Houston                                 
+162    5      Head Over Heels                         
+162    6      Star Soldier                            
+162    7      Cia Agent 009                           
+163    1      Bozos Night Out                         
+163    2      Vortex                                  
+163    3      Skydiver                                
+163    4      Nuclear Reaction                        
+163    5      Marble Secret                           
+163    6      Hypa-ball                               
+163    7      Fungus                                  
+164    1      Bugsy 1                                 
+164    2      Bugsy 2                                 
+164    3      Crazy Climber                           
+164    4      Fraction Fever                          
+164    5      Moon                                    
+164    6      Sigma 7                                 
+164    7      Silicon Warrior                         
+165    1      Monty Mole                              
+165    2      Lightsaver                              
+165    3      Wumpus 2                                
+165    4      B1 Bomber                               
+165    5      Firelord                                
+165    6      Emerald Isle                            
+165    7      L-test                                  
+166    1      Lightforce                              
+166    2      Ape Craze                               
+166    3      Galaxian                                
+166    4      Squish 'em                              
+166    5      Seas Of Blood                           
+166    6      Avenger                                 
+166    7      Agent Orange                            
+167    1      Mutants                                 
+167    2      American Cup Sailing                    
+167    3      Bounty Bob Strikes Back                 
+167    4      Battle Ships                            
+167    5      Boulderdash 9                           
+168    1      Gary Linneker Super Skills              
+168    2      Bombo                                   
+168    3      The Bomb                                
+168    4      Starglider                              
+168    5      Bmx Stunts                              
+169    1      Airwolf 2                               
+169    2      The Force                               
+169    3      Iridis Alpha                            
+169    4      Space Ace                               
+169    5      Gangbusters                             
+170    1      Jailbreak                               
+170    2      Ransom The King                         
+170    3      The Color Of Magic                      
+170    4      Atv Simulator                           
+170    5      Nacl                                    
+171    1      Raid 2000                               
+171    2      Int. Hockey                             
+171    3      Gunstar                                 
+171    4      Iball                                   
+171    5      Alien                                   
+172    1      Bobby Bearing                           
+172    2      Max Torque                              
+172    3      Super Droud                             
+172    4      Ballistix                               
+172    5      Endless                                 
+173    1      Billy The Postman                       
+173    2      Showjumper                              
+173    3      Nam Rescue                              
+173    4      War Play                                
+173    5      Enter The Ninja                         
+174    1      Erebus                                  
+174    2      De Grotten Van Oberon                   
+174    3      Archipalego                             
+174    4      Auto Mania                              
+174    5      Attack Of The Mutant Camels             
+174    6      Frost Byte                              
+174    7      Pyramid Pete                            
+175    1      Black Thunder                           
+175    2      Evolution                               
+175    3      Zaga Mission                            
+175    4      Nightshade                              
+175    5      Taskmaster                              
+175    6      Chilly Willy                            
+175    7      Pinball Wizard                          
+176    1      On-cue                                  
+176    2      Reactor Run                             
+176    3      Journey Tce                             
+176    4      Web Dimension                           
+176    5      Johnny Reb 2                            
+176    6      Survivor                                
+176    7      King Tuts Tomb                          
+177    1      Crazy Commando                          
+177    2      Terra Cognita                           
+177    3      Humanoids                               
+177    4      Dare Devil Denis                        
+177    5      Buzzard Ramjets                         
+177    6      Glider Pilot                            
+177    7      Miner 2049                              
+178    1      Caverns Of Eriban                       
+178    2      Harvey Headbanger                       
+178    3      Galacto Honoris                         
+178    4      Streetmachine                           
+178    5      Waterline                               
+178    6      Cosmic Tunnels                          
+178    7      Astro Blaster                           
+179    1      Sanxion                                 
+179    2      Lady Tut                                
+179    3      Football Strategy                       
+179    4      Nexus                                   
+179    5      Sailing                                 
+180    1      Bubble Bobble                           
+180    2      Skyraider                               
+180    3      Up And Down                             
+180    4      Time Fighter                            
+180    5      Meanstreak                              
+181    1      Mean City                               
+181    2      Zeppelin Rescue                         
+181    3      Anter-planter                           
+181    4      Inside Outing                           
+181    5      Firetrap                                
+182    1      The Living Daylights                    
+182    2      Pacman                                  
+182    3      Boulderdash 8                           
+182    4      Rollerboard                             
+182    5      Deliverance                             
+183    1      Druid 2                                 
+183    2      Tank War Cs                             
+183    3      Crystals Of Zong                        
+183    4      Grange Hill                             
+183    5      Rolling Thunder                         
+184    1      Moonshadow                              
+184    2      Actionauts                              
+184    3      Ping Pong                               
+184    4      Firefly                                 
+184    5      Triaxos                                 
+185    1      Exploding Fist 2                        
+185    2      Knotie In Cave                          
+185    3      Chopper                                 
+185    4      G.u.t.z                                 
+185    5      Trantor                                 
+186    1      Dream Warrior                           
+186    2      Quintana Roo                            
+186    3      Battleship                              
+186    4      Mad Balls                               
+186    5      Kat Trap                                
+187    1      Federation                              
+187    2      Gyroscope Cs                            
+187    3      True Spit                               
+187    4      Yogi Bear                               
+187    5      Gridiron                                
+188    1      Zone Z                                  
+188    2      Run 4 The Money                         
+188    3      Tylers Dungeon                          
+188    4      Quedex                                  
+188    5      Subterranea                             
+189    1      Handball Maradona                       
+189    2      Auriga                                  
+189    3      Spitball                                
+189    4      Black Magic                             
+189    5      Strike!                                 
+190    1      Isnogud                                 
+190    2      Ossidokid                               
+190    3      Motormania                              
+190    4      Fernandez Must Die!                     
+190    5      Beat-it                                 
+191    1      Bombjack                                
+191    2      Motocross                               
+191    3      Lemonade Stand                          
+191    4      Zig Zag                                 
+191    5      Thru The Trapdoor                       
+192    1      Fire Track                              
+192    2      Wix-wax
+192    3      Mad Party Fucker                        
+192    4      Wonderboy                               
+192    5      Hoppin' Mad                             
+193    1      Morpheus                                
+193    2      Mrs Mop                                 
+193    3      Metroblitz                              
+193    4      R.i.s.k.                                
+193    5      Sorcery                                 
+194    1      Action Force                            
+194    2      Street Surfer                           
+194    3      Alley Oops                              
+194    4      Intensity                               
+194    5      Rampage                                 
+195    1      Bonecruncher                            
+195    2      Deflektor                               
+195    3      Bangers And Mash                        
+195    4      10th Frame                              
+195    5      Lazer-force                             
+196    1      Talladega                               
+196    2      Scuba Dive                              
+196    3      Breakthru In 3d                         
+196    4      The Pain                                
+196    5      Diablo                                  
+196    6      Lifeforce                               
+196    7      Mind Control                            
+197    1      Superman                                
+197    2      Star Trader                             
+197    3      Tunnel Vision                           
+197    4      Cholo                                   
+197    5      Arena                                   
+198    1      On-court Tennis                         
+198    2      The Tube                                
+198    3      Coney Island                            
+198    4      Treasure Island                         
+198    5      Gundogs                                 
+199    1      Revenge Of The Mutant Camels            
+199    2      Skate Crazy                             
+199    3      Mr. Weems                               
+199    4      Stinger                                 
+199    5      Tanium                                  
+200    1      Fred                                    
+200    2      Jupiter Lander                          
+200    3      Bumping Buggies                         
+200    4      Thundercross                            
+200    5      Video Meanies                           
+200    6      The 5th Quadrant                        
+200    7      Big Mac                                 
+201    1      Dinky Doo                               
+201    2      The Final Conquest                      
+201    3      Recon                                   
+201    4      Topper The Copper                       
+201    5      Solomons Key                            
+201    6      Cybotron                                
+201    7      Deep Space                              
+202    1      Ace Of Aces                             
+202    2      Rupert & The Toymaker's Party           
+202    3      Hades                                   
+202    4      Hypercircuit                            
+202    5      Room Ten                                
+203    1      Microprose Soccer                       
+203    2      Microprose 6-a-side                     
+203    3      Bruce Lee                               
+203    4      Gammaron                                
+203    5      Devil's Wheel                           
+204    1      Death Star Interceptor                  
+204    2      Tropical Fever                          
+204    3      Tooth Invaders                          
+204    4      Kokotoni Wilf                           
+204    5      Battle Of Britain                       
+204    6      Skyjet                                  
+204    7      Rattler                                 
+205    1      Spitfire Ace                            
+205    2      Lands Of Havoc                          
+205    3      Ambush                                  
+205    4      Dynamite Skier                          
+205    5      Suicide Strike                          
+205    6      Dangermouse 2                           
+205    7      Golf 64                                 
+205    8      Park Patrol                             
+205    9      Zodiac                                  
+206    1      Operation Wolf                          
+206    2      Ghosts 'n Goblins                       
+206    3      Tetrys                                  
+206    4      4 Times Reflex                          
+206    5      Duizenden                               
+206    6      G-force                                 
+206    7      Atf                                     
+207    1      Anarchy                                 
+207    2      Jungle Jack                             
+207    3      Wetpaint                                
+207    4      3d Pacman                               
+207    5      Gridder                                 
+207    6      W.a.r                                   
+207    7      Alien                                   
+208    1      Trivial Pursuit                         
+208    2      Siege                                   
+208    3      Arrow                                   
+208    4      Laserstrike                             
+208    5      Grave Robbers                           
+208    6      Wicked                                  
+208    7      180                                     
+209    1      Wild West Seymour                       
+209    2      Trooper Trucker                         
+209    3      Block Blaster                           
+209    4      Wacky Stories                           
+209    5      Sub Hunt 64                             
+209    6      Ufo                                     
+209    7      Alcazar                                 
+210    1      Treasure Island                         
+210    2      Kongo Kong                              
+210    3      Jetpac                                  
+210    4      Cosmic Commando                         
+210    5      Rootin' Tootin'                         
+210    6      Turbo Esprit                            
+210    7      20 Tons                                 
+211    1      Alloyrun                                
+211    2      Time Wagon                              
+211    3      Temple Of Terror                        
+211    4      Liverpool                               
+211    5      Warp                                    
+212    1      The Afterworld                          
+212    2      Wizard's Castle                         
+212    3      Aquanaut                                
+212    4      Arachne                                 
+212    5      Trollie Wallie                          
+213    1      Topgun                                  
+213    2      Jackpot 64                              
+213    3      Acidrunner                              
+213    4      Infodroid                               
+213    5      45                                      
+214    1      Last Mission                            
+214    2      Invaders 64                             
+214    3      Seahorses                               
+214    4      Battlezone                              
+214    5      Collapse                                
+214    6      Wcs Boxing Manager                      
+214    7      Jetski Simulator                        
+215    1      Aftermath                               
+215    2      The Caves                               
+215    3      Adventure 1                             
+215    4      Apple Frenzy                            
+215    5      Ducks Ahoy!                             
+215    6      3d Soccer                               
+215    7      Arcade Flight Simulator                 
+216    1      Thanatos                                
+216    2      Falcon Patrol                           
+216    3      Wega Station                            
+216    4      Neptune's Daughters                     
+216    5      Underground Adventure                   
+216    6      American Tagteam Wrestling              
+216    7      Araknifoe                               
+217    1      Netherworld                             
+217    2      Astro Mania                             
+217    3      Shamus Case Ii                          
+217    4      Mr. Wimpy                               
+217    5      Arena Football                          
+217    6      Aspar Gp Master                         
+217    7      Amazon                                  
+218    1      American 3d Pool                        
+218    2      Mountain King                           
+218    3      Booty                                   
+218    4      Abrasco Golf                            
+218    5      Omicorn                                 
+218    6      Warhawk                                 
+218    7      Whirlinurd                              
+219    1      Roger Rabbit Side 1                     
+220    1      Roger Rabbit Side 2                     
+220    2      Connect Four                            
+220    3      Gribbly's Day Out                       
+221    1      Indoor Sports                           
+222    1      Bangkok Knights                         
+223    1      Street Sports Basketball                
+224    1      The Last Ninja Side 1                   
+224    2      Rastan                                  
+224    3      Roulette                                
+225    1      The Last Ninja Side 2                   
+226    1      Bionic Commando                         
+227    1      Savage Part 1                           
+227    2      Savage Part 2                           
+227    3      Savage Part 3                           
+227    4      Chomperman                              
+227    5      Assault Course                          
+228    1      Double Dragon 2                         
+229    1      Robocop                                 
+230    1      Freddy Hardest Part 1                   
+230    2      Freddy Hardest Part 2                   
+230    3      Bmx Kidz                                
+230    4      Kermit                                  
+230    5      Terminator                              
+231    1      Combat School                           
+231    2      Moondust                                
+231    3      Dicky's Diamonds                        
+232    1      Summer Games 1                          
+232    2      Pesky Painter                           
+232    3      Xeno                                    
+233    1      Thunderchopper                          
+233    2      Hyperforce                              
+233    3      Shockway Rider                          
+234    1      Card Sharks                             
+234    2      Pink Panther                            
+234    3      Andy Capp                               
+235    1      Target Renegade                         
+235    2      Sun Star                                
+235    3      All-american Basketball                 
+236    1      Daley Thompson's Ol. Chall. Side 1      
+236    2      House Of Usher                          
+236    3      Astro Pilot                             
+236    4      Jeepers Creepers                        
+236    5      Ultimate Combat Mission                 
+237    1      Daley Thompson's Ol. Chall. Side 2      
+237    2      Crillion                                
+237    3      Gunstar                                 
+238    1      Roller Coaster Rumbler                  
+238    2      Little Kat's Maze                       
+238    3      1944                                    
+238    4      Compunet Saga                           
+238    5      Footballer Of The Year 2                
+239    1      Gothik                                  
+239    2      Ms. Pacman                              
+239    3      Solo Flight                             
+239    4      Wizball                                 
+239    5      Velnor's Lair                           
+240    1      Batman Part 1                           
+240    2      Batman Part 2                           
+240    3      Angleball                               
+240    4      Earth Warrior                           
+240    5      Dan Dare 2                              
+241    1      Turrican 2 Side 1                       
+242    1      Turrican 2 Side 2                       
+242    2      Vixen                                   
+242    3      Acia & Jungle Patrol                    
+243    1      Beverly Hills Cop                       
+244    1      Winter Games Side 1                     
+244    2      Sex Puzzle                              
+244    3      Aircop 2000                             
+245    1      Winter Games Side 2                     
+245    2      Viper                                   
+245    3      Wallie Goes To Rhymeland                
+246    1      Rainbow Islands                         
+246    2      Rekenwonder                             
+246    3      Brainwave                               
+247    1      Slam-dunk                               
+247    2      Cave Climber                            
+247    3      Ant Attack                              
+248    1      Giana Sisters 2                         
+248    2      Invade A Load                           
+248    3      Quasimodo                               
+249    1      Tiger Road                              
+249    2      Zenji                                   
+249    3      Hercules                                
+250    1      The Train                               
+250    2      Mooncrises 1999                         
+250    3      Deathscape                              
+251    1      Flying Shark                            
+251    2      Lonely Rider                            
+251    3      Bushido                                 
+252    1      Raid On Bungeling Bay                   
+252    2      Tetris                                  
+252    3      Mercenary                               
+253    1      Roadblasters                            
+253    2      Laurel And Hardy                        
+253    3      Bounces                                 
+254    1      Yie Ar Kung-fu                          
+254    2      Zodia                                   
+254    3      Jet-boot Jack                           
+254    4      Cybernoid 2                             
+254    5      Zauberland                              
+255    1      Seymour At The Movies                   
+255    2      3d Pool                                 
+255    3      Boom                                    
+255    4      Spiderbot                               
+255    5      Wheelin' Wallie                         
+256    1      Valkyrie 17                             
+256    2      Ad Infinitum                            
+256    3      Jet Set Willy                           
+256    4      Super Robin Hood                        
+256    5      Teacher Busters                         
+257    1      Crystal Kingdom Dizzy                   
+257    2      Dizzy Prince Of The Yolk-folk           
+257    3      Treasure Island Dizzy                   
+257    4      Panic Dizzy                             
+257    5      Cosmic Split                            
+258    1      Dizzy Down The Rapids                   
+258    2      Bubble Dizzy                            
+258    3      Reckless Rufus                          
+258    4      Caterpillar                             
+258    5      Spiky Harold                            
+259    1      Cyberdyne Warrior                       
+259    2      Cosmic Pirate                           
+259    3      C.i.a. Adventure                        
+259    4      Centripod                               
+259    5      Cyborg 2900                             
+260    1      Double Take                             
+260    2      Druids Moon                             
+260    3      Cross Racer                             
+260    4      Dr. Watt                                
+260    5      Cruel Zone                              
+261    1      Rigel's Revenge                         
+261    2      Bouncing Heads                          
+261    3      Knockout                                
+261    4      Mine Zone                               
+261    5      Baby Of Can Guru                        
+262    1      Crackers Revenge 2                      
+262    2      Return Of The Jedi                      
+262    3      Confuzion                               
+262    4      Concorde Landing Simulator              
+262    5      Pharaohs Curse                          
+263    1      Yie Ar Kung-fu 2                        
+263    2      Emlyn Hughes Soccer                     
+263    3      Chickin Chase                           
+263    4      Hells Bells                             
+263    5      Radius                                  
+264    1      Bounder                                 
+264    2      Cue Boy                                 
+264    3      Cave Fighter                            
+264    4      Darts                                   
+264    5      Tiger Mission                           
+265    1      Stormlord                               
+265    2      Empire                                  
+265    3      Captain Cactus                          
+265    4      Hustler                                 
+265    5      Hotpop!                                 
+266    1      Battle Valley                           
+266    2      Strippoker 2                            
+266    3      Defcom                                  
+266    4      Hellgate                                
+266    5      Starquake                               
+267    1      Zzzzzz                                  
+267    2      Dandy                                   
+267    3      The Dater                               
+267    4      Cybermen                                
+267    5      Destruct                                
+268    1      Strike Force Cobra                      
+268    2      Crime And Punishment                    
+268    3      Cross It                                
+268    4      Head On                                 
+268    5      Slapshot 2                              
+269    1      Bouncer                                 
+269    2      Compare                                 
+269    3      Coinquest                               
+269    4      Cricket International                   
+269    5      Secret Of Kublaih                       
+269    6      Tau-ceti                                
+269    7      Power Drift                             
+270    1      Crucible                                
+270    2      Cavelon 2                               
+270    3      Casino King                             
+270    4      Tournament Snooker                      
+270    5      Campaign Manager                        
+270    6      Stuntman Seymour                        
+270    7      Speedball                               
+271    1      Energy Warrior                          
+271    2      D.n.a. Warrior                          
+271    3      Delta 2 (vietnam)                       
+271    4      Panic 64                                
+271    5      Skull                                   
+272    1      Double Trouble                          
+272    2      Venom Strikes Back                      
+272    3      The Empire Strikes Back                 
+272    4      The Pit                                 
+272    5      Maze Mania                              
+273    1      Cybernoid                               
+273    2      Krakout Professional 2                  
+273    3      The Spy Who Loved Me                    
+273    4      Moonraid                                
+273    5      Quovadis                                
+274    1      Breakdown                               
+274    2      Escape From Zol                         
+274    3      Romulus                                 
+274    4      Cuddly Cuburt                           
+274    5      New On-court Tennis                     
+275    1      Ditris                                  
+275    2      Arkanoid 2                              
+275    3      Dark Side                               
+275    4      Castle Quest                            
+275    5      Kromazone                               
+276    1      Master Of Magic                         
+276    2      Border's Cricket                        
+276    3      Knucklebusters                          
+276    4      Merlin                                  
+276    5      Gremlins                                
+277    1      How To Be A Complete Bastard            
+277    2      Cosmonut                                
+277    3      Crazy Coaster                           
+277    4      Armageddon Man                          
+277    5      Star Commando                           
+278    1      Doughboy                                
+278    2      Hades Nebula                            
+278    3      Miami Dice                              
+278    4      Mutant Spiders                          
+278    5      Crystalcave                             
+278    6      Murder                                  
+278    7      Double Break-out                        
+279    1      Rescue On Fractalus                     
+279    2      Star Slayer                             
+279    3      Crazy Cars                              
+279    4      Dark Dungeons                           
+279    5      X-15 Alpha Mission                      
+280    1      Citadel                                 
+280    2      Frantic Freddie                         
+280    3      Bmx Simulator 2                         
+280    4      Headache                                
+280    5      Armada                                  
+281    1      After The War Part 1                    
+281    2      After The War Part 2                    
+281    3      Denarius                                
+281    4      Roadwars                                
+281    5      Nebraska Joe                            
+282    1      Big Sleaze Part 1                       
+282    2      Big Sleaze Part 2                       
+282    3      Big Sleaze Part 3                       
+282    4      Skiman                                  
+282    5      Rick Dangerous                          
+283    1      Frightmare                              
+283    2      Super Monaco Grand Prix                 
+283    3      Ball Fever                              
+283    4      Bowling!                                
+283    5      Fire One                                
+284    1      Judge Dredd                             
+284    2      Bombuzal                                
+284    3      Masters Of The Universe                 
+284    4      Yahtzee                                 
+284    5      Dizzy Dice                              
+285    1      Batty                                   
+285    2      Wacky Darts                             
+285    3      License To Kill                         
+285    4      Vicgammon                               
+285    5      Magnetron                               
+286    1      Daley Thompson's Decathlon              
+286    2      Simulgolf                               
+286    3      Poltergeist                             
+286    4      Pyramid                                 
+286    5      Bravestarr                              
+287    1      Iball 2                                 
+287    2      Super Cars                              
+287    3      Kgb Agent                               
+287    4      Chuckie Egg                             
+287    5      Manic Miner                             
+288    1      Brian Bloodaxe                          
+288    2      Live And Let Die                        
+288    3      Pac-mania                               
+288    4      Knockout                                
+288    5      Bmx Simulator 2 Expert                  
+289    1      Boing                                   
+289    2      Mission Impossibubble                   
+289    3      Head The Ball                           
+289    4      Darth Vader                             
+289    5      Heartland                               
+290    1      Dan Dare 3                              
+290    2      720 Part 2                              
+290    3      Championship Sprint                     
+290    4      Mutant Monty                            
+290    5      Cubin                                   
+291    1      Mighty Bombjack                         
+291    2      Psycho Soldier                          
+291    3      E-motion                                
+291    4      Bomb Fusion                             
+291    5      Starball                                
+292    1      Cranmore Diamond Caper                  
+292    2      Die Pyramide                            
+292    3      Mario Bros 2                            
+292    4      Balakon Raider                          
+292    5      The Scrolls Of Abadon                   
+293    1      Knight Games 2 Part 1                   
+293    2      Knight Games 2 Part 2                   
+293    3      Knight Games 2 Part 3                   
+293    4      Donald The Hero                         
+293    5      Creators Revenge                        
+294    1      Thunderblade                            
+294    2      Super Boulderdash                       
+294    3      Beyond The Ice Palace                   
+295    1      Falcon                                  
+295    2      Fighting Warrior                        
+295    3      Carry On Laughing                       
+295    4      Pinball Construction Set                
+295    5      Space Racer                             
+296    1      De Sekte                                
+296    2      Krakout 3                               
+296    3      Krakout 4                               
+296    4      Rescue Squad                            
+296    5      Count Duckula                           
+297    1      Great Courts                            
+297    2      Dynamix                                 
+297    3      Bandana City                            
+297    4      Mr. Dig                                 
+297    5      Captain Kidd                            
+297    6      Star Trek Tcg                           
+297    7      Dizasterblaster                         
+298    1      Die! Alien Slime                        
+298    2      Kamikaze                                
+298    3      Artic Hunt                              
+298    4      Mountain Bike Racer                     
+298    5      Crillion 2                              
+299    1      Cardrian Games                          
+299    2      Desert Hawk                             
+299    3      Hi Bouncer                              
+299    4      Duel                                    
+299    5      Bounce It                               
+299    6      Encounter                               
+299    7      Flip Flop                               
+300    1      Ark Pandora                             
+300    2      Arcade Classics                         
+300    3      Sheep In Space                          
+300    4      D-bug                                   
+300    5      Cyberball                               
+301    1      Knight Games                            
+302    1      Knight Games Side 2                     
+302    2      Frank Bruno's Boxing                    
+302    3      1985                                    
+303    1      International Team Sports               
+303    2      Bathtime                                
+303    3      Tegen Aanval                            
+304    1      Beach-head 2                            
+304    2      Hunter Patrol                           
+304    3      Starfire                                
+305    1      Alice In Videoland                      
+305    2      Geebee Air Rally                        
+305    3      Subsunk                                 
+306    1      Gates Of Dawn                           
+306    2      Gyroscope 4                             
+306    3      Chameleon                               
+306    4      Dimensione X                            
+306    5      Bounce                                  
+307    1      Hunchback 3 The Adventure               
+307    2      Sherlock                                
+307    3      Journey                                 
+307    4      Crackers Revenge 4                      
+307    5      Spindizzy                               
+308    1      Minute Magic                            
+308    2      Meta-pin                                
+308    3      Stack Em Up                             
+308    4      Helikopter Jagd                         
+308    5      Colors                                  
+308    6      Saloon Poker                            
+308    7      Big Ben                                 
+309    1      Hyper Sports                            
+309    2      Herbert's Dummy Run                     
+309    3      Kentilla                                
+309    4      The Happiest Days Of Your Life          
+309    5      Horace Goes Skiing                      
+310    1      Flintstones                             
+310    2      Battle Of The Planets                   
+310    3      Geodestruct                             
+310    4      Super Mario Brothers                    
+310    5      Floyd The Droid                         
+311    1      The Quest For The Holy Grail            
+311    2      Glider Rider                            
+311    3      Pyramid Puzzle                          
+311    4      Computer Scrabble                       
+311    5      Zoom                                    
+312    1      Karateka                                
+313    1      Highway Encounter                       
+313    2      Macadam Bumper                          
+313    3      Bugblaster                              
+313    4      Bmx                                     
+313    5      Labirinto                               
+313    6      Annals Of Rome                          
+313    7      Havoc                                   
+314    1      Strangeloop                             
+314    2      Robobolt                                
+314    3      Mastertronic Volleyball                 
+314    4      Delta Fighter                           
+314    5      Bmx Trials                              
+315    1      Gato                                    
+316    1      Jumpman                                 
+316    2      Stargate                                
+316    3      Chuckie Egg 2                           
+317    1      Spelunker                               
+317    2      The Sport Of Kings                      
+317    3      Phm Pegasus                             
+318    1      Realm Of Impossibility                  
+318    2      Pac Runner                              
+318    3      Ronald Rubberduck                       
+318    4      Buzoff!                                 
+318    5      The Inheritance                         
+319    1      The Prodigy                             
+319    2      Cuthbert In The Tombs                   
+319    3      Milk Race                               
+319    4      Cadcam Warrior                          
+319    5      Wordsearch                              
+320    1      Shanghai                                
+320    2      Critical Mass                           
+320    3      In Den Beginne                          
+320    4      Elidon                                  
+320    5      Blockbusters                            
+321    1      Chess                                   
+321    2      Combat Lynx                             
+321    3      The Gladiator                           
+321    4      Melonmania                              
+321    5      Boulderdash 10                          
+322    1      Bounder                                 
+322    2      Break Street                            
+322    3      Colony                                  
+322    4      Compare 2                               
+322    5      Ciphoid 9                               
+323    1      Eureka!                                 
+323    2      Cricket Captain                         
+323    3      Basketmaster                            
+323    4      Rockford                                
+323    5      Gringos                                 
+323    6      Return Of The Space Warriors            
+323    7      Ardy The Aardvark                       
+324    1      Bongo                                   
+325    1      Back To The Future 3                    
+326    1      Aliens                                  
+327    1      Salamander                              
+328    1      Turbo Outrun Side 1                     
+329    1      Turbo Outrun Side 2                     
+330    1      Defender Of The Crown Side 1            
+331    1      Defender Of The Crown Side 2            
+332    1      Katakis Side 1                          
+333    1      Katakis Side 2                          
+334    1      Skate Or Die Side 1                     
+335    1      Skate Or Die Side 2                     
+336    1      The Guild Of Thieves Side 1             
+337    1      The Guild Of Thieves Side 2             
+338    1      The Pawn Side 1                         
+339    1      The Pawn Side 2                         
+340    1      Grand Prix Circuit                      

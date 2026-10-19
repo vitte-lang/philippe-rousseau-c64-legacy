@@ -1,0 +1,478 @@
+****************************************************************************
+		   DOCUMENTATION FOR CCS64 V1.09 SHAREWARE
+		   (C) 1997 PER HÅKAN SUNDELL
+		   (C) 1997 COMPUTERBRAINS
+		   All rights reserved. 19 October 1997
+****************************************************************************
+
+COPYRIGHT
+---------
+This version is shareware.
+
+
+DISCLAIMER
+----------
+
+  The installation and use of this product is done completely under your own
+responsibility. Under no circumstances should the producers of this product
+be held responsible for any damages or costs, that this product in any way
+could cause you or your equipment.
+
+
+INTRODUCTION
+------------
+
+  Welcome to the world of CCS64. This a software emulator for the
+Commodore 64 computer. You may say this is not the first program trying
+to emulate the C64. But this is planned to be the finale C64 emulator. I
+have worked in several years with this product, studying the C64 into its
+innermost secrets. This shareware version should run perfectly with all
+games or demos, even those using the 1541 disk drive.
+
+REGISTRATION
+------------
+
+  As this is SHAREWARE, if you like and use this program you are supposed
+to register it. Of course you then will get a registered version of this
+program with additional features and bonuses. At the moment the register fee
+is 30 USD, or equal amount in GBP,DEM or SEK. Credit cards or CHEQUES can NOT
+be used. Please consult your local post office or bank for proper ways of
+sending money to Sweden.
+
+  To register you send a international postal money order or cash money,
+together with your name, address and/or e-mail to:
+
+  Per H†kan Sundell
+  Sundell Consulting
+  Nygatan 5A IV
+S-231 43 TRELLEBORG
+  SWEDEN
+
+  Or you can transfer the money directly to my bank account. Please pay via
+Eurogiro or SWIFT to our (Sundell Consulting) account number 607 85 52-4
+with Postgirot Bank AB (publ) S-105 06 Stockholm, Sweden.
+SWIFT address: PGSI SESS
+
+  Note that registered users are entitled to unlimited number of updates of
+CCS64 without any further costs. The product will be continously updated as
+long as there is any features or bugs to be fixed. This means that you could
+safely register now, even if some special feature is not ready yet, as you will
+not miss the update when that special feature is ready.
+
+
+SYSTEM REQUIREMENTS
+-------------------
+
+Minimum requirements:
+* Pentium processor or equal.
+* 8 Mb of internal memory.
+* VGA graphics.
+* DOS 5.0 or later.
+
+Additional support:
+* Soundblaster 8/16 or compatibles.
+* Gravis Ultrasound.
+* Windows 95.
+
+
+INFORMATION
+-----------
+
+The emulation of the C64 computer supports:
+
+* 99.9% 6510 CPU. All imaginable programs should work. The emulation of CPU
+  is cycle exact and considers all strange side-effects.
+
+* 99.9% 6567 VIC - PAL. All imaginable graphics modes and effect should work.
+  The emulation of VIC is pixel exact and considers all strange effects,
+  both known and unknown, as it emulates the inner workings of the VIC chip.
+
+* 6581 SID. Nearly 100% except for filters. The emulation of SID is cycle
+  exact and constructs fully synthetic samples in 8 or 16 bits resolution.
+
+* 99.9% 6526 CIAS. All features of the I/O circuits. The emulation of CIA is
+  cycle exact.
+
+* 99% Commodore 1541 Diskdrive. The emulation of 1541 is cycle exact.
+
+* C64 Keyboard. All keys including Restore.
+
+
+To make it easier to use the program supports:
+
+* Graphics output for VGA in resolutions 384x282,384x246,368x240 and 320x200.
+
+* Sound output for Soundblaster or Ultrasound in quality up to the maximum
+  the soundcard manages (45454 Hz in 16 bit).
+
+* 'Reset and Load' of one-parted programs in .PRG or .T64 file formats.
+
+* Screen snap-shot, saves an image of the whole current C64 screen
+  (504x312 pixels).
+
+* Joystick emulation, both with keys and real PC joysticks.
+
+* Options menu.
+
+* True tape emulation including turbotape and tape images (use originals on
+  tape). Sorry but for the true tape images, I am the only on able to create
+  them, as I use special hardware and program on my AMIGA computer.
+
+* Freeze function, to save or restore the status of the emulator. This feature
+  is under development so use with care...
+
+* Machine code monitor. This feature is under development so use with care...
+
+
+The registered version of the program will in near future (or already does)
+support:
+
+* Ability to actually save the currently used .D64 file that is used for
+1541 emulation. This enables you to save hiscores etc. from games that
+saves data to the 1541 diskdrive. *** This feature is ready ***
+
+* Create empty .D64 files. *** This feature is ready ***
+
+* Better options menu.
+
+* Making wave-files from C64 music. *** This feature is ready ***
+
+* Cartridge support.
+
+* Speed control. *** This feature is ready ***
+
+* Support for different file formats like LYNX and extended 1541.
+
+* Memory expansion unit REU 1750 (16Mb).
+
+* Commodore 1351 Mouse emulation.
+
+
+  The registered version is on the working stage and will be ready as fast
+as users register. Thus, more support from you gives better program.
+
+
+INSTRUCTIONS
+------------
+
+  To start the program from Windows, just double-click the C64 icon. If you
+want to run from DOS, change to correct directory and type CCS64. If you
+have any problems with running the program from Windows, then reboot and run
+the program from DOS instead.
+
+  To change the program preferences either use the program menu by pressing
+the key F9 from the program, or edit the C64.CFG file:
+
+  If you have any problems with the settings and want the factory default
+settings back, just delete C64.CFG file and it will be restored next time
+you run CCS64.
+
+  SCREENMODE=
+    1 - 320 horizontal pixels and 200 vertical lines Chained mode in 70 Hz.
+    2 - 368 horizontal pixels and 240 vertical lines Planar mode in 60 Hz.
+    3 - 384 horizontal pixels and 246 vertical lines Planar mode in 60 Hz.
+    4 - 384 horizontal pixels and 282 vertical lines Planar mode in 50 Hz.
+    5 - 384 horizontal pixels and 282 vertical lines Planar mode with Scanlines
+      in 60 Hz.
+    Note that the PAL Television standard is most like mode 4. If you change
+    to a mode that doesn't work (or look nice) on your equipment, immediately
+    (this is VERY important, or your equipment can be damaged) quit the
+    CCS64 program by pressing PAUSE or shut of the computer.
+
+  SOUNDENABLE=
+    YES - On.
+    NO - Off.
+
+  SAMPLEFREQ=
+    11111,22222,45454 etc. recommended on Soundblaster.
+    11025,22050,44100 etc. recommended on Ultrasound.
+    any other value (ex. 17923) if your soundcard can manage it.
+
+  SAMPLEBITS=
+    16 - Tries to use 16 bits samples, otherwise uses 8.
+    8 - 8 bits samples.
+
+  LOADPATH=
+    the path where you have your C64 games and demos.
+
+  RGBCOLOR0=
+  RGBCOLOR1=
+  ...
+  RGBCOLOR15=
+    the RGB color values that should be used for emulating the C64 colors.
+
+
+  To use PC joysticks you don't have to calibrate, just plug it in anytime.
+If you still have problems you have the possibility to calibrate in the menu.
+
+  The keyboard is emulated almost like a real C64 keyboard except for these
+keys:
+
+    PAUSE		= Exit CCS64.
+    F9			= Options menu.
+    F10			= Captures the interlaced screen as an image in 256
+			  colors (ccs??.bmp).
+    F11			= Restores a frozen emulator state.
+    F12			= Freezes (saves) the emulator state.
+    Print Screen 	= Captures the screen as an image (ccs??.bmp).
+    Scroll Lock		= Reinitialize screen mode. Sometime Windows
+			  manages to distort colors when switching between
+			  programs.
+    Left CTRL		= Commodore.
+    Escape		= Run/Stop.
+    Delete		= Arrow Up.
+    Insert		= Pound.
+    Home		= Clr/Home.
+    Page Up             = RESTORE. Observe that you must HIT this key like
+			  on a real C64! Hitting means holding down key for
+			  very short moment.
+
+  The default joystick emulation in keys is as follows:
+
+    C64 Joystick Port 1 -
+      Fire  - Right ALT (ALT GR)
+      Up    - Keypad %
+      Down  - Keypad 5
+      Left  - Keypad 7
+      Right - Keypad 9
+
+    C64 Joystick Port 2 -
+      Fire  - Right CTRL
+      Up    - Keypad 8
+      Down  - Keypad 2
+      Left  - Keypad 4
+      Right - Keypad 6
+
+  To use the Options menu press F9 and then use the cursor keys to select. Use
+  cursor right, space or enter to enter a choice. Use cursor left to go back to
+  the previous menu from a submenu. Use cursor up or down to change selection.
+  In a directory listing you could also use PageUp or PageDown to scroll faster
+  through the selections.
+
+  The MENU is organized as follows:
+
+  CONTINUE - Go back to C64 mode.
+  LOAD PROGRAM - Load a C64 program file, select a .D64 disk image or start a
+    Tape emulation session.
+  RESET C64 (HARD) - Reset the C64, as it would be turned off and on again.
+  RESET C64 (SOFT) - Reset the C64, as you would have a reset button.
+  CCSMON ON/OFF - Enable or disable the CCS-MON ROM cartridge emulation.
+  OPTIONS - A submenu of special options and features.
+  QUIT - Quits the CCS64 emulator.
+
+  The submenu OPTIONS is organized as follows:
+
+  SCREENMODE - A submenu where you could select a different resolution.
+  JOYSTICK - A submenu where you could select from different possible joystick
+    emulation combinations (real joystick and/or keyboard).
+  JOYSTICK CALIBRATION - A submenu where you could calibrate your joystick for
+    use with CCS64. Useful if you have problems with your PC joystick like not
+    responding to movement or going in the wrong direction.
+  C1541 ON/OFF - Enable or disable the Commodore 1541 diskdrive emulation.
+    Useful for some games that don't allow the C64 computer to be connected to
+    a 1541 diskdrive.
+*** Registered version only ! ***
+  SAVE CURRENT DISK - As the 1541 diskdrive emulation don't save directly to
+    the PC filesystem when you save something to device 8 from the C64 mode,
+    you have to force saving to PC with this selection. In this way you could
+    decide not to save for example hiscores or a adventure game state which you
+    don't like.
+*** Registered version only ! ***
+  SPEED 100% - This selection will allow you to change the maximum speed which
+    CCS64 will run in, compared to a real C64. To change the value, select this
+    selection and then use cursor left or right to increase or decrease the
+    value. When your satisfied, press cursor up or down.
+*** Registered version only ! ***
+  CREATE EMPTY DISK - This will create a new .D64 fileimage in the current
+    directory as the CCS64 package lies in. Nice if you're writing a program
+    and want to save it. Just select this option, and go back to C64 mode and
+    type SAVE "PRGRAMNAME",8 .
+*** Registered version only ! ***
+  SOUND SAMPLING START/STOP - This will create a new .WAV file in the current
+    directory as the CCS64 package lies in. After starting of this feature, all
+    sound output from the C64 will be saved to this file continously. Note that
+    this file will increase in size very quickly, and should therefore be used
+    with care so you won't run out of diskspace.
+
+  To actually start a program after 'Reset and Load' you have to type RUN
+  and pressing Enter. This is because 'Reset and Load' only loads the
+  program into C64's memory banks.
+
+  To change 1541 disk just select the .D64 file and enter its directory. Note
+  that you should not select 'Reset and Load', just press Escape to exit the
+  menu.
+
+  Note that when your sampling the C64's audio output to a .WAV file, the sample
+  rate and bit resolution will be the same as selected in the C64.CFG file.
+
+  Note that on a german keyboard, the keys Y and Z will have changed place when
+  using under CCS64.
+
+KNOWN PROBLEMS
+--------------
+
+  Sometimes special games on .D64 images will behave badly when you use
+the 'Reset and Load' feature. To solve this problems do like this.
+1). Reset the C64. 2). Enter menu and select the correct .D64 and enter its
+contents listing, but do not select a filename when the contents shows up,
+just go back to the main menu and select Continue. 3). From the BASIC type:
+LOAD"*",8,1
+
+  If you do not have a CD-ROM in your CD-drive or a disk in your diskdrive, the
+emulator will hang up if you select this device in the menu. So please, always
+be sure that you have a initialized (sometimes you have to wait some seconds
+after instering it) CD-ROM in your CD-drive before trying to use the CD device
+from the menu.
+
+  The option load as Turbo tape should only be used when you get a message like
+"PRESS PLAY ON TAPE" on your C64-screen, and you're shure about that the second
+part should be loaded as turbo tape. Otherwise nothing useful will happen.
+
+  Note that when you use 'Reset and Load' from the menu, the program will not
+be started directly, just loaded into memory. Please type RUN to actually start
+the program afterwards.
+
+  Some programs are made for the american version of C64 that supports the
+american TV system NTSC. As CCS64 only emulates the european C64 version that
+uses TV system PAL, those NTSC programs could behave badly with the emulator,
+just as they would on a real C64 PAL system.
+
+  Using the emulator under Windows with old and outdated sound drivers can
+sometimes cause the system to hang, or getting no sound at all. In these
+cases, run in DOS if possible.
+
+
+NOTES
+-----
+
+  The C64 roms is under copyright (C) by Commodore Business Machines. If you
+don't want these original roms you could replace the files KERNAL.ROM,
+BASIC.ROM and CHAR.ROM.
+
+
+CONTACT ADDRESS
+---------------
+
+  If you have any emulation problems or suggestions, that don't concern
+SID filters or NTSC, please contact me. Note that I get a lot of e-mail, so
+perhaps don't count on that I will reply to it. But of course I will read it.
+
+  e-mail: Hakan.Sundell@xpress.se
+
+  CCS64 homepage: http://www.fatal-design.com/ccs64
+
+  Note that these addresses can change within near future, and when so have
+happended you most certainly can find my new addresses by searching the
+Internet.
+
+
+CCS-MON
+-------
+
+  CCS-MON is a machine code monitor made for the C64 on a cartridge. CCS64
+support emulation of this cartridge. You should mainly use this cartridge
+when you want to look or enter something in a c64 program. It also includes
+a disk turbo, turbo tape and some other utilities.
+
+  Here is a list of the commands used in CCS-MON. The <xxxx>,<yyyy> etcetera
+means a memory address location in hexadecimal notation. Things in [] are
+optional and do not have to be given.
+
+  A <xxxx> <mnemonic>           - Assemble machine code at address xxxx.
+  B <xxxx>                      - Set Breakpoint (see Q,W commands) at xxxx.
+  C <xxxx> <yyyy> <zzzz>        - Compare the memory contents between addresses
+				xxxx to yyyy with the contents at zzzz and on.
+				If there are any differences these will be shown
+  D <xxxx> [<yyyy>]             - Disassemble the machine code instruction at
+				xxxx, and optional each succeeding lines until
+				yyyy.
+  E                             - Installs extended interrupt handlers at RAM
+				adresses FFE0-FFFF, so that tracing at normally
+				hidden RAM is possible.
+  F <xxxx> <yyyy> <zz>          - Fills the memory at xxxx to yyyy with the
+				byte zz.
+  G [<xxxx>]                    - Executes the machine code at the current PC
+				(see R command) or optional at adress xxxx.
+  H <xxxx> <yyyy> <zz> ...      - Hunts the memory at xxxx to yyyy for the
+				occurances of the byte sequence of one or more
+				bytes.
+  I <xxxx> [<yyyy>]             - Interpret the memory at xxxx to yyyy as
+				ASCII text.
+  L "filename" <zz> [<xxxx>]    - Loads a file from device zz into memory xxxx
+				or default address.
+  M <xxxx> [<yyyy>]             - Shows the memory contents at xxxx to yyyy.
+  O "command"                   - Output a command to the 1541 diskdrive.
+  Q [<xxxx>]                    - Quicktraces the machine code at the current
+				PC (see R command) or optional at adress xxxx.
+  R                             - Show the contents of the internal register
+				of the 6510 cpu.
+  S "filename" <zz> <xxxx> <yyyy>
+				- Saves a file from memory xxxx to yyyy, to
+				device zz.
+  T <xxxx> <yyyy> <zzzz>        - Copies the memory contents of xxxx to yyyy,
+				to zzzz and on.
+  W [<xxxx>]                    - Traces the machine code at the current
+				PC (see R command) or optional at adress xxxx.
+  X                             - Exit and enter BASIC.
+  XC                            - Exit and enter initialized BASIC.
+  XZ                            - Exit and enter initialized BASIC and screen.
+  @                             - Shows the status of the 1541 diskdrive.
+  *                             - Changes the contents of the 6510 memory bank
+				register to allow access to special RAM areas.
+
+  The following keys have special meanings in CCS-MON.
+
+  F1                            - Show the directory contents of the current
+				inserted 1541 disk.
+  F3                            - Alternative color set.
+  F5                            - Used with F1 to load the filename on the
+				current line.
+  F8                            - Clears all RAM at adressen 0800-FFFF.
+
+  The following keys have special meanings in CCS-MON when you do RESET and
+are holding down these.
+
+  Space                         - Copies the memory at adresses at 0000-07FF
+				to the RAM at D000-D7FF.
+
+  The following keys have special meanings in CCS-MON when you do RESET or
+hitting RESTORE and are holding down these.
+
+  Commodore                     - The same as the XZ command.
+
+
+TURBO TAPE
+----------
+
+  Some programs in two or more parts in a .T64 archive uses Turbo Tape to
+load the second Part. When the C64 shows a message on the screen like 'Press
+play on tape' you should enter the Menu and select the second (or another)
+filename in the archive and select 'Load as Turbo Tape'. Thereafter CCS64
+will behave like you would have a cassette player connected to your C64.
+
+
+TIPS AND TRICKS
+---------------
+
+  As the CCS-MON has built in 1541 disk-turbo, you could speed up the
+loading time on some games. Just enable CCS-MON and Reset the C64 while
+holding down the commodore key. Thereafter you select the correct .D64
+images, and the load the correct files with the BASIC load command,
+just like on a real C64.
+
+  If you have some problems with the configuration of CCS64, and want to go
+back to the default settings, just delete the C64.CFG file.
+
+FILENAMES
+---------
+
+  When you use the Screen-Shot function, the image will be saved as CCS0.BMP
+or CCS1.BMP,CCS2.BMP and so on.
+
+  When you create a new empty .D64 file, the image will be saved as CCS0.D64
+or CCS1.D64,CCS2.D64 and so on.
+
+  When you uses sound sampling the audio file will be saved as CCS0.WAV
+or CCS1.WAV,CCS2.WAV and so on.
+
+

@@ -1,0 +1,295 @@
+#######################################################################
+#   The High Voltage SID Collection (HVSC) Bugged Tunes List          #
+#   Maintained by Warren Pilkington <wazzaw@globalnet.co.uk>          #
+#   Last Updated Saturday 19 December 1998 - Version 4.01             #
+#######################################################################
+#                                                                     #
+# The purpose of this text document is to highlight all the tunes     #
+# that are still left in HVSC which have bugs in the data which       #
+# either send a tune out of synch, play a wrong note, or even worse,  #
+# crash Sidplay or a real C64.  It also gives you all the incomplete  # 
+# rips that are in HVSC.  Although the HVSC crew are an extremely     #
+# active and busy bunch of SID fans, there are occasions where some   #
+# of the older tunes in the collection have not been checked by the   #
+# original ripper before submitting to HVSC and so could have gone in #
+# with bugs.  We are doing all we can to eliminate this, but would    #
+# appreciate it if you could let me know of any bugged tunes you find.#
+#                                                                     #
+# If you are reporting a bugged tune that you have found in HVSC      #
+# that is not on the below list, please give the full HVSC filename   #
+# (inlcuding its path) and if concise but precise details of the      #
+# problem (see examples below for suitable format.)  The name in      #
+# brackets indicates who reported the bug and so you will be credited #
+# the same way if you happen to find one.                             #
+#                                                                     #
+# If you do manage to fix a bugged tune, please mail it to myself     #
+# with a description of what had to be done to fix it.                #
+#                                                                     #
+# Some of these tunes may also have been fixed which will appear in a #
+# future HVSC update.  Please mail me if you are unsure.              #
+#                                                                     #
+# Warren.                                                             #
+#######################################################################
+# Buglist Heroes (those who have been so kind to report them..)       #
+# (13) Petri Keränen <keebo@mbnet.fi>                                 #
+# ( 3) Kai Spitzley <heechee@mindless.com>                            #
+# ( 2) Reyn Ouwehand                                                  # 
+# ( 1) Yuri Fossaroli <yurif@mail.dex-net.com>                        #
+# ( 1) Patrick van der Poel <pvdpoel@tref.nl>                         #
+# ( 1) Scott Moran <smmoran@deakin.edu.au>                            #
+#######################################################################
+#################################
+# Bugged tunes as at Update #13 #
+################################# 
+
+/Bjerregaard_Johannes/Tiger_Mission.sid
+  BUG: Tune #1 is played along with all the sfx (#7-14)
+(Adam Lorentzon)
+
+/Clarke_Peter/Gunstar.sid
+  BUG: tunes (SFX) 1, 4 and 7 are silent.
+(Wilfred Bos)
+
+/Crowther_Anthony/Monty_Mole.sid
+  BUG: Incomplete rip.  Ingame tune missing.
+(Petri Keränen)
+
+/Daglish_Ben/Artura.sid
+  BUG: The music suddendly stops after 3:30 mins.
+(Already in STIL prior to list creation)
+
+/Daglish_Ben/Potty_Pigeon.sid
+  BUG: Incomplete rip.  Ingame tune and game over tune missing.
+(Petri Keränen)
+
+/Daglish_Ben/Zzap_64.sid   
+  BUG: Tune sounds bad around 3:15, which is when the tune should 
+       restart.
+(Laust Brock-Nannestad)
+
+/DEMOS/DBL_Falcon.sid
+  BUG: Tune falls continuously out of synch.
+(Adam Lorentzon)
+
+/DEMOS/Detect_Failure_Demo.sid
+  BUG: Voice #3 has the trademark Akira bugged drum sound.
+(The Shark)
+
+/Dunn_David/Advanced_Pinball_Simulator.sid
+(#1)
+  BUG: Tune is silent.
+(The Shark)
+
+/Dunn_David/High_Noon.sid
+  BUG: Incomplete rip.  It's missing two jingles.
+(Gabriele Priarone)
+
+/FAME/Fame_on_the_run.sid
+  BUG: Corrupt after 1:19 minutes. One voice sounds rubbish.
+(Wilfred Bos)
+
+/FAME/MDG_Intromusic.sid
+  BUG: After the first repeat of the tune the three voices go completely out
+       of sync.
+(LaLa)
+
+/FAME/X-Out.sid
+(#1)
+  BUG: Intro speech missing.  
+       (Kristoffer Johansson)
+       It has some faulty sounds at the 2:18 mark.
+       (Already in STIL prior to list creation)
+
+/Feekzoid/Classical.sid
+  BUG: Becomes distorted when looping (begining around 2:21)
+(The Shark)
+
+/Fitzpatrick_John/Mc_Guigans_Boxing.sid
+BUG: Incomplete rip.  Title tune and an ingame tune missing.
+(Petri Keränen)
+
+/Galway_Martin/Green_Beret.sid
+(#10)
+  BUG: Tune falls out of synch on restart.
+(The Shark)
+
+/Galway_Martin/Microprose_Soccer.sid
+  BUG: Incomplete rip.  This only has the music from the outdoor game, 
+       the jingles from the indoor game are missing.
+(Warren Pilkington)
+
+/Galway_Martin/Rolands_Ratrace.sid
+(#16)
+  BUG: Tune is silent.
+(The Shark)
+
+/Galway_Martin/Short_Circuit.sid
+(#2)
+  BUG: This tune plays much too fast and requires a speed fix.
+(Warren Pilkington)
+
+/GAMES/A-F/Archon.sid   
+  BUG: The tune goes out of synch at the end.
+(Already in STIL prior to list creation)
+
+/GAMES/A-F/Blackwyche.sid
+  BUG: Plays approximately 3x slower than it should.
+(LaLa)
+
+/GAMES/A-F/Break_Dance.sid
+  BUG: Incomplete rip.  Ingame tunes missing.
+(Adam Lorentzon)
+
+/GAMES/A-F/Donkey_Kong.sid
+  BUG: Incomplete rip.  Two ingame tunes missing.
+(Petri Keränen)
+
+/GAMES/A-F/Fire_Trap.sid
+  BUG: Incomplete rip, ingame tune missing.
+(Gabriele Priarone and Kai Spitzley)
+
+/GAMES/M-R/Pitfall_2.sid
+  BUG: Incomplete rip, at least two tunes are missing.
+(Laust Brock-Nannestad)
+
+/GAMES/M-R/Pogo_Joe.sid
+  BUG: Tune #1 is playing too fast.
+  BUG: Tunes #3 to #6 have bad sounds after 13 seconds.
+(Petri Keränen)
+
+/GAMES/M-R/Poster_Paster.sid
+  BUG: All tunes are played approximately 25-50% slower than they should.
+(LaLa)
+
+/GAMES/S-Z/Starquake.sid
+(#3)
+  BUG: Stops around 0:47.  Maybe the tune should end or fade?
+(Already in STIL prior to list creation)
+
+/GAMES/S-Z/Test_Drive.sid
+BUG: Incomplete rip.  At least three ingame tunes are missing.
+(Petri Keränen)
+
+/GAMES/S-Z/Wonderboy.sid
+  BUG: Tunes #1 and #16 are silent.
+(The Shark)
+
+/GAMES/S-Z/Zak_McKracken.sid
+  BUG: Incomplete rip.  Ingame tunes are missing.
+(Kai Spitzley)
+
+/Hubbard_Rob/Skate_Or_Die.sid
+  BUG: Incomplete rip.  Ingame tunes (most likely by Dave Warhol) are
+       missing.
+(Warren Pilkington)
+
+/Huelsbeck_Chris/Hard_n_Heavy.sid
+(#9)
+  BUG: Tune is silent.
+(Adam Lorentzon)
+
+/Joseph_Richard/Stifflip_and_Co.sid
+(#21)
+  BUG: After 38 seconds into the tune SIDPlay locks up with it.
+(LaLa)
+
+/Laxity/DNA_Warrior.sid
+  BUG: Tunes #1 to #5 have the same short sound at the start.
+       Possibly a bad init.
+(Adam Lorentzon)
+(#6)
+  BUG: Tune is silent.
+(The Shark)
+
+/Lords_of_Sonics/LOS-03.sid
+  BUG: Tune becomed corrupted around 2:10.
+(The Shark)
+
+/Lords_of_Sonics/Thelords.sid
+  BUG: At 0:28 there is short note in voice 1 that is wrong.
+(LaLa)
+
+/Ouwehand_Reyn/Falcon_Dump.sid
+  BUG: Towards the end it sounds as if one voice gets lost by mistake.
+(The Mage)
+
+/Soedesoft/Blobber.sid
+  BUG: Starting from 0:32 the tune is totally screwed up for 25-30 seconds.
+(LaLa)
+
+/Tel_Jeroen/Hawkeye_loader.sid
+  BUG: Except for tune #1, all tunes are missing the very first chord 
+       (arpeggio) and the bass (voice 1).
+(LaLa)
+
+/Tel_Jeroen/North_and_South.sid
+(#22)
+  BUG: This sound effect or music does not play correctly.  It may be
+       to do with the bankswitching.
+(Wilfred Bos) 
+
+/Toledo_Pablo/Budokan.sid
+BUG: Incomplete rip.  Two ingame tunes missing.
+(Petri Keränen)
+
+/VARIOUS/Deadman/Settlers-remix.sid
+  BUG: At about 1:41 secs into the music, a few wrong sounds are played.
+       They only last 3 seconds.
+(Gabriele Priarone)
+
+/VARIOUS/Deetsay/Competition-Tune.sid
+  BUG: 0:15 - voice #1 is bad.
+(The Shark)
+
+/VARIOUS/Gaston/Cubemagik_Ingame.sid
+  BUG: 1:20 - voice #1 goes bad.
+(The Shark)
+
+/VARIOUS/Gaston/Cubemagik_Ingame_4.sid
+  BUG: 1:22 - voice #1 goes bad.
+(The Shark)
+
+/VARIOUS/Gaston/Cubemagik_Intro.sid
+  BUG: 1:47 - voice #3 goes bad.
+(The Shark)
+
+/VARIOUS/Mitch_and_Dane/Maine.sid
+  BUG: Clicking in voice #2 around 0:10-0:20 and later in the tune.
+(Already in STIL prior to list creation)
+
+/VARIOUS/Scarlet/Galerya-Soundtrack.sid
+  BUG: 1:32 - voice #1 goes bad.
+(The Shark)
+
+/VARIOUS/Shavitt_Guy/Fruit_Stain.sid
+  BUG: Tune miskeys throughout.
+(Adam Lorentzon)
+
+/VARIOUS/Shavitt_Guy/Guy3.sid
+  BUG: From three minutes on, the voices fall out of sync.
+(Andreas Varga)
+
+/VARIOUS/SMC/Breakout.sid
+  BUG: 1:21 - voice #1 goes bad.
+(The Shark)
+
+/VARIOUS/SMC/Notemusic.sid
+  BUG: 1:54 - voice #1 goes bad.
+(The Shark)
+
+/VARIOUS/SMC/Pooh.sid
+  BUG: 2:56 - voice #1 goes bad.
+(The Shark)
+
+/VARIOUS/SMC/Pussycat.sid
+  BUG: 2:07 - voice #1 goes bad.
+(The Shark)
+
+/VARIOUS/Zardax/Zardax.sid
+  BUG: At 4:00, strange noises start playing.
+(The Shark)
+
+/Whittaker_David/Buffalo_Bills_Wild_West_Sh.sid
+  BUG: All the tunes loop incorrectly and fall out of synch on restart.
+(Already in STIL prior to list creation)
+
